@@ -1,0 +1,560 @@
+NIMI ALE
+SECTION 1A - WORDS IN PU
+
+a - 
+(modifier particle)
+1. emotion, emphasis, or confirmation
+
+akesi - 
+(content word)
+1. non-cute animal; reptile, amphibian
+
+ala - 
+(content word)
+1. no, not
+2. the amount 0
+
+alasa - 
+(content word)
+1. hunt, forage
+(preverb)
+2. try (indefinite) [2]
+
+ale - 
+(content word) {syn. ale}
+1. all, every, universe
+2. the amount 100
+
+ali - 
+(content word) {syn. ali}
+1. all, every, universe
+2. the amount 100
+
+anpa - 
+(content word)
+1. downward, lowly, dependent
+
+ante - 
+(content word)
+1. different, altered, changed, other
+
+anu - 
+(semi-conjunction)
+1. or
+(content word)
+2. choose, choice
+
+awen - 
+(content word)
+1. enduring, protected, safe, waiting, staying
+(preverb)
+2. to continue to
+
+e - 
+(particle)
+1. coming before the direct object
+
+en - 
+(particle)
+1. between muliple subjects
+
+esun - 
+(content word)
+1. transaction, purchase, market, shop
+
+ijo - 
+(content word)
+1. thing, object, phenomenon
+
+ike - 
+(content word)
+1. bad, negative, irrelevant
+
+ilo - 
+(content word)
+1. tool, implement, machine, device
+
+insa - 
+(content word)
+1. center, content, inside, between
+2. internal organs, stomach
+
+jaki - 
+(content word)
+1. disgusing, obscene, toxic, sickly, unclean
+
+jan - 
+(content word)
+1. person, a human being
+
+jelo - 
+(content word)
+1. yellow
+
+jo - 
+(content word)
+1. carry, hold, contain, to have
+
+kala - 
+(content word)
+1. fish, marine animal, sea creature
+
+kalama - 
+(content word)
+1. sound, recite
+
+kama - 
+(content word)
+1. arriving, coming, future, summoned
+(preverb)
+2. to become, turn into, succeed in
+
+kasi - 
+(content word)
+1. plant, vegetation, herb, leaf
+
+ken - 
+(content word)
+1. possible, possibility
+(preverb)
+2. to be able to, be allowed to, can, may
+
+kepeken - 
+(semi-preposition)
+1. to use, with, by means of
+
+kili - 
+(content word)
+1. fruit, vegetable, mushroom, bean
+
+kin -
+(modifier particle)
+1. emotion, emphasis, confirmation
+(content word)
+2. also
+3. (nonstandard) the amount -2
+
+kiwen - 
+(content word)
+1. hard object, metal, rock, stone
+2. (nonstandard) the amount -1
+
+ko - 
+(content word)
+1. clay, dough, paste, powder, semi-solid
+
+kon - 
+(content word)
+1. air, breath, essence, spirit, hidden agent
+
+kule - 
+(content word)
+1. colorful, paint
+2. LGBTQ+
+
+kulupu - 
+(content word)
+1. community, group, nation, society
+
+kute - 
+(content word)
+1. hear, listen, pay attention, obey
+2. ear
+
+la - 
+(particle)
+1. between the context phrase and the main sentence
+
+lape - 
+(content word)
+1. sleep, rest
+
+laso - 
+(content word)
+1. blue, green
+
+lawa - 
+(content word)
+1. control, direct, guide, lead, own, plan, rule, regulate
+2. head, mind
+
+len - 
+(content word)
+1. cloth, clothing, fabric, textile, cover, layer of privacy
+
+lete - 
+(content word)
+1. cold, cool, uncooked, raw
+
+li - 
+(particle)
+1. between any subject and its verb, between multiple verbs for the same subject
+
+lili - 
+(content word)
+1. little, small, short, few, young
+
+linja - 
+(content word)
+1. rope, hair, thread, cord, yarn, long and flexible thing
+
+lipu - 
+(content word)
+1. book, document, card, paper, record, website, flat object
+
+loje - 
+(content word)
+1. red
+
+lon - 
+(semi-preposition)
+1. existing, located at, present at, real, true
+
+luka - 
+(content word)
+1. arm, hand, tactile organ
+2. the amount 5
+
+lukin - 
+(content word) {syn. oko}
+1. look at, see, examine, observe, watch, read
+2. eye
+(semi-preposition)
+3. to seek, look for, try to
+(preverb)
+4. try (definite) [2]
+
+lupa - 
+(content word)
+1. door, hole, orifice, window
+
+ma - 
+(content word)
+1. earth, land, outdoor, world, country, territory, dirt
+
+mama - 
+(content word)
+1. parent, ancestor, creator, originator, caretaker, sustainer
+
+mani - 
+(content word)
+1. money, cash, savings, wealth, valulables, large domesticated animal
+
+meli - 
+(content word)
+1. woman, female, feminine person, wife
+
+mi - 
+(content word)
+1. I, me we, us
+
+mije - 
+(content word)
+1. man, male, masculine person, husband
+
+moku - 
+(content word)
+1. food, eat, drink, consume, ingest, swallow
+
+moli - 
+(content word)
+1. dead, dying
+
+monsi - 
+(content word)
+1. back, behind, rear
+
+mu - 
+(content word)
+1. animal noise of communication
+
+mun - 
+(content word)
+1. moon, star, night sky object
+
+musi - 
+(content word)
+1. entertainment, artistic, playful, recreational
+
+mute - 
+(content word)
+1. many, a lot, quantity, several
+2. the amount 20
+
+namako -
+(content word)
+1. embellishment, extra, fresh
+2. ornament, decoration, jewelry
+
+nanpa - 
+(content word)
+1. numbers
+(semi-prepositional semi-content word)[1]
+2. ordinal marker
+
+nasa - 
+(content word)
+1. unusual, strange, foolish, crazy, stupid, drunk
+
+nasin - 
+(content word)
+1. way, custom, doctrine, method, path, road
+
+nena - 
+(content word)
+1. bump, button, hill, mountain, nose, protuberance
+
+ni - 
+(content word)
+1. that, this
+
+nimi - 
+(content word)
+1. name, word
+
+noka - 
+(content word)
+1. foot, leg, organ of locomotion
+2. bottom, lower part
+3. the amount -5
+
+o - 
+(particle)
+1. hey! decleration of imperative
+
+oko - 
+(content word) {syn. lukin}
+1. look at, see, examine, observe, watch, read
+2. eye
+(semi-preposition)
+3. to seek, look for, try to
+
+olin - 
+(content word)
+1. love, passion, respect, show affection
+(preverb)
+2. love doing
+
+ona - 
+(content word)
+1. they, she, he, it
+
+open - 
+(content word)
+1. begin, open, start, turn on
+
+pakala - 
+(content word)
+1. botched, broken, damage, mistake
+(interjection)
+2. expletive word
+
+pali - 
+(content word)
+1. make, do, build, prepare, take action, work
+
+palisa - 
+(content word)
+1. branch, stick, long hard thing
+
+pan - 
+(content word)
+1. grain, oat, rice, wheat, corn, bread, pasta, pie, food made from grains
+
+pana - 
+(content word)
+1. give, emit, provide, release
+
+pi - 
+(particle)
+1. inbetween modifiers to regroup them
+
+pilin - 
+(content word)
+1. feeling
+2. heart
+
+pimeja - 
+(content word)
+1. black, dark, unlit
+
+pini - 
+(content word)
+1. ago, completed, ended, finished, past
+
+pipi - 
+(content word)
+1. bug, insect, ant, spider
+
+poka - 
+(content word)
+1. beside, next to, nearby, in the vicinity
+2. hip, side
+
+poki - 
+(content word)
+1. container, bag, bowl, box, cup, drawer, vessel
+
+pona - 
+(content word)
+1. good, positive, useful, friendly, peaceful, simple
+
+pu - 
+(content word)
+1. interacting with the official Toki Pona book
+
+sama - 
+(content word)
+1. same, similar, peer, fellow
+(semi-preposition)
+2. as, like
+
+seli - 
+(content word)
+1. fire, heated, cooking element, heat source
+
+selo - 
+(content word)
+1. skin, bark, peel, shell, outer layer, boundary
+
+seme - 
+(particle)
+1. what? which?
+
+sewi - 
+(content word)
+1. above, high, elevated
+2. divine, sacred, supernatural
+
+sijelo - 
+(content word)
+1. body, torso, physical state
+
+sike - 
+(content word)
+1. round thing, ball, cricle, sphere, cycle, wheel, orbit, year
+
+sin - 
+(content word)
+1. new, additional, another
+
+sina - 
+(content word)
+1. you
+
+sinpin - 
+(content word)
+1. face, front, wall
+
+sitelen - 
+(content word)
+1. image, picture, symal, writing, mark, representation
+
+sona - 
+(content word)
+1. knowledge, skill, information
+(preverb)
+2. to know how to do
+
+soweli - 
+(content word)
+1. animal, beast, land mammal
+
+suli - 
+(content word)
+1. big, heavy, important, tall, long, old
+
+suno - 
+(content word)
+1. sun, light, brighness, glowing, shine
+
+supa - 
+(content word)
+1. horizontal surface to rest something on, furniture
+
+suwi - 
+(content word)
+1. sweet, fragrant, cute, innocent, comfortable, adorable
+
+tan - 
+(semi-preposition)
+1. by, because of, originating from
+
+taso - 
+(semi-conjunction)
+1. but, however
+2. only
+
+tawa - 
+(content word)
+1. moving
+(semi-preposition)
+2. to, for, toward, from the perspective of, in the opinion of
+
+telo - 
+(content word)
+1. liquid, water, drink, wash, beverage
+
+tenpo - 
+(content word)
+1. time, duration, moment, period, situation, occasion
+
+toki - 
+(content word)
+1. communicate, speak, say, talk, language
+
+tomo - 
+(content word)
+1. room, building, house, indoor space
+
+tu - 
+(content word)
+1. the amount 2
+2. (nonstandard) also
+
+unpa - 
+(content word)
+1. sex, marriage
+
+uta - 
+(content word)
+1. mouth, lips, oral cavity, jaw
+
+utala - 
+(content word)
+1. fight, battle, compete, struggle
+
+walo - 
+(content word)
+1. white, pale, light colored
+
+wan - 
+(content word)
+1. united, unique
+2. the amount 1
+
+waso - 
+(content word)
+1. bird, winged animal, flying
+
+wawa - 
+(content word)
+1. strong, powerful, confident, energetic, intense
+
+weka - 
+(content word)
+1. absent, away, ignored
+
+wile - 
+(content word)
+1. want, must, need, should, require, wish
+
+COUNT: 124
+
+Sources:
+(all words)
+http://tokipona.net/tp/janpije/dictionary.php
+(2nd definition of namako) https://discordapp.com/channels/301377942062366741/301378960468738050/658495122954125313
+
+[1] This usage of this word is hard to analyize. Jan Pije's website lists this as a particle, but it is generally treated as a preposition. And, though this isn't present in ma pona pi toki pona, certain dialects use it as a content word which modifies prepositionally. This is the basis behind the phrase "semi-prepositional semi-content word."
+[2] The definite-indefinite distinction doesn't have to exist, as it is not a widely accepted analysis.

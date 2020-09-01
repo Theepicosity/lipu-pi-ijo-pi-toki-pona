@@ -1,0 +1,356 @@
+NIMI ALE
+SECTION 1B - WORDS IN NIMI ALE PONA AND COMMONLY USED WORDS IN ENGLISH DISCORD SERVERS
+
+alu - 
+(particle)
+1. between the main sentence and the context phrase
+
+apeja - 
+(content word)
+1. shame, guilt
+
+epiku - 
+(content word)
+1. epic
+
+ete - 
+(semi-preposition)
+1. beyond, exceeding, outside of, more than
+
+ewe - 
+(content word)
+1. stone, gravel, rock, pebble, lava, magma
+
+iki - 
+(content word) {syn. ipi}
+1. refer to ona, in section 1a
+
+ini - 
+(content word)
+1. the digit 2, from the Socks Numeral number system
+
+ipi - 
+(content word) {syn. iki}
+1. refer to ona, in section 1a
+
+itomi - 
+(content word)
+1. Schadenfreude, indirect insult, disrespect, shade
+
+jaku - 
+(content word)
+1. 100, from the Socks Numeral number system
+
+jalan - 
+(content word)
+1. refer to noka, in section 1a
+2. the amount 1000
+
+jami - 
+(content word)
+1. tasty, comfortable, fragrant, eliciting a positive sensory experience
+
+jans - 
+(content word)
+1. a particular group of early members of the ma pona Discord server
+
+jasima - 
+(content word)
+1. reflect, resound, mirror, polar end
+
+jatu - 
+(content word)
+1. the digit 1 in the Socks Numeral number system
+
+kajo - 
+(content word)
+1. the digit 9 in the Socks Numeral number system
+
+kamalawala - 
+(content word)
+1. anarchy, uprising, revolt, rebellion
+
+kan - 
+(semi-preposition)
+1. with, among
+
+kapa - 
+(content word)
+1. refer to nena, in section 1a
+
+kapesi - 
+(content word)
+1. brown, gray
+
+ke - 
+(modifier particle) {syn. oke, oki}
+1. acknowledgement or acceptance
+
+ken't - 
+(preverb)
+1. cannot, impossible
+
+kijetesantakalu - 
+(content word)
+1. raccoons, coatis, kinkajous, olingos, ringtails, cacomistles, any animal from the Procyonidae family
+
+kipisi - 
+(content word)
+1. split, cut
+
+kulu - 
+(content word)
+1. refer to kulupu, in section 1a
+2. the amount 6
+
+kuntu - 
+(content word)
+1. laughter, humor
+2. a capella
+
+lanpan - 
+(content word)
+1. take, seize, catch, get, recieve, steal
+(preverb)
+2. expidiently
+
+leko - 
+(content word)
+1. block, square, stairs
+
+lenke - 
+(content word)
+1. the digit 0 in the Socks Numeral number system
+2. unpopular
+
+likujo - 
+(content word)
+1. collection, assortment, arrangement, harvest, handful
+2. the amount 7
+
+linluwi - 
+(content word)
+1. network, internet
+
+lokon - 
+(content word)
+1. refer to lukin or oko, in section 1a
+
+loku - 
+(content word)
+1. the digit 5 in the Socks Numeral number system
+
+majuna - 
+(content word)
+1. old, aged
+
+melome - 
+(content word)
+1. sapphic, lesbian, wlw
+
+mijomi - 
+(content word)
+1. gay, mlm
+
+misikeke - 
+(content word)
+1. medicine, help, assistance
+
+monsuta - 
+(content word)
+1. monster, fear
+
+mulapisu - 
+(content word)
+1. pizza
+
+n - 
+(interjection)
+1. thinking or pondering, hum, humming
+
+neja - 
+(content word) {syn. po}
+1. the amount 4
+
+nu - 
+(content word)
+1. new
+
+nun - 
+(content word)
+1. the digit 5 in the Socks Numeral number system
+
+nuwa - 
+(content word)
+1. newer
+
+oke - 
+(content word) {syn. ke, oki}
+1. acknowledgement or acceptance
+
+okepuma - 
+(content word)
+1. baby boomer, inconsiderate elder
+
+oki - 
+(content word) {syn. ke, oke}
+1. acknowledgement or acceptance
+
+omekapo - 
+(content word)
+1. goodbye, farewell, see you later, eat a good fish
+
+omen - 
+(content word)
+1. sarcasm, ironic
+
+pa - 
+(content word)
+1. bruh
+
+pake - 
+(preverb)
+1. stop, cease, block, prevent
+
+pasila - 
+(content word)
+1. good, easy
+
+pata - 
+(content word)
+1. sibling
+
+patu - 
+(content word)
+1. the digit 8 in the Socks Numeral number system
+
+peto - 
+(content word)
+1. cry, tears
+
+peta - 
+(content word)
+1. green, verdant
+2. alive, natural, eco-friendly
+
+pipo - 
+(content word)
+1. annoyance, bothersome, boring
+
+po - 
+(content word) {syn. neja}
+1. the amount 4
+
+polinpin - 
+(content word)
+1. bowling pin
+
+pomotolo - 
+(content word)
+1. effective, useful, give good results
+
+powe - 
+(content word)
+1. unreal, faux, fake, untrue, pretend, decieve, trickster
+
+samu - 
+(content word)
+1. the desire to create new words
+
+san - 
+(content word) {sim. tuli}
+1. the amount 3
+2. the digit 3 in the Socks Numeral number system
+
+se - 
+(content word)
+1. the digit 4 in the Socks Numeral number system
+
+sikomo - 
+(content word)
+1. enlightened, great, epic, awesome, on a higher plane of existence
+
+sin'ale - 
+(content word)
+1. everyone, y'all
+
+slape - 
+(content word)
+1. sleep
+
+soko - 
+(content word)
+1. mushroom, fungi
+
+sonala - 
+(preverb)
+1. don't know
+
+soto - 
+(content word)
+1. left side
+
+su - 
+(content word)
+1. yes/no question marker
+
+take - 
+(content word)
+1. the digit 7 in the Socks Numeral number system
+
+te - 
+(semi-prepositional particle)
+1. coming before a direct quote
+(content word)
+2. verbatim, exact, direct
+(content word)
+3. right side [1]
+
+teje - 
+(content word)
+1. right side
+
+ten - 
+(content word)
+1. refer to tenpo, in section 1a
+
+to - 
+(semi-prepositional particle)
+1. coming after a direct quote
+
+tonsi - 
+(content word)
+1. trans, non-binary, gender nonconforming
+
+tuli - 
+(content word) {sim. san}
+1. the amount 3
+
+waleja - 
+(content word)
+1. context, topic, pertainance, topical, relevant
+
+wawajete - 
+(content word)
+1. fake edginess, provocation, something that appears to break the rules but doesn't
+
+we - 
+(content word)
+1. between two complete sentences
+
+wi - 
+(content word)
+1. we, excluding 2nd person
+
+yupekosi - 
+(content word)
+1. to behave like George Lucas and revise your old creative works and actually make them worse
+
+COUNT: 83
+
+Sources:
+(NAP words) https://docs.google.com/document/d/10hP3kR7mFN0E6xW3U6fZyDf7xKEEvxssM96qLq4E0ms/edit
+(omekapo) https://discordapp.com/channels/301377942062366741/316066233755631616/727616172652232815
+(1st definition of te) https://discordapp.com/channels/301377942062366741/375591429608570881/727575840187219989
+
+[1] This used to be the definition of te, in earlier versions.

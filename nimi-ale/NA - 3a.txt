@@ -1,0 +1,188 @@
+NIMI ALE
+SECTION 3A - WORDS FROM TOKI PONA EPANSA AND RELATED SOURCES
+
+ajuta - 
+(content word)
+1. help
+
+ata -
+(content word)
+1. the digit 4 in jan Sonja's nonsense number system
+
+atome - 
+(content word)
+1. atom, atomic, nuclear
+
+bit -
+(content word)
+1. the digit 8 in jan Sonja's nonsense number system
+
+desi -
+(content word)
+1. the digit 10 in jan Sonja's nonsense number system
+
+dun -
+(content word)
+1. the digit 2 in jan Sonja's nonsense number system
+
+elemute - 
+(content word)
+1. helmet
+
+epansa - 
+(content word)
+1. expansion, make bigger
+
+inpo - 
+(content word)
+1. information
+
+inteli - 
+(content word)
+1. intelligent
+
+intenetu - 
+(content word) {syn. nesi}
+1. refer to linluwi, in section 1b
+
+kento - 
+(content word)
+1. the amount 100
+
+kilo - 
+(content word)
+1. kilogram
+
+kolila - 
+(content word)
+1. gorilla
+
+konlan - 
+(content word)
+1. conlang
+
+konpu - 
+(content word)
+1. computer, electronics
+
+kuju - 
+(content word)
+1. form, shape
+
+lenma - 
+(content word)
+1. land shoes
+
+leson - 
+(content word)
+1. lesson
+
+lita - 
+(content word)
+1. liter
+
+mapa - 
+(content word)
+1. map
+
+mele - 
+(content word)
+1. mail, post
+
+meta - 
+(content word)
+1. meter
+
+mila - 
+(content word)
+1. the amount 1000
+
+minuta - 
+(content word)
+1. minute of time
+
+monsuto - 
+(content word)
+1. refer to monsuta, in section 1b
+
+nebin -
+(content word)
+1. the digit 9 in jan Sonja's nonsense number system
+
+nesi - 
+(content word) {syn. intenetu}
+1. refer to linluwi, in section 1b
+
+panu -
+(content word)
+1. the digit 5 in jan Sonja's nonsense number system
+
+pesa - 
+(content word)
+1. part, piece
+
+poner - 
+(content word)
+1. a person who speaks toki pona
+
+puku - 
+(content word)
+1. book, literature, literacy
+
+sa - 
+(content word)
+1. hour
+
+sekonto - 
+(content word)
+1. second of time
+
+sibet -
+(content word)
+1. the digit 7 in jan Sonja's nonsense number system
+
+sis -
+(content word)
+1. the digit 6 in jan Sonja's nonsense number system
+
+sito - 
+(content word)
+1. site
+
+talika - 
+(content word)
+1. list
+
+tana - 
+(content word)
+1. idea, concept
+
+tari -
+(content word)
+1. the digit 3 in jan Sonja's nonsense number system
+
+tele - 
+(content word)
+1. television, movie, cinematic, film
+
+teloletekiwen - 
+(content word)
+1. ice
+
+teni - 
+(content word)
+1. refer to tenni, in section 2a
+
+uni -
+(content word)
+1. the digit 1 in jan Sonja's nonsense number system
+
+uniwesita - 
+(content word)
+1. university
+
+COUNT: 45
+
+Sources: 
+https://tpe.neocities.org/
+NOTE: a few words here are sourced from jan Kipo's text corpus. for the purposes of privacy, I will not link to it here. when searching jan Kipo's corpus, I made sure to only look at sources that are still publicly available outside of the corpus, as to make sure that no loss of privacy has taken place.

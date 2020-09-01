@@ -1,0 +1,1306 @@
+NIMI ALE
+SECTION 5 - WORDS FROM RELEXES
+
+AKESI'S RELEX:
+
+ak - 
+1. akesi
+
+aa - 
+1. ala
+
+as - 
+1. alasa
+
+al - 
+1. ale, ali
+
+ap - 
+1. anpa
+
+at - 
+1. ante
+
+au - 
+1. anu
+
+aw - 
+1. awen
+
+es - 
+1. esun
+
+ij - 
+1. ijo
+
+ik - 
+1. ike
+
+il - 
+1. ilo
+
+is - 
+1. insa
+
+jk - 
+1. jaki
+
+jn - 
+1. jan
+
+jl - 
+1. jelo
+
+ka - 
+1. kala
+
+lm - 
+1. kalama
+
+km - 
+1. kama
+
+ks - 
+1. kasi
+
+ke - 
+1. ken
+
+kp - 
+1. kepeken
+
+ki - 
+1. kili
+
+kn - 
+1. kin
+
+kw - 
+1. kiwen
+
+kn - 
+1. kon
+
+ku - 
+1. kule
+
+kl - 
+1. kulupu
+
+kt - 
+1. kute
+
+lp - 
+1. lape
+
+ls - 
+1. laso
+
+lw - 
+1. lawa
+
+le - 
+1. len
+
+lt - 
+1. lete
+
+ll - 
+1. lili
+
+nj - 
+1. linja
+
+lu - 
+1. lipu
+
+lj - 
+1. loje
+
+lo - 
+1. lon
+
+lk - 
+1. luka
+
+ln - 
+1. lukin
+
+up - 
+1. lupa
+
+mm - 
+1. mama
+
+mi - 
+1. mani
+
+me - 
+1. meli
+
+m - 
+1. mi
+
+mj - 
+1. mije
+
+mk - 
+1. moku
+
+ml - 
+1. moli
+
+mo - 
+1. monsi
+
+mn - 
+1. mun
+
+ms - 
+1. musi
+
+mt - 
+1. mute
+
+na - 
+1. nanpa
+
+ns - 
+1. nasa
+
+nn - 
+1. nasin
+
+nm - 
+1. nimi
+
+ol - 
+1. olin
+
+on - 
+1. ona
+
+op - 
+1. open
+
+pk - 
+1. pakala
+
+pi - 
+1. pali
+
+ps - 
+1. palisa
+
+an - 
+1. pan
+
+pa - 
+1. pana
+
+p - 
+1. pi
+
+pl - 
+1. pilin
+
+pm - 
+1. pimeja
+
+in - 
+1. pini
+
+ii - 
+1. pipi
+
+po - 
+1. poka
+
+ok - 
+1. poki
+
+pn - 
+1. pona
+
+sa - 
+1. sama
+
+se - 
+1. seli
+2. seme
+
+so - 
+1. selo
+
+sw - 
+1. sewi
+
+sj - 
+1. sijelo
+
+sk - 
+1. sike
+
+si - 
+1. sina
+
+spn - 
+1. sinpin
+
+st - 
+1. sitelen
+
+sn - 
+1. sona
+
+sl - 
+1. soweli
+
+su - 
+1. suli
+
+no - 
+1. suno
+
+sp - 
+1. supa
+
+uw - 
+1. suwi
+
+tn - 
+1. tan
+
+ts - 
+1. taso
+
+tw - 
+1. tawa
+
+tl - 
+1. telo
+
+tn - 
+1. tenpo
+
+tk - 
+1. toki
+
+tm - 
+1. tomo
+
+un - 
+1. unpa
+
+ut - 
+1. uta
+
+ua - 
+1. utala
+
+wa - 
+1. walo
+
+wn - 
+1. wan
+
+ws - 
+1. waso
+
+ww - 
+1. wawa
+
+wk - 
+1. weka
+
+wl - 
+1. wile
+
+JAN ANA'S RELEX:
+
+ge - 
+1. akesi
+
+ne - 
+1. ala
+
+sas - 
+1. alasa
+
+ba - 
+1. anpa
+
+de - 
+1. ante
+
+an - 
+1. anu
+
+den - 
+1. awen
+
+pik - 
+1. epiku
+
+di - 
+1. ijo
+
+in - 
+1. insa
+
+jak - 
+1. jaki
+
+jel - 
+1. jelo
+
+kal - 
+1. kala
+
+gal - 
+1. kalama
+
+kam - 
+1. kama
+
+kas - 
+1. kasi
+
+geb - 
+1. kepeken
+
+kit - 
+1. kijetesantakalu
+
+kil - 
+1. kili
+
+kip - 
+1. kipisi
+
+ki - 
+1. kiwen
+
+kel - 
+1. kule
+
+ku - 
+1. kulupu
+
+kut - 
+1. kute
+
+lap - 
+1. lape
+
+las - 
+1. laso
+
+gaf - 
+1. lawa
+
+leg - 
+1. leko
+
+ket - 
+1. lete
+
+lik - 
+1. lili
+
+lin - 
+1. linja
+
+lip - 
+1. lipu
+
+loj - 
+1. loje
+
+lu - 
+1. luka
+
+luk - 
+1. lukin
+
+lup - 
+1. lupa
+
+mam - 
+1. mama
+
+man - 
+1. mani
+
+mel - 
+1. meli
+
+mis - 
+1. mije
+
+mog - 
+1. moku
+
+mul - 
+1. moli
+
+mon - 
+1. monsi
+
+mus - 
+1. musi
+
+mut - 
+1. mute
+
+mak - 
+1. namako
+
+nam - 
+1. nanpa
+
+nas - 
+1. nasa
+
+nin - 
+1. nasin
+
+nen - 
+1. nena
+
+nim - 
+1. nimi
+
+ok - 
+1. oko
+
+fol - 
+1. olin
+
+na - 
+1. ona
+
+pen - 
+1. open
+2. pan
+
+bag - 
+1. pakala
+
+bak - 
+1. pake
+
+fa - 
+1. pali
+
+pal - 
+1. palisa
+
+pan - 
+1. pana
+
+pil - 
+1. pilin
+
+pim - 
+1. pimeja
+
+fin - 
+1. pini
+
+bi - 
+1. pipi
+
+bok - 
+1. poka
+
+bos - 
+1. poki
+
+bon - 
+1. pona
+
+sam - 
+1. sama
+
+kel - 
+1. seli
+
+sel - 
+1. selo
+
+sem - 
+1. seme
+
+sef - 
+1. sewi
+
+tel - 
+1. sijelo
+
+sik - 
+1. sike
+
+sa - 
+1. sina
+
+bin - 
+1. sinpin
+
+sit - 
+1. sitelen
+
+so - 
+1. sona
+
+sof - 
+1. soweli
+
+sul - 
+1. suli
+
+sun - 
+1. suno
+
+suf - 
+1. supa
+
+su - 
+1. suwi
+
+tas - 
+1. taso
+
+ta - 
+1. tawa
+
+lo - 
+1. telo
+
+ten - 
+1. tenpo
+
+tok - 
+1. toki
+
+dom - 
+1. tomo
+
+ton - 
+1. tonsi
+
+us - 
+1. uta
+
+da - 
+1. utala
+
+fal - 
+1. walo
+
+was - 
+1. waso
+
+wa - 
+1. wawa
+
+weg - 
+1. weka
+
+wi - 
+1. wile
+
+NIFTIGS'S RELEX:
+
+xe - 
+1. a
+
+hun - 
+1. akesi
+
+na - 
+1. ala
+
+da - 
+1. alasa
+
+al - 
+1. ale, ali
+
+don - 
+1. anpa
+
+sa - 
+1. ante
+
+ben - 
+1. apeja
+
+mu - 
+1. awen
+
+lu - 
+1. e
+
+xon - 
+1. esun
+
+xa - 
+1. ijo
+
+din - 
+1. ike
+
+lo - 
+1. ilo
+
+he - 
+1. insa
+
+tin - 
+1. jaki
+
+kun - 
+1. jan
+
+ki - 
+1. jelo
+
+mi - 
+1. jo
+
+han - 
+1. kala
+
+on - 
+1. kalama
+
+kan - 
+1. kama
+
+hi - 
+1. kasi
+
+ka - 
+1. ken
+
+ken - 
+1. kepeken
+
+fu - 
+1. kili
+
+gi - 
+1. kipisi
+
+hin - 
+1. kiwen
+
+xen - 
+1. kule
+
+dan - 
+1. kulupu
+
+tu - 
+1. kute
+
+non - 
+1. lape
+
+bu - 
+1. laso
+
+fa - 
+1. lawa
+
+fon - 
+1. leko
+
+le - 
+1. len
+
+pe - 
+1. lete
+
+su - 
+1. li
+
+li - 
+1. lili
+
+ke - 
+1. linja
+
+hon - 
+1. lipu
+
+ku - 
+1. loje
+
+lo - 
+1. lon
+
+te - 
+1. luka
+
+du - 
+1. lukin
+
+ho - 
+1. lupa
+
+men - 
+1. majuna
+
+me - 
+1. mama
+
+gun - 
+1. mani
+
+hu - 
+1. meli
+
+i - 
+1. mi
+
+fi - 
+1. mije
+
+gin - 
+1. moku
+
+mo - 
+1. moli
+
+se - 
+1. monsi
+
+mon - 
+1. monsuta
+
+fan - 
+1. musi
+
+mt - 
+1. mute
+
+xan - 
+1. namako
+
+nan - 
+1. nanpa
+
+hen - 
+1. nasa
+
+do - 
+1. nasin
+
+ne - 
+1. nena
+
+no - 
+1. nimi
+
+ten - 
+1. noka
+
+xi - 
+1. o
+
+ta - 
+1. oko
+
+in - 
+1. olin
+
+o - 
+1. ona
+
+gen - 
+1. pakala
+
+gan - 
+1. pali
+
+bo - 
+1. palisa
+
+pi - 
+1. pana
+
+e - 
+1. pi
+
+pin - 
+1. pilin
+
+go - 
+1. pimeja
+
+bin - 
+1. pini
+
+fun - 
+1. pipi
+
+pon - 
+1. po
+
+bi - 
+1. poka
+
+ba - 
+1. poki
+
+di - 
+1. pona
+
+bun - 
+1. powe
+
+xo - 
+1. sama
+
+ge - 
+1. seli
+
+u - 
+1. seme
+
+fe - 
+1. selo
+
+xun - 
+1. sewi
+
+le - 
+1. sijelo
+
+bon - 
+1. sike
+
+a - 
+1. sina
+
+ti - 
+1. sinpin
+
+xin - 
+1. sitelen
+
+lin - 
+1. soweli
+
+si - 
+1. suli
+
+san - 
+1. suno
+
+to - 
+1. supa
+
+de - 
+1. suwi
+
+tn - 
+1. tan
+
+pun - 
+1. taso
+
+fo - 
+1. tawa
+
+ha - 
+1. telo
+
+pu - 
+1. tenpo
+
+lan - 
+1. toki
+
+ban - 
+1. tomo
+
+son - 
+1. tu
+
+sen - 
+1. tuli
+
+pa - 
+1. uta
+
+fen - 
+1. utala
+
+po - 
+1. walo
+
+nin - 
+1. wan
+
+sin - 
+1. waso
+
+ga - 
+1. wawa
+
+be - 
+1. weka
+
+gu - 
+1. wile
+
+xu - 
+1. \, :
+
+KALA TONJU'S RELEX:
+
+YyY -
+1. toki
+
+yYY -
+1. pona
+
+Yy -
+1. mi
+
+yYyY -
+1. sona
+
+yyY -
+1. ala
+
+YyyYy -
+1. a
+
+YYyyyY -
+1. ilo
+
+YyYYYy -
+1. nanpa
+
+YY -
+1. ni
+
+y -
+1. li
+
+YYY -
+1. ike
+
+YYy -
+1. o
+
+yy -
+1. jan
+
+yyYYy -
+1. ale
+
+yY -
+1. sina
+
+Y -
+1. e
+
+yYy -
+1. la
+
+Yyyy -
+1. ken
+
+yYyY -
+1. sona
+
+yYYy -
+1. mute
+
+SITELEN AKI:
+
+-a -
+1. a
+
+-0- - 
+1. akesi
+
+X - 
+1. ala
+
+D-> - 
+1. alasa
+
+oo - 
+1. ale, ali
+
+-.- - 
+1. anpa
+
+\^/ - 
+1. ante
+
+Y - 
+1. anu
+
+_^_ - 
+1. awen
+
+>> -
+1. e
+
++ -
+1. e
+
+Z - 
+1. esun
+
+O - 
+1. ijo
+
+n - 
+1. ike
+
+T - 
+1. ilo
+
+[.] - 
+1. insa
+
+96 - 
+1. jaki
+
+_O_ - 
+1. jan
+
+G - 
+1. jo
+
+>o - 
+1. kala
+
+:D - 
+1. kalama
+
+_/\ - 
+1. kama
+
+°l° - 
+1. kasi
+
+K - 
+1. ken
+
+) - 
+1. la
+
+-O - 
+1. lape
+
+* - 
+1. lete
+
+> - 
+1. li
+
+v - 
+1. lili
+
+~ - 
+1. linja
+
+[] - 
+1. lipu
+
+|o - 
+1. lon
+
+U - 
+1. lupa
+
+8 - 
+1. mama
+
+P - 
+1. mi
+
+(xx) - 
+1. moli
+
+*[ - 
+1. monsi
+
+lll - 
+1. mute
+
+# - 
+1. nanpa
+
+@ - 
+1. nasa
+
+[   ] - 
+1. nimi
+
+lb - 
+1. noka
+
+o - 
+1. !
+
+<3<3 - 
+1. olin
+
+\o - 
+1. ona
+
+[-] - 
+1. open
+
+[\] - 
+1. pakala
+
+)O - 
+1. pali
+
+0 - 
+1. palisa
+
+>>> - 
+1. pan
+
+): - 
+1. pana
+
+L - 
+1. pi
+
+<3 - 
+1. pilin
+
+/X\ - 
+1. pimeja
+
+I - 
+1. pini
+
+.+. - 
+1. pipi
+
+[_]. - 
+1. poka
+
+[_] - 
+1. poki
+
+u - 
+1. pona
+
+= - 
+1. sama
+
+':' - 
+1. seli
+
+? - 
+1. seme
+
+wl - 
+1. sewi
+
+[l] - 
+1. sijelo
+
+(()) - 
+1. sike
+
+b - 
+1. sina
+
+]* - 
+1. sinpin
+
+[ooo] - 
+1. sitelen
+
+[]: - 
+1. sona
+
+m - 
+1. soweli
+
+V - 
+1. suli
+
+-'o,- - 
+1. suno
+
+-,-,- - 
+1. supa
+
+^.^ - 
+1. suwi
+
+<- - 
+1. tan
+
+-| - 
+1. taso
+
+/_\_ - 
+1. tawa
+
+NN - 
+1. telo
+
+( L ) - 
+1. tenpo
+
+o: - 
+1. toki
+
+/\ - 
+1. tomo
+
+7u7 - 
+1. unpa
+
+D- - 
+1. uta
+
+\X/ - 
+1. utala
+
+'/\' - 
+1. walo
+
+1 - 
+1. wan
+
+4 - 
+1. waso
+
+\o/ - 
+1. wawa
+
+_!_ - 
+1. weka
+
+W - 
+1. wile
+
+
+COUNT: 427
+
+Sources: 
+(akesi's relex) https://discordapp.com/channels/301377942062366741/316066233755631616/665500651454726166
+(jan Ana's relex) https://docs.google.com/spreadsheets/d/1ks0mV7iToTWwqcrBhLOuxQThEv4KfdPRrrnm83PKjDc/edit?usp=sharing
+(niftig's relex) https://gist.github.com/niftg/06bc7f6b29f66678fd47bbe603b60e28#file-tplddic-tsv
+(kala Tonju's relex) https://cdn.discordapp.com/attachments/301377942062366741/728926011823095848/Screenshot_2020-06-13_at_7.13.02_PM.png
+(sitelen Aki) https://docs.google.com/spreadsheets/d/1w97oh0RXp_Ea7bg9XpuarI2CnnSED7e6oFLDgAhktjo/edit#gid=0
+Note: This page is sorted slightly differently, in that it is sorted by relex in order of the sources. Also, keep in mind that these lists do not show every word in each relex, only the words that are new and don't appear in other relexes. Also also, for the sake of simplicity, parts of speech are not labelled.

@@ -1,0 +1,50 @@
+NIMI ALE
+Written by kule epiku Atawan
+Version 1.8
+
+TABLE OF CONTENTS
+1. Officially Supported Words
+	1a. Words in Pu
+	1b. Words in Nimi Ale Pona
+2. Words in Discord Servers
+	2a. Words in Ma Pona pi Toki Pona
+	2b. Words in Other English Discord Servers
+3. Words from English Websites
+	3a. Words from Toki Pona Epansa and Related Sources
+	3b. Words from the Toki Pona Subreddit
+	3c. Words from the Toki Pona Forums
+4. Words from Other Language Websites
+5. Words from Relexes
+
+PARTS OF SPEECH
+kala Salan te:
+particle: words performing purely grammatical functions.
+content word: words performing purely semantic functions (no overlap between particles and content words). 
+semi-preposition: specific group of content words that can perform several preposition, relational, and co-verb esque functions. 
+preverb: specific group of content words that can modify verb phrases in the opposite direction (head final) of typical modifier order. 
+semi-conjunction: taso; anu. specific group of content words (varying on analysis) that can perform conjunction roles or semantic roles depending on context. 
+modifier particle: a; kin. group of words acting like particles without semantic meaning, but providing information on emphasis and emotion. (semantic possibility varies by speaker)
+interjection: words or clusters able to be said in isolation as an exclamation or remark. pona! suwi! lape pona. etc.
+loaned adjective: loaned words that can act strictly as modifiers on native TP content words to name said concept in context. ex. ma Sonko
+
+Interjections are not counted unless that is the main function of the word. Loaned adjectives are also not counted. Note that these definitions may vary by community.
+
+CLARIFICATION ON WORDS
+A word can be considered a new word if it meets both of these conditions:
+1. The word has been declared as a word in toki pona.
+2. The word has been given a definition.
+
+TOTAL COUNT: mute
+
+LAST UPDATED: 8/30/2020, 21:42 MST
+
+CREDITS
+Created and written by kule epiku Atawan
+"Parts of Speech" written by kala Salan
+Thank you to nasin Sasalin, palisa jelo Natan, waso sona Likipi, kala pona Tonyu, sictoabu, jan Niko, ko, kala Salan, jAna, jan Melako, sitelen q, and pipi Kisi for providing extra words and emotional support.
+
+DEFINITION TEMPLATE
+
+ - 
+(content word)
+1. 

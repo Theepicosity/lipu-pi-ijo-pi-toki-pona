@@ -1,0 +1,346 @@
+NIMI ALE
+SECTION 3c - WORDS FROM THE TOKI PONA FORUMS
+
+a - 
+(content word)
+1. the letter A in janTe's letter system
+
+adori -
+(content word)
+1. worship, adore
+
+apa - 
+(content word)
+1. the letter A in jan Kipo's letter system
+
+be - 
+(content word)
+1. the letter B in janTe's letter system
+
+deta - 
+(content word)
+1. the letter D in jan Kipo's letter system
+
+duwo - 
+(content word)
+1. the digit 2 in jan Kipo's number system
+
+e - 
+(content word)
+1. the letter E in janTe's letter system
+
+ekasa - 
+(content word)
+1. the letter X in janTe's letter system
+
+eku - 
+(content word)
+1. the 100's place in jan Kipo's SI system
+
+ela - 
+(content word)
+1. the letter L in janTe's letter system
+2. the letter R in janTe's letter system
+
+ema - 
+(content word)
+1. the letter M in janTe's letter system
+
+ena - 
+(content word)
+1. the letter N in janTe's letter system
+
+esa - 
+(content word)
+1. the letter S in janTe's letter system
+
+eto - 
+(content word)
+1. the digit 8 in jan Kipo's number system
+
+epa - 
+(content word)
+1. the letter E in jan Kipo's letter system
+2. the letter F in janTe's letter system
+
+i - 
+(content word)
+1. refer to ona, in section 1a
+2. the letter I in janTe's letter system
+
+i elena - 
+(content word)
+1. the letter Y in janTe's letter system
+
+je - 
+(content word)
+1. the digit 1 in jan KoAla's number system
+
+jesa - 
+(content word)
+1. the letter J in jan Kipo's letter system
+
+jun - 
+(content word)
+1. obstacle, block
+
+ka - 
+(content word)
+1. the letter H in janTe's letter system
+2. the letter K in janTe's letter system
+
+kan - 
+(content word)
+1. refer to ken, in section 1a
+
+kato - 
+(content word)
+1. the digit 4 in jan Kipo's number system
+
+ke - 
+(content word)
+1. the digit 2 in jan KoAla's number system
+2. the letter C in janTe's letter system
+3. the letter G in janTe's letter system
+
+keja - 
+(content word)
+1. the letter K in jan Kipo's letter system
+
+kema - 
+(content word)
+1. the letter G in jan Kipo's letter system
+
+kesa - 
+(content word)
+1. the letter X in jan Kipo's letter system
+
+kilu - 
+(content word)
+1. the 1000's place in jan Kipo's SI system
+
+kiku - 
+(content word)
+1. the billions place in jan Kipo's SI system
+
+ku - 
+(content word)
+1. the letter Q in janTe's letter system
+
+kuwa - 
+(content word)
+1. the letter Q in jan Kipo's letter system
+
+le - 
+(content word)
+1. the digit 3 in jan KoAla's number system
+
+lela - 
+(content word)
+1. the letter L in jan Kipo's letter system
+
+lewa - 
+(content word)
+1. the letter R in jan Kipo's letter system
+
+me - 
+(content word)
+1. the digit 4 in jan KoAla's number system
+
+meku - 
+(content word)
+1. the millions place in jan Kipo's SI system
+
+monimu - 
+(content word)
+1. complicated
+
+muma - 
+(content word)
+1. the letter M in jan Kipo's letter system
+
+muna - 
+(content word)
+1. excessive
+
+nama - 
+(content word)
+1. more intense version of namako
+
+ne - 
+(content word)
+1. the digit 5 in jan KoAla's number system
+
+no - 
+(content word)
+1. the digit 0 in jan KoAla's number system
+
+nulo - 
+(content word)
+1. the digit 0 in jan Kipo's number system
+
+nuna - 
+(content word)
+1. the letter N in jan Kipo's letter system
+
+nuno - 
+(content word)
+1. the digit 9 in jan Kipo's number system
+
+o - 
+(content word)
+1. the letter O in janTe's letter system
+
+opa - 
+(content word)
+1. the letter O in jan Kipo's letter system
+
+paka - 
+(content word)
+1. mend, fix, repair, heal, bandage
+
+pe - 
+(content word)
+1. the digit 6 in jan KoAla's number system
+2. the letter P in janTe's letter system
+
+pepa - 
+(content word)
+1. the letter F in jan Kipo's letter system
+
+peto - 
+(content word)
+1. the letter B in jan Kipo's letter system
+2. the quadrillions place in jan Kipo's SI system
+
+pija - 
+(content word)
+1. the letter P in jan Kipo's letter system
+
+pino - 
+(content word)
+1. the digit 5 in jan Kipo's number system
+
+sanku - 
+(content word)
+1. triangle
+
+se - 
+(content word)
+1. the digit 7 in jan KoAla's number system
+
+sepo - 
+(content word)
+1. the digit 7 in jan Kipo's number system
+
+seso - 
+(content word)
+1. the digit 6 in jan Kipo's number system
+
+seta - 
+(content word)
+1. the letter Z in jan Kipo's letter system
+2. the letter Z in janTe's letter system
+
+siko - 
+(content word)
+1. the letter C in jan Kipo's letter system
+
+sima - 
+(content word)
+1. the letter S in jan Kipo's letter system
+
+sisi - 
+(content word)
+1. etc.
+
+te - 
+(content word)
+1. the digit 8 in jan KoAla's number system
+2. the letter D in janTe's letter system
+3. the letter T in janTe's letter system
+
+teku - 
+(content word)
+1. the 10's place in jan Kipo's SI system
+
+telu - 
+(content word)
+1. the trillions place in jan Kipo's SI system
+
+teso - 
+(content word)
+1. sea animal
+
+tija - 
+(content word)
+1. the letter T in jan Kipo's letter system
+
+tijo - 
+(content word)
+1. the digit 3 in jan Kipo's number system
+
+tona - 
+(content word)
+1. intonation, dialect, way of talking
+
+tosen - 
+(content word)
+1. the amount 1000
+
+u - 
+(content word)
+1. the letter U in janTe's letter system
+
+uno - 
+(content word)
+1. the digit 1 in jan Kipo's number system
+
+upa - 
+(content word)
+1. the letter U in jan Kipo's letter system
+
+waja - 
+(content word)
+1. the letter Y in jan Kipo's letter system
+
+wana - 
+(content word)
+1. way of thinking
+
+we - 
+(content word)
+1. the digit 9 in jan KoAla's number system
+
+wena - 
+(content word)
+1. the letter W in jan Kipo's letter system
+
+wesa - 
+(content word)
+1. the letter H in jan Kipo's letter system
+
+wiki - 
+(content word)
+1. speed
+
+wipa - 
+(content word)
+1. the letter V in jan Kipo's letter system
+
+COUNT: 79
+
+Sources: 
+(i) http://forums.tokipona.org/viewtopic.php?f=33&t=17&sid=923697c5419a09bdefd4888a474fb8d6
+(adori) http://forums.tokipona.org/viewtopic.php?f=33&t=1016&sid=923697c5419a09bdefd4888a474fb8d6
+(sanku) http://forums.tokipona.org/viewtopic.php?f=12&t=2763&sid=732e16ceaf10c624ace895012e6ee9da#p16552
+(tosen) http://forums.tokipona.org/viewtopic.php?f=12&t=2673&sid=732e16ceaf10c624ace895012e6ee9da
+(monimu) http://forums.tokipona.org/viewtopic.php?f=12&t=2746&sid=732e16ceaf10c624ace895012e6ee9da
+(tona, wana, teso) http://forums.tokipona.org/viewtopic.php?f=12&t=2678&sid=732e16ceaf10c624ace895012e6ee9da
+(nama, sisi, muna) http://forums.tokipona.org/viewtopic.php?f=12&t=2304&sid=732e16ceaf10c624ace895012e6ee9da
+(jan Kipo's number, letter, and SI prefix system) http://forums.tokipona.org/viewtopic.php?f=12&t=1842&sid=732e16ceaf10c624ace895012e6ee9da
+(jan KoAla's number system) http://forums.tokipona.org/viewtopic.php?f=12&t=2069&sid=732e16ceaf10c624ace895012e6ee9da
+(jun) http://forums.tokipona.org/viewtopic.php?f=12&t=1921&sid=732e16ceaf10c624ace895012e6ee9da
+(wiki) http://forums.tokipona.org/viewtopic.php?f=12&t=1600&sid=732e16ceaf10c624ace895012e6ee9da
+(kan) http://forums.tokipona.org/viewtopic.php?f=12&t=1330&sid=732e16ceaf10c624ace895012e6ee9da
+(janTe's letter system) http://forums.tokipona.org/viewtopic.php?f=12&t=1248&sid=732e16ceaf10c624ace895012e6ee9da

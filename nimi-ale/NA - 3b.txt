@@ -1,0 +1,145 @@
+NIMI ALE
+SECTION 3B - WORDS FROM THE TOKI PONA SUBREDDIT
+
+ala -
+(content word)
+1. a prefix denoting powers of 10 in the jan Kosi number system
+
+apenta -
+(content word)
+1. finger, appendage, hose, flexible, bend
+
+ato -
+(content word)
+1. shadow, echo, reflection, trace, record
+
+ke -
+(content word)
+1. refer to ike, in section 1a
+
+kepe -
+(content word)
+1. refer to kepeken, in section 1a
+
+kulu -
+(content word)
+1. refer to kulupu, in section 1a
+
+kuwi -
+(content word)
+1. queer
+
+lukapo -
+(content word)
+1. the amount 9 in the jan Kosi number system
+
+lukasan -
+(content word)
+1. the amount 8 in the jan Kosi number system
+
+lukatu -
+(content word)
+1. the amount 7 in the jan Kosi number system
+
+lukawan -
+(content word)
+1. the amount 6 in the jan Kosi number system
+
+melike -
+(content word)
+1. bitch
+
+melunpa -
+(content word)
+1. attractive woman
+
+mijike -
+(content word)
+1. dick
+
+mijunpa -
+(content word)
+1. attractive man
+
+musisi -
+(content word)
+1. chill
+
+oto -
+(content word)
+1. other, different, strange, alienate
+
+paka -
+(content word)
+1. refer to pakala, in section 1a
+
+pake -
+(content word)
+1. combination of pakala and ike
+
+pala -
+(content word)
+1. fix, heal, repair, mend
+
+papu - 
+(content word)
+1. five
+
+pasi - 
+(content word)
+1. refer to pona, in section 1a
+
+ponkin - 
+(content word)
+1. cool, very good, awesome
+
+pope -
+(content word)
+1. near, dear, long for, yearn
+
+siso -
+(content word)
+1. zero, absent, lacking, void, empty, lose
+
+site -
+(content word)
+1. refer to sitelen, in section 1a
+
+taku -
+(content word)
+1. adhere, join, fuse, bind, blend
+
+tamu -
+(content word)
+1. similar, alike, copy, resembling
+
+tata -
+(affix)
+1. negation suffix
+
+tanaken -
+(content word)
+1. think, ruminate, ponder, consider, figure, cogitate
+
+wene -
+(content word)
+1. reject, refuse, expel, eject, excrete, throw
+
+wiwile -
+(content word)
+1. try
+
+unpunpa -
+(content word)
+1. score on someone
+
+COUNT: 33
+
+Sources: 
+(pasi) https://www.reddit.com/r/tokipona/comments/3g98le/list_of_all_toki_pona_words_changing_post_kial_mi/
+(word shortenings) https://www.reddit.com/r/tokipona/comments/2tsow4/sina_mute_li_sona_e_seme_lon_ni_kama_lili_e_nimi/
+(slang and swears) https://www.reddit.com/r/tokipona/comments/2wqoqh/slang_in_toki_pona/
+(papu) https://www.reddit.com/r/tokipona/comments/hsob41/toki_nanpa_pi_toki_pona/
+(apenta, ato, oto, pope, pala, siso, taku, tamu, tanaken, wene, tata) https://www.reddit.com/r/tokipona/comments/en4wk9/just_found_an_old_list_of_words_i_wanted_when/
+(kuwi) https://www.reddit.com/r/tokipona/comments/ht35m1/proposal_kuwi_queer/
+(number compound words) https://www.reddit.com/r/tokipona/comments/i3d2au/my_personal_number_system_dont_hurt_me/

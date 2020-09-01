@@ -1,0 +1,376 @@
+NIMI ALE
+SECTION 2B - WORDS IN OTHER ENGLISH DISCORD SERVERS
+
+alaja - 
+(content word)
+1. life, live in, reside
+
+amaki - 
+(content word)
+1. freedom, release
+
+amalo - 
+(content word)
+1. bitter, angry
+
+ankola - 
+(content word)
+1. again
+
+apula - 
+(content word)
+1. grease, oil, fat
+
+asito - 
+(content word)
+1. acid, sour, corrode
+
+ase - 
+(content word)
+1. judge, assess
+
+ataje - 
+(content word)
+1. attraction
+
+elo - 
+(content word)
+1. basic unit
+
+eni - 
+(content word)
+1. any
+
+ente - 
+(semi-preposition)
+1. between
+
+ese - 
+(content word)
+1. east
+
+ipuko - 
+(content word)
+1. electronic media
+
+ina - 
+(content word)
+1. suppose, hypothesize
+(particle)
+2. goes before the context phrase
+
+itansa - 
+(content word)
+1. distance
+
+jasu - 
+(content word)
+1. formal
+
+jeje - 
+(content word)
+1. refer to jelo, in section 2a
+
+kalina - 
+(content word)
+1. refer to kalamu, in section 2a
+
+kaliwa - 
+(content word)
+1. left side
+
+kanan - 
+(content word)
+1. right side
+
+kata - 
+(content word)
+1. mountain, hill, pile, heap, mound
+
+ke - 
+(particle)
+1. relative clause marker
+
+kijupa - 
+(content word)
+1. quit, leave
+
+kilo - 
+(content word)
+1. the amount 1000
+
+kisijo - 
+(content word)
+1. hidden, private
+
+konketa - 
+(content word)
+1. answer, solution
+
+kume - 
+(content word)
+1. funny, laugh, laughter
+
+kunseli - 
+(content word)
+1. art
+
+laki - 
+(content word)
+1. root, base, foundation
+
+lala - 
+(content word)
+1. branch
+
+leke - 
+(content word)
+1. heal, repair, care
+
+lensi - 
+(content word)
+1. enough
+
+lepi - 
+(content word)
+1. category, type, organize
+
+lin - 
+(content word)
+1. gender, sex
+
+lito - 
+(content word)
+1. confuse
+
+lokasi - 
+(content word)
+1. point, place, location
+
+lu - 
+(content word)
+1. the digit 5 in the sictoabu number system
+
+mapa - 
+(content word)
+1. sorrow, apologize
+
+masu - 
+(content word)
+1. powder
+
+mesija - 
+(content word)
+1. religious
+
+minlin - 
+(content word)
+1. instruct
+
+mino - 
+(content word)
+1. believe
+
+mite - 
+(content word)
+1. medium
+
+mojasu - 
+(content word)
+1. fire, burn
+
+moto - 
+(content word)
+1. locomotion, energy, movement, force
+
+napa - 
+(content word)
+1. take
+
+neto - 
+(content word)
+1. net, web, trap
+
+nija - 
+(content word)
+1. almost
+
+nin - 
+(content word)
+1. the digit 6 in the sictoabu number system
+
+nomo - 
+(content word)
+1. rule, law
+
+note - 
+(content word)
+1. north
+
+oke - 
+(content word)
+1. correct, allow
+
+ola - 
+(content word)
+1. hour
+
+oni - 
+(content word)
+1. irrelevant thing
+
+pa - 
+(particle)
+1. reflexive prediacte basically
+
+pekunta - 
+(content word)
+1. question
+
+pewen - 
+(content word)
+1. fill
+
+pijesa - 
+(content word)
+1. piece
+
+pisa - 
+(content word)
+1. must, have to
+
+po - 
+(content word)
+1. the digit 4 in the sictoabu number system
+
+pokoju - 
+(content word)
+1. peace, tranquility, quiet
+
+polema - 
+(content word)
+1. problem, task
+
+punsi - 
+(content word)
+1. peirce, bore, point
+
+pusa - 
+(content word)
+1. complex
+
+saki - 
+(content word)
+1. harm, illness, pain
+
+san - 
+(content word)
+1. the digit 3 in the sictoabu number system
+
+sana - 
+(content word)
+1. health
+
+sanpi - 
+(content word)
+1. compare, comparison
+
+salin - 
+(content word)
+1. mutual
+
+se - 
+(content word)
+1. the digit 7 in the sictoabu number system
+
+sele - 
+(content word)
+1. choice, decide
+
+setale - 
+(content word)
+1. star, planet
+
+sikita - 
+(content word)
+1. protect
+
+siko - 
+(content word)
+1. think
+
+sinpe - 
+(content word)
+1. simple
+
+sopu - 
+(content word)
+1. soap, wash, clean, base (chemistry)
+
+sule - 
+(content word)
+1. south
+
+ta - 
+(content word)
+1. point towards
+
+tema - 
+(content word)
+1. theme, subject
+(semi-preposition)
+2. about
+
+tenki - 
+(content word)
+1. electricity
+
+tenlil - 
+(content word)
+1. a dialect of toki pona spoken on the Toki pona forums
+
+to - 
+(content word)
+1. the digit 9 in the sictoabu number system
+
+topa - 
+(content word)
+1. experience, encounter, undergo
+
+tulon - 
+(content word)
+1. help
+
+unsa - 
+(content word)
+1. mercy, forgive
+
+usiku - 
+(content word)
+1. night
+
+welosi - 
+(content word)
+1. speed, fast
+
+wenpe - 
+(content word)
+1. empty
+
+wese - 
+(content word)
+1. west
+
+wi - 
+(content word)
+1. the digit 8 in the sictoabu number system
+
+COUNT: 90
+
+Sources:
+(words from toki ma) https://discord.gg/UcHnzpy
+(jeje) https://discordapp.com/channels/236058291879280640/236058491884666883/557948916797276160
+(usiku) https://discordapp.com/channels/236058291879280640/236068401452285952/488056778395877385
+(ta, kalina, moto, kata) https://discordapp.com/channels/236058291879280640/236068401452285952/418259354232291328
+(leke) https://discordapp.com/channels/236058291879280640/236068401452285952/414253337488261130
+(jasu) https://discordapp.com/channels/236058291879280640/236058491884666883/306982017868759061
