@@ -56,7 +56,7 @@ function kama() {
 		}
 	}
 	else if(palilon == true) {
-		document.getElementById("s").src = "sitelen\\" + sitelennimi[0] + k + ".png";
+		document.getElementById("s").src = "sitelen\\" + sitelennimi[0] + "\\" + sitelennimi[0] + k + ".png";
 		document.getElementById("n").innerHTML = tokinimi[k];
 	}
 }
