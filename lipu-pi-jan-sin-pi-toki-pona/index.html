@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
 	<style>
 	body {
 	  background-image: url('bg.jpg');
@@ -27,6 +27,10 @@
 	  font-family:'Arial';
 	  line-height: 0;
 	}
+	ci {
+	  font-size: 10;
+	  font-family:'Arial';
+	}
 	fl {
 	  font-size: 13;
 	  font-family:'Arial';
@@ -47,21 +51,41 @@
 	  word-spacing: -300px;
 	  opacity: 0;
 	}
+	sijelo {
+	  display: flex;
+	}
+	s1 {
+	  flex: 79%;
+	  padding: 0px;
+	}
+	s2 {
+	  flex: 21%;
+	  padding: 0px;
+	}
 	</style>
 	<title>lipu pi jan sin pi toki pona</title>
 	<body>
 		<h1>Beginner's Resource of Toki Pona</h1>
-		<h2><i>tan kule epiku Atawan</i></h2>
-		<br/>
+		<h2><i>by kule epiku Atawan</i></h2>
+		<br/><sijelo><s1>
 		toki! My name is kule epiku Atawan, and this is my resource for Toki Pona! Despite the name, this resource is meant to help people on any scale of toki pona. If you are a beginner who wants to learn the words, or an experienced speaker who may have just forgetten a defenition, this document can help!
 		<br/><br/>
-		Below is a list of words commonly used in toki pona, it's definition, some examples, it's glyph, (sitelen pona) and some other cool facts about the word. Please note that various sources list different words. Some of these words are <i>non-pu,</i> meaning that they don't show up in the book written by the creator of the language, Sonja Lang. This may be because it comes before the book and it was removed, or it comes after the book and was made by the toki pona community. This one shows a couple more than pu- basically, all of the common ones that you may want to use. There are more obscure words which don't come up as often; if you encounter a word that you haven't seen before, it may be in either <a href="https://docs.google.com/document/d/10hP3kR7mFN0E6xW3U6fZyDf7xKEEvxssM96qLq4E0ms/edit">nimi ale pona</a> or <a href="https://drive.google.com/drive/folders/1odOeRhe7-I2g25OmeyazW5uAD56m5Po7">nimi ale</a>.
+		To the left, you will see a list of links to help you learn or practice toki pona. Out of all of the links, I most certainly recommend checking out the toki pona Discord Server, <a href="https://discord.gg/Byqn5z9"><i>ma pona pi toki pona.</i></a> There are many people on there who are able to answer any questions you have about toki pona. Additionally, voice chats where we speak toki pona are very frequent, so you can always stop in to listen or even try talking!
+		<br/><br/> <!-- add glyphs at some point in the future !-->
+		Below is a list of words commonly used in toki pona, their definitions, some examples, and some other cool facts about each word. Please note that various sources list different words. Some of these words are <i>non-pu,</i> meaning that they don't show up in the book written by the creator of the language, Sonja Lang. This may be because it comes before the book and wasn't featured in it, or it comes after the book and was made by the toki pona community. This one shows a few more than lipu pu- basically, all of the common ones that you may want to use. There are more obscure words which don't come up as often; if you encounter a word that you haven't seen before, it may be in either <a href="https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit">nimi ale pona</a> or <a href="https://drive.google.com/drive/folders/1odOeRhe7-I2g25OmeyazW5uAD56m5Po7">nimi ale</a>.
+		</s1><s2>
+		<b>Courses:</b><br/>
+		<a href="https://www.youtube.com/playlist?list=PLuYLhuXt4HrQIv3xnDxZqRaLfmxB2U5rJ">12 Days of sona pi toki pona by jan Misali</a><br/>
+		<a href="https://rnd.neocities.org/tokipona/">lipu sona pona by /dev/urandom</a><br/>
+		<b>Practice:</b><br/>
+		<a href="https://docs.google.com/document/d/1IdMucmhPCzvoUF94Gp25XCwocWOl4PfQ_wfOkiU8cu8/edit?usp=sharing">Library of toki pona by kala pona Tonyu</a><br/>
+		<a href="https://discord.gg/Byqn5z9">toki pona Discord Server</a><br/>
+		<a href="https://www.youtube.com/channel/UCwtVRWRCFOfLz8qNOpUIBrQ">toki pona Gaming Youtube Channel</a><br/>
+		</s2></sijelo>
 		<br/><br/>
-		If you are looking for a course for learning toki pona, this is not the place. Instead, for courses I recommend <a href="https://www.youtube.com/playlist?list=PLuYLhuXt4HrQIv3xnDxZqRaLfmxB2U5rJ">12 Days of Toki Pona by jan Misali,</a> as it's the one I learned from. Other people also say that <a href="https://rnd.neocities.org/tokipona/">this course by /dev/urandom</a> is pretty good.
-		<br/><br/><br/>
 		
 		<form>
-			<input type="text" id="nimir" name="word">
+			<input type="text" id="nimir">
 			<a href="#a" id="alasar"><input type="button" onclick="search()" value="Search!"></a>
 			<text id="tokir"></text>
 		</form>
@@ -70,19 +94,21 @@
 		<i><fl>Everything else is just as complex.</fl></i>
 		<br/>
 		<br/>Definition: (emphasis, emotion or confirmation)
-		<br/>Etymology: From onomatopoeia.
+		<br/>Part of Speech: adjective
+		<br/>Etymology: Onomatopoeia.
 		<br/>Example: ni li suli mute <b>a</b>! (This is very, <b>very</b> big!)
 		<br/>Tips and Tricks:
 		<br/><ul><li>a doesn't really mean anything precise. It simply adds emphasis to your conversation, like a cherry on top of your word sundae. For example, "ona li ike a" still means "It is bad," but it's <i>particularly</i> bad. The "a" in this sentence conveys more emotion than simply saying "ona li ike." In this way, "a" sortof acts like an exclaimation point.
 		<br/><li>A common response to, well, anything in toki pona is simply responding with "a." It can be used to show your acknowledgement of something.
-		<br/><li>Keep in mind that a is still a modifier, and only a modifier. You can't say "ni li a," atleast without being very confusing. "a" doesn't really mean anything on its own.
+		<br/><li>Keep in mind that a is still a modifier, and only a modifier. "a" doesn't really mean anything on its own.
 		</ul><br/>
 		
 		<h3><a id="akesi">akesi</a></h3>
 		<i><fl>The golden idol of toki pona.</fl></i>
 		<br/>
 		<br/>Definition: non-cute animal; reptile, amphibian
-		<br/>Etymology: From the Dutch "hagedis," meaning "lizard."
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Dutch "hagedis," meaning "lizard."
 		<br/>Example: <b>akesi</b> suli li lon tenpo pini. (Big <b>reptiles</b> were present in the past.)
 		<br/>Tips and Tricks:
 		<br/><ul><li>Note that, although akesi can mean both a non-cute animal <i>and</i> a lizard, it doens't imply that those are the same. You can have an "akesi suwi" (cute lizard) as much as an other animal.
@@ -92,7 +118,8 @@
 		<i><fl>[This flavor text left intentionally blank.]</fl></i>
 		<br/>
 		<br/>Definition: no, not, zero
-		<br/>Etymology: From the Georgian "არა," or "ara," meaning "no."
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Georgian "არა," or "ara," meaning "no."
 		<br/>Examples: mi sona <b>ala</b> e nasin pi toki ni. (I <b>don't</b> know how to speak this language.) sina sona <b>ala</b> sona? (Do you know?)
 		<br/>Tips and Tricks:
 		<br/><ul><li>Aside from simply adding a negator to any word it modifies, ala is also how questions are commly formed in toki pona. Putting "x ala x" is pretty much just asking "x, or not x?" For example, "sina pona ala pona?" does mean "Are you good?" but it more literally means "Are you good or not good?"
@@ -103,28 +130,33 @@
 		<i><fl>Reminder that toki pona is based from hunter-gatherer values.</fl></i>
 		<br/>
 		<br/>Definition: to hunt, forage
-		<br/>Etymology: From the Acadian French "à la chasse," meaning "hunting," from the French "chasser," which means "to hunt."
+		<br/>Part of Speech: content word, preverb
+		<br/>Etymology: From Acadian French "à la chasse," meaning "hunting," from French "chasser," which means "to hunt."
 		<br/>Example: jan ante li <b>alasa</b> e kili lili. (Other people <b>forage</b> for the small fruit.)
 		<br/>Tips and Tricks:
 		<br/><ul><li>In casual conversation, alasa is used simply for "find." For example, "mi wile alasa e supa monsi ante" means "I want to find another chair."
 		</ul>Fun Knowledge:
-		<br/><ul><li>Some people use alasa as a preverb, that is, a word that comes before a verb to change it's meaning. Preverb alasa means "try," as in, "mi alasa sona e sina," meaning "I try to understand you." This is opposed to the other word which means try, "lukin." Another fun idea is that alasa can mean actions with no definite end, whereas lukin refer to actions which can end.
+		<br/><ul><li>Some people use alasa as a preverb, that is, a word that comes before a verb to change it's meaning. Preverb alasa means "try," as in, "mi alasa sona e sina," meaning "I try to understand you." This is opposed to the other word which means try, <a href="#kepeken">lukin</a>. Another fun idea is that alasa can mean actions with no definite end, whereas lukin refer to actions which can end.
 		</ul><br/>
 		
 		<h3><a id="ale">ale</a></h3>
 		<i><fl>ale li pona.</fl></i>
 		<br/>
 		<br/>Definition: all; abundant, countless, bountiful, every, plentiful; abundance, everything, life, universe; one hundred
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Dutch "alle," meaning "all."
 		<br/>Example: jan <b>ale</b> li ike. taso mi ike ala. (Everyone is <b>bad</b> except for me.)
 		<br/>Tips and Tricks:
 		<br/><ul><li>When talking about numbers in toki pona, ale can mean 100. For example, "ale mute mute luka tu wan" means 100+20+20+5+2+1, or 148.
+		</ul>Fun Knowledge:
+		<br/><ul><li>ale has a synonym, <i>ali</i>, to make it distinct from ala. Unlike other words which are claimed to be synonyms, these are exactly the same, and are used interchangably.
 		</ul><br/>
 		
 		<h3><a id="anpa">anpa</a></h3>
 		<i><fl>The univeral word for "land above."</fl></i>
 		<br/>
 		<br/>Definition: bowing down, downward, humble, lowly, dependent
+		<br/>Part of Speech: content word, positional noun
 		<br/>Etymology: From Acadian French "en bas," meaning "below."
 		<br/>Example: mi kepeken e nasin <b>anpa</b>. (I take the <b>downward</b> road.)
 		<br/>Tips and Tricks:
@@ -135,6 +167,7 @@
 		<i><fl>And kule ante is magenta.</fl></i>
 		<br/>
 		<br/>Definition: different, altered changed, other
+		<br/>Part of Speech: content word, preposition (unconventional)
 		<br/>Etymology: From Dutch "ander," meaning "other," or "different."
 		<br/>Example: ona li <b>ante</b> e nasin pi musi ni. (They <b>changed</b> the rules of the game.)
 		<br/>Tips and Tricks:
@@ -148,6 +181,7 @@
 		<i><fl>sina anu anu anun't e nimi?</fl></i>
 		<br/>
 		<br/>Definition: or
+		<br/>Part of Speech: particle, conjunction
 		<br/>Etymology: From Georgian "ან," or "an," meaning "or."
 		<br/>Example: sina ken pali <b>anu</b> musi; seme li pona tawa sina? (You can work <b>or</b> play; which one do you think is good?)
 		<br/>Tips and Tricks:
@@ -156,10 +190,20 @@
 		<br/><ul><li>anu is rarely used as a content word, meaning to choose, or decide. For example, "o anu e leko" is telling someone to decide on a block.
 		</ul><br/>
 		
+		<h3><a id="apeja">apeja</a></h3>
+		<i><fl>APEJA LI MI, APEJA LI MI</fl></i>
+		<br/>
+		<br/>Definition: shame, guilt
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "häpeä," meaning "shame."
+		<br/>Example: mi pilin <b>apeja</b> lili tan ijo pi lukin sina. (I'm feeling a bit <b>guilty</b> because of what you saw.)
+		<br/><br/>
+		
 		<h3><a id="awen">awen</a></h3>
 		<i><fl>o awen pona, lon weka sina.</fl></i>
 		<br/>
 		<br/>Definition: enduring, kept, protected, safe, waiting, staying; to continue to
+		<br/>Part of Speech: content word, preverb
 		<br/>Etymology: From Dutch "houden," meaning "keep, care for, hold. (in a particular state)"
 		<br/>Examples: ona li moli ala la ona li <b>awen</b>. (If it's not dead, it <b>continues</b>.) taso, pilin mi la ona li <b>awen</b> pakala. (However, I think it will <b>continue</b> to break.)
 		<br/>Tips and Tricks:
@@ -171,17 +215,21 @@
 		<i><fl>It's the one particle everyone seems to forget.</fl></i>
 		<br/>
 		<br/>Definition: (before the direct object)
-		<br/>Etymology: Unknown
+		<br/>Part of Speech: particle
+		<br/>Etymology: A priori.
 		<br/>Example: mi pana <b>e</b> telo tawa sina. (I give water to you.)
 		<br/>Tips and Tricks:
 		<br/><ul><li>Always remember to use e. A common beginners mistake is to omit e, like in the sentence "mi kama sona e toki pona," which is sometimes incorrectly said as "mi kama sona toki pona." It does sound more similar to English, but remember that it's not correct.
 		<br/><li>e goes before the direct object, so it's the thing your doing the action on. This causes some quirks that you must be aware of; for example, "mi toki e sina" doesn't mean I'm talking to you, but it means "I talk about you."
+		</ul>Fun Knowledge:
+		<br/><ul><li>There is a really strange analysis that e is actually a preposition, meaning "affect" or "directed at." Syntactically, e is the same as a preposition, but it doesn't have a content word meaning. For the first actual preposition, see <a href="#kepeken">kepeken</a>.
 		</ul><br/>
 		
 		<h3><a id="en">en</a></h3>
 		<i><fl>And another particle which just straight up isn't used.</fl></i>
 		<br/>
 		<br/>Definition: (between multiple subjects)
+		<br/>Part of Speech: particle
 		<br/>Etymology: From Dutch "en," meaning "and."
 		<br/>Example: jan Jepo <b>en</b> jan Tenli li pali e lipu sin. (Jepo <b>and</b> Tenli are making a new book.)
 		<br/>Tips and Tricks:
@@ -196,6 +244,7 @@
 		<i><fl>In my opinion, this is one of the weeker words.</fl></i>
 		<br/>
 		<br/>Definition: market, shop, fair, bazaar, business transaction
+		<br/>Part of Speech: content word
 		<br/>Etymology: Of Akan origin.
 		<br/>Example: mi tawa <b>esun</b>. (I go to the <b>store</b>.)
 		<br/></ul>Fun Knowledge:
@@ -206,6 +255,7 @@
 		<i><fl>It's most common usage is in example sentences.</fl></i>
 		<br/>
 		<br/>Definition: thing, phenomenon, object, matter
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Esperanto "io," meaning "something," which is from Romance "i-," which is the root of relative pronouns.
 		<br/>Example: <b>ijo</b> ni li kama sewi. (This <b>thing</b> is rising.)
 		<br/>Fun Knowledge:
@@ -216,6 +266,7 @@
 		<i><fl>ike pike sike sike.</fl></i>
 		<br/>
 		<br/>Definition: bad, negative; non-essential, irrelevant
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Finnish "ilkeä," meaning "mean," or "wicked."
 		<br/>Example: sina pakala e supa sike? ni li <b>ike</b> a! (You broke your table? That's <b>terrible</b>!)
 		<br/>Tips and Tricks:
@@ -226,6 +277,7 @@
 		<i><fl>ilo nanpa li ken <s>ilo</s>weka e nanpa!</fl></i>
 		<br/>
 		<br/>Definition: tool, implement, machine, device
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Esperanto "ilo," meaning "tool."
 		<br/>Example: mi pali e tomo kepeken <b>ilo</b>. (I made a house with a <b>tool</b>.)
 		<br/>Fun Knowledge:
@@ -237,16 +289,33 @@
 		<i><fl>Whenever a word sounds kinda like English, assume it has Tok Pisin etymology.</fl></i>
 		<br/>
 		<br/>Definition: centre, content, inside, between; internal organ, stomach
+		<br/>Part of Speech: content word, positional noun
 		<br/>Etymology: From Tok Pisin "insait," meaning "inside."
 		<br/>Example: moku ni li pakala e <b>insa</b> mi. (This food hurts my <b>stomach</b>.)
 		<br/>Tips and Tricks:
 		<br/><ul><li>insa is a relative positional noun, so you can use it to describe positions relative to you. For example, "ona li lon insa pi supa lape" is "It is inside my bed." All positional nouns follow this pattern; each one can mean a position, aswell as a part of the body, in this case, the stomach.
 		</ul><br/>
 		
+		<!-- hmmmmm ken la mi o weka e ni
+		<h3><a id="isipin">isipin</a></h3>
+		<i><fl>It's fair to be skeptical about this word.</fl></i>
+		<br/>
+		<br/>Definition: to think, to imagine, to believe
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Tagalog "isipin," meaning "to think."
+		<br/>Example: mi <b>isipin</b> e sina la olin mi li kama suli. (When I <b>think</b> about you, my love grows stronger.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>isipin is one of the harder words to get a hold of. A good translation of isipin is the English word <i>muse</i>. It is different from "sona," in that what you are thinking about isn't always factual, and it's different from "pilin," in that what you are thinking isn't always emotional.
+		</ul>Fun Knowledge
+		<br/><ul><li>isipin can be used to create all sorts of fun words, like "isipin ken," which means guess, "isipin ike," which means skepticality, "isipin sin," which means idea, "isipin kon," which means "dream," or "isipin awen," which means "something that you can't stop thinking about."
+		<br/><li>isipin is one of the newest words to be generally recognized; only coming into creation in August of 2020. Unlike most other generally accepted new words, this word was only made by one person, who goes by "ko." This method of creating new words has gone under heavy criticism; so much so that people will hate me for saying that isipin is "generally accepted."
+		</ul><br/>
+		!-->
 		<h3><a id="jaki">jaki</a></h3>
 		<i><fl>Not an accurate description of yakisoba.</fl></i>
 		<br/>
 		<br/>Definition: disgusting, obscene, sickly, toxic, unclean, unsanitary
+		<br/>Part of Speech: content word
 		<br/>Etymology: From English "yucky."
 		<br/>Example: tomo ni li <b>jaki</b>. (This house is <b>gross</b>.)
 		<br/>Tips and Tricks:
@@ -257,6 +326,7 @@
 		<i><fl>Cut out the middlejan.</fl></i>
 		<br/>
 		<br/>Definition: human being, person, somebody
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Cantonese "人," or "jan," meaning "person."
 		<br/>Example: <b>jan</b> ale li sona e ma ni. (Every <b>person</b> knows about this place.)
 		<br/>Fun Knowledge:
@@ -267,18 +337,20 @@
 		<i><fl>Usually pronounced "jasima." <jasima1>"jasima."</jasima1> <jasima2>"jasima."</jasima2> <jasima3>"jasima."</jasima3> <jasima4>"kulijo!"</jasima4></fl></i>
 		<br/>
 		<br/>Definition: reflect, resound, mirror, be on the opposite/polar end of
+		<br/>Part of Speech: content word, preposition (unconventional)
 		<br/>Etymology: From Turkish "yansıtmak," meaning "to reflect," or "to reverberate."
 		<br/>Example: tenpo mi li tenpo <b>jasima</b> sina. (My time is the <b>opposite</b> of your time.)
 		<br/>Fun Knowledge:
 		<br/><ul><li>jasima is a post-pu word- one of the most common, in fact. It was of a few created by a commitee of people on the <i>ma pona pi toki pona</i> Discord server.
 		<br/><li>jasima often means just a few things which aren't quite related to what it actually means. jasima is often used to mean "echo," which is a valid interpretation, but it's also used to mean "livestream," or "record," as in, "sina ken ala ken jasima e sinpin sina?" which means "can you stream your screen?" The idea comes from the fact that the streamed recording is a reflection of the orginal, but it's not quite the same meaning as jasima proper.
-		<br/><li>jasima is sometimes used as a preposition, though this usage is not very popular. If you want to see the first word that is <i>actually</i> a preposition, see kepeken.
+		<br/><li>jasima is sometimes used as a preposition, though this usage is not very popular. If you want to see the first word that is <i>actually</i> a preposition, see <a href="#kepeken">kepeken</a>.
 		</ul><br/>
 		
 		<h3><a id="jelo">jelo</a></h3>
 		<i><fl>palisa jelo li kili nanpa wan!</fl></i>
 		<br/>
 		<br/>Definition: yellow, yellowish
+		<br/>Part of Speech: content word
 		<br/>Etymology: From English "yellow."
 		<br/>Example: palisa <b>jelo</b> ni li moku pona. (This <b>yellow</b> stick is good food.)
 		<br/><br/>
@@ -287,19 +359,20 @@
 		<i><fl>The opposite of jon't is jo-positive.</fl></i>
 		<br/>
 		<br/>Definition: to have, carry, contain, hold
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Mandarin "有," or "yǒu," meaning "have."
 		<br/>Example: mi <b>jo</b> e lipu pi sitelen tawa. (I'm <b>carrying</b> a book about movies.)
-		<br/>Tips and Tricks:
-		<br/><ul><li>A common trap that many newer people fall into is interpreting jo as the English word "have." jo is much more limiting than "have;" a better way of thinking of it is to compare it to the word "carry." The sentence "mi jo e soweli" does not mean "I have a cat," it literally means "I am carrying a cat."
-		</ul>Fun Knowledge:
+		<br/>Fun Knowledge:
 		<br/><ul><li>There is a faction of people known as <i>jon'ters</i> who insist that jo is an uneccessary word. The argument here is that jo can be replaced by other words, specifically either poki or luka. So, while a sane person would say, "mi jo e supa monsi ni" to mean "I am carrying this chair," a jon'ter would say, "mi luka e supa monsi ni," meaning "This chair is in my hand."
 		<br/><li>A common usage of the word jo is "metaphorical jo," which is when you use the word jo with something that isn't really an object. An example of this is "lawa mi li jo e sona lili," which means "My brain carries little information."
+		<br/><li>A much less common usage of the word jo is "relational jo," where jo specifies a vague relationship between two words. An example would be "nasin ni li jo e jan lawa" which would mean "This road has a caretaker." In this case, the word jo acts much more like the English word <i>have</i>.
 		</ul><br/>
 		
 		<h3><a id="kala">kala</a></h3>
 		<i><fl>jan mute li kala! penguins li kala.</fl></i>
 		<br/>
 		<br/>Definition: fish, marine animal, sea creature
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Finnish "kala," meaning "fish."
 		<br/>Example: mi wile lanpan e seli tan <b>kala</b> sewi. (I must steal fire from the <b>fish</b> gods.)
 		<br/>Fun Knowledge:
@@ -310,26 +383,30 @@
 		<i><fl>kalama seli li SKHKSHKSHKSKH</fl></i>
 		<br/>
 		<br/>Definition: to produce a sound; recite, utter aloud
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Serbo-Croatian "galama," meaning "fuss," or "noise."
 		<br/>Example: <b>kalama</b> mute li lon. (There's lots of <b>noise</b>.)
 		<br/>Fun Knowledge:
-		<br/><ul><li>A common usage of kalama is the phrase "kalama musi." kalama doesn't mean music though; it means any sound. Because it is a general sound, it has a lot of overlap with other words. toki is just "kalama jan," and mu is just "kalama soweli."
+		<br/><ul><li>A common usage of kalama is the phrase "kalama musi," which means music. kalama doesn't <i>just</i> mean music though; it means any sound. Because it is a general sound, it has a lot of overlap with other words. toki is just "kalama jan," and mu is just "kalama soweli."
 		</ul><br/>
 		
 		<h3><a id="kama">kama</a></h3>
 		<i><fl>kala (li) kama kamalawala ala la kala (li) kama lawa tawa ma kala (li) ken kalama tawa kala lawa.</fl></i>
 		<br/>
 		<br/>Definition: arriving, coming, future, summoned; to become, manage to, succeed in
+		<br/>Part of Speech: content word, preverb
 		<br/>Etymology: From Tok Pisin "kamap," meaning "arrive," or "happen."
 		<br/>Examples: <b>kama</b> pi jan suli li suli tawa kulupu ni. (The <b>arrival</b> of the ambassador is important to this town.) mi <b>kama</b> pali e ni (I <b>manage</b> to do this.)
 		<br/>Tips and Tricks:
-		<br/><ul><li>The main usage of kama is as a preverb. Despite being the primry definition, it doesn't translate well into English; you can think of it as "coming," as in, "mi kama lape" means "I am coming to sleep," but even that doesn't portray the word very well.
+		<br/><ul><li>The main usage of kama is as a preverb. Despite being the primary definition, it doesn't translate well into English; you can think of it as "coming," as in, "mi kama lape" means "I am coming to sleep," but even that doesn't portray the word very well.
+		<br/><li>A very common usage of kama is "tenpo kama" which means "the future."
 		</ul><br/>
 		
 		<h3><a id="kapesi">kapesi</a></h3>
 		<i><fl>ona li moli kapesi.</fl></i>
 		<br/>
 		<br/>Definition: brown, gray
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Greek "καφές," or "kafés," meaning "light brown."
 		<br/>Example: sike ni li <b>kapesi</b>. (This circle is <b>brown</b>.)
 		<br/>Fun Knowledge:
@@ -340,6 +417,7 @@
 		<i><fl>kasi ike mute li lon mi ni! kasi ike li lon!</fl></i>
 		<br/>
 		<br/>Definition: plant, vegetation; herb, leaf
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Finnish "kasvi," meaning "plant."
 		<br/>Example: mi sona ala e <b>kasi</b> pi loje laso. (I don't know of a purple <b>plant</b>.)
 		<br/>Fun Knowledge:
@@ -350,6 +428,7 @@
 		<i><fl>In the context of possibility...</fl></i>
 		<br/>
 		<br/>Definition: to be able to, be allowed to, can, may; possible
+		<br/>Part of Speech: content word, preverb
 		<br/>Etymology: From Tok Pisin "ken," meaning "can."
 		<br/>Examples: sina <b>ken</b> pali e kalama musi sin. (You <b>could</b> make a new song.) <b>ken</b> pi kama mi li lili. (The <b>possibility</b> of my arrival is slim.)
 		<br/>Tips and Tricks:
@@ -362,6 +441,7 @@
 		<i><fl>Either the prettiest word or the ugliest word, but either way we can all agree that it's too long.</fl></i>
 		<br/>
 		<br/>Definition: to use, with, by means of
+		<br/>Part of Speech: content word, preposition
 		<br/>Etymology: From Dutch "gebruiken," meaning "to use."
 		<br/>Examples: ona li pali e lupa suli <b>kepeken</b> luka ona taso. (He made a giant hole <b>using</b> only his hands.) mi wile <b>kepeken</b> e ilo ni. (I need to <b>use</b> this tool.)
 		<br/>Tips and Tricks:
@@ -375,6 +455,7 @@
 		<i><fl>kili lili li lili kili</fl></i>
 		<br/>
 		<br/>Definition: fruit, vegetable, mushroom
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Georgian "ხილი," or "xili," meaning "fruit."
 		<br/>Example: mi li moku e <b>kili</b> loje. (We are eating a red <b>fruit</b>.)
 		<br/>Fun Knowledge:
@@ -385,10 +466,11 @@
 		<i><fl>Somewhere inbetween "has a meaning" and "doesn't have a meaning."</fl></i>
 		<br/>
 		<br/>Definition: too, also, as well
+		<br/>Part of Speech: adjective
 		<br/>Etymology: From Finnish "-kin," meaning "too," or "also."
 		<br/>Example: sina kute e kalama musi ni? mi kute e ona <b>kin</b>! (You've heard this song? I've heard it <b>too</b>!)
 		<br/>Tips and Tricks:
-		<br/><ul><li>In pu, "kin" is treated as a complete synonym of a, but in modern usage this isnt really true. kin still means emphasis, just a specific type that says "me too!" Some circles of toki pona may continue to use kin in the same way as a, so be aware of this when using this word.
+		<br/><ul><li>In lipu pu, "kin" is treated as a complete synonym of <a href="a">a,</a> but in modern usage this isnt really true. kin still means emphasis, just a specific type that says "me too!" Some circles of toki pona may continue to use kin in the same way as a, so be aware of this when using this word.
 		</ul>Fun Knowledge:
 		<br/><ul><li>A cool phrase to use is "kin la," which means "also." This often relates back to the previous sentence, as in "jan mute li lon. kin la, jan mute li toki ala," which means "Many people are here. Also, many people aren't talking."
 		<br/><li>Most of the time, kin is strapped onto the end of a sentence, but sometimes it's used like a regular modifier. You can say "mi pali e ni kin" to mean "I'm doing this too," but if you want to, you can say "mi kin li pali e ni" to mean "I, too, am doing this."
@@ -398,6 +480,7 @@
 		<i><fl>TEN WORDS THEY DON'T TEACH YOU IN PU!!</fl></i>
 		<br/>
 		<br/>Definition: split, cut, slice
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Iñupiat "kipriruk," meaning "cut," or from Swahili "kipisi," meaning "sliver."
 		<br/>Example: ona li <b>kipisi</b> e pan. (He <b>sliced</b> the bread.)
 		<br/>Tips and Tricks:
@@ -408,6 +491,7 @@
 		<i><fl>In some, admittedly dumb, dialects, this means -1.</fl></i>
 		<br/>
 		<br/>Definition: hard object, metal, rock, stone
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Finnish "kiven," meaning "stone."
 		<br/>Example: mi pana e <b>kiwen</b> tawa telo. (I threw the <b>stone</b> into the water.)
 		<br/>Tips and Tricks:
@@ -418,6 +502,7 @@
 		<i><fl>jan ko's jan's ko's jan ko.</fl></i>
 		<br/>
 		<br/>Definition: clay, clinging form, dough, semi-solid, paste, powder
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Cantonese "膏," or "gou," meaning "cream."
 		<br/>Example: <b>ko</b> mute li lon ma ni. (There is lots of <b>mud</b> in this area.)
 		<br/><br/>
@@ -426,13 +511,1141 @@
 		<i><fl>kon kon = secret agent breath</fl></i>
 		<br/>
 		<br/>Definition: air, breath; essence, spirit; hidden reality, unseen agent
+		<br/>Part of Speech: content word
 		<br/>Etymology: From Mandarin "空氣," or "kōngqì," meaning "air."
 		<br/>Example: <b>kon</b> pi nimi sin ni li seme? (What's the <b>spirit</b> of this word?)
 		<br/>Fun Knowledge:
 		<br/><ul><li>kon can mean many things, and is useful as both an adjective and a noun. "kon wawa" is wind, "len kon" is a cloak, "jan kon" is a spy, "kon nimi" is a definition, "monsuta kon" is a ghost, and "kon jan" is a person's soul. Just to name a few.
 		</ul><br/>
 		
+		<h3><a id="kule">kule</a></h3>
+		<i><fl>hey, mi kule!</fl></i>
+		<br/>
+		<br/>Definition: colourful, pigmented, painted
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Acadian French "couleur," meaning "color."
+		<br/>Example: <b>kule</b> pi sitelen ni li ante tawa sitelen ante. (The <b>colors</b> of this picture are different to other pictures.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>While there are words for individiual colors in toki pona, if you wish to you can describe any color as kule. Examples include: "kule suno" for yellow, "kule telo" for blue, "kule kasi" for green, "kule seli" for orange, "kule sewi" for blue/white, "kule jaki" for brown, and plenty of others.
+		</ul>Fun Knowledge:
+		<br/><ul><li>kule can also refer to the LGBTQ+ community, because the community is described as "colorful," potentially in reference to the pride flag.
+		</ul><br/>
+		
+		<h3><a id="kulupu">kulupu</a></h3>
+		<i><fl>kulupu li jan mute.</fl></i>
+		<br/>
+		<br/>Definition: community, company, group, nation, society, tribe
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Tongan "kulupu," meaning "group."
+		<br/>Example: mi weka tan <b>kulupu</b> ike. (I left the bad <b>group</b>.)
+		<br/><br/>
+		
+		<h3><a id="kute">kute</a></h3>
+		<i><fl>"have I been muted this whole time? oh that's neat."</fl></i>
+		<br/>
+		<br/>Definition: ear; to hear, listen; pay attention to, obey
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Acadian French "écouter," meaning "listen."
+		<br/>Example: mi pini e kalama musi mi! sina wile ala wile <b>kute</b>? (I finished my song! Do you want to <b>listen</b>?)
+		<br/>Fun Knowledge:
+		<br/><ul><li>The "obey" definition of kute is VERY rarely used. Often, people use lawa to mean "control," and flip the entire sentence around. Though, on the flipside, "o kute" is probably one of the <i>most</i> common usages of kute, and it means "pay attention."
+		</ul><br/>
+		
+		<h3><a id="la">la</a></h3>
+		<i><fl>The word I have been dreading having to explain.</fl></i>
+		<br/>
+		<br/>Definition: (between the context phrase and the main phrase)
+		<br/>Part of Speech: particle, conjunction
+		<br/>Etymology: From Acadian French "-la," which is a proximal and topical suffix.
+		<br/>Examples: mi pini e pali mi <b>la</b> mi ken musi. (When I finish my work, I can play.) tenpo pini <b>la</b> mi kama sona e nimi ale. (I've learned all of the words.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>This word is probably the hardest word to describe in toki pona, as it's a concept that English really lacks. la seperates the context phrase from the main phrase. The way I usually translate it is "with this as context," which sounds dumb, but actually helps. An example may be: "jan Tenli li sona e nimi la jan Tepo li sona kin." Using this translation, the sentence becomes "Tenli knows the word. With this as context, Tepo also knows it." This may seem like a very weird and useless sentence, until you rearrange it and see that it means "When Tenli knows the word, Tepo also knows it."
+		<br/><br/><li>la can be used for all sorts of cool things; one common usage is to form conditionals. For example, "mi pali e ni la ijo pona li kama" means "If I make this, good things will come." In this case, the la translates into the word "if."
+		<br/><li>Another common usage of la is with time. "tenpo kama la" means "in the context of the coming time," which translates into English as "in the future." You can also say "tenpo pini la" for "the finished time," or "tenpo lon la"/"tenpo ni la" to mean "right now." In this way, la can be used as a tense marker.
+		<br/><li>And, lastly, single words can be used as adverbs. "awen la" means continually, "ken la" means maybe, and "tan la" means originally. There are also some other cool constructions, like "mi la," which means "in my opinion." la really is a cool word!
+		</ul>Fun Knowledge:
+		<br/><ul><li>A comma may or may not go after the word la, depending on the context. A comma isn't <i>required,</i> but it can be there, and when speaking toki pona it's one of the few parts where speakers include a pause.
+		<br/><li>In a way, the word la really is an embodiment of the lanugage. toki pona is generally very context sensitive, and la helps to define the context in which you are speaking.
+		</ul><br/>
+		
+		<h3><a id="lanpan">lanpan</a></h3>
+		<i><fl>What is this lanpannery?</fl></i>
+		<br/>
+		<br/>Definition: take, seize, catch, receive, get
+		<br/>Part of Speech: content word, preverb (unconventional)
+		<br/>Etymology: From Greek "λαμβάνω," or "lamváno," meaning "take."
+		<br/>Example: mi <b>lanpan</b> e leko tan jan ante. (I <b>took</b> a block from someone else.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>Some people really, REALLY hate this word. This is partially because it is a word created by a bunch of people after lipu pu was released, but also because some people think that the concept of "take" is not a concept suited in toki pona. As mentioned in <a href="#jo">jo,</a> there is a concept of shared possesion that lanpan breaks somewhat. Some people like this though, because it allows you to express something that is normally outside of the boundaries of the lanugage. Personally, I don't hold a very strong opinion either way; I just use it because it is a word that many people understand.
+		<br/><li>Some people like to use "kama jo" as a substitute for lanpan, though this kindof misses out on the meaning, as "lanpan" deliberately expresses intent to steal, whereas "kama jo" is more passive.
+		</ul><br/>
+		
+		<h3><a id="lape">lape</a></h3>
+		<i><fl>If two people go to sleep, it's considered bilapeial.</fl></i>
+		<br/>
+		<br/>Definition: sleeping, resting
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Dutch "slapen," meaning "sleep."
+		<br/>Example: tenpo ni la mi weka tan <b>lape</b>. (Now, I'm leaving because of <b>sleep</b>.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>Most of the time, lape means sleep, and the resting definition is ignored. However, when it is used to mean rest, it can often cause confusion, because people may think that you are going to sleep even when you are just sitting down for a bit. To remedy this, some people (and when I say some people I mean jan Kawa) made the joke word "slape," which means just sleep. Clearly, this is the worst word ever made in toki pona.
+		</ul><br/>
+		
+		<h3><a id="laso">laso</a></h3>
+		<i><fl>In Welsh, "glas" can also mean "inexperienced."</fl></i>
+		<br/>
+		<br/>Definition: blue, green
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Welsh "glas," meaning "blue."
+		<br/>Example: ijo ni li <b>laso</b>. kin la, lon ala pi sona pali li open. (This thing is <b>blue</b>. Also, I am starting to run out of examples.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>laso may seem odd if you come from a language which has different words for blue and green, but it actually makes a lot of sense for other languages. Most people tend to think of laso as cyan, or teal, rather than as one or the other.
+		</ul>Fun Knowledge:
+		<br/><ul><li>The need for a differentiator between green and blue in toki pona has led to two joke word being made: "blaso," which means blue, and "graso," which means green. More serious attempts at differentiation include "laso telo" and "laso kasi" for blue and green respectively.
+		</ul><br/>
+		
+		<h3><a id="lawa">lawa</a></h3>
+		<i><fl>lawa suli moment.</fl></i>
+		<br/>
+		<br/>Definition: head, mind; to control, direct, guide, lead, own, plan, regulate, rule
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Serbo-Croatian "глава," or "glava," meaning "head."
+		<br/>Example: mi <b>lawa</b> e tomo mi. (I <b>own</b> my house.)
+		<br/><br/>
+		
+		<h3><a id="leko">leko</a></h3>
+		<i><fl>musi Manka li musi leko.</fl></i>
+		<br/>
+		<br/>Definition: stairs, square, block
+		<br/>Part of Speech: content word
+		<br/>Etymology: From English "lego."
+		<br/>Example: mi pana e <b>leko</b> tawa sina. (I give you a <b>block</b>.)
+		<br/><br/>
+		
+		<h3><a id="len">len</a></h3>
+		<i><fl>Exclusively used in the phrase "len noka."</fl></i>
+		<br/>
+		<br/>Definition: cloth, clothing, fabric, textile; cover, layer of privacy
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Acadian French "linge," meaning "clothing."
+		<br/>Example: jan mute li kepeken e <b>len</b> tan ni: ona li wile <b>len</b> e sijelo ona. (People use <b>clothes</b> because this: They want want to <b>cover</b> their bodies.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>One of len's definitions it "cover," which can also mean "cloaked." In this way, it's definition kindof overlaps with kon.
+		</ul><br/>
+		
+		<h3><a id="lete">lete</a></h3>
+		<i><fl>Raw power.</fl></i>
+		<br/>
+		<br/>Definition: cold, cool; uncooked, raw
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Acadian French "frette," meaning "cold."
+		<br/>Example: tomo mi li <b>lete</b> mute a tan seme? (Why is my room so very <b>cold</b>?)
+		<br/>Fun Knowledge:
+		<br/><ul><li>lete is sometimes joking used to mean the word "cool," as in, "sina lete" means "You're cool."
+		</ul><br/>
+		
+		<h3><a id="li">li</a></h3>
+		<i><fl>Arguably the most important word.</fl></i>
+		<br/>
+		<br/>Definition: (between any subject and its verb, and introduces a new verb for the same subject)
+		<br/>Part of Speech: particle
+		<br/>Etymology: From Esperanto "li," meaning "he."
+		<br/>Example: ona <b>li</b> sona li awen pana e ijo. (She knows, and continues to give the thing.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>li is used between the subject and the verb, and it's used in pretty much every single toki pona sentence, so don't forget to put it in! The only time where a li may not be used is when the subject is mi or sina. In this case, you can omit the li, like in "sina pona," which means "you are good." In that case, the li is implied.
+		</ul>Fun Knowledge:
+		<br/><ul><li>While li is omitted when mi or sina is the subject the vast, <i>vast</i> majority of the time, it's technically not gramatically incorrect to say "mi li" or "sina li," though I would heavily advise against saying this because you will definitely get some weird looks if you say that.
+		</ul><br/>
+		
+		<h3><a id="lili">lili</a></h3>
+		<i><fl>A little less important.</fl></i>
+		<br/>
+		<br/>Definition: little, small, short; few; a bit; young
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Tok Pisin "liklik," meaning "small."
+		<br/>Example: mi pilin lape <b>lili</b> tan lon pi supa lape mi. (I'm feeling a <b>little</b> tired, because I'm on my bed.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>lili can either mean few or small. The only way to figure out is by context; if you are talking about a group of things, it's more likely "few," but when talking about a single thing, it's more likely to be "small." However, the context is very important.
+		</ul>Fun Knowledge:
+		<br/><ul><li>lili famously has two antonyms; "suli," which means "big," and "mute," which means "many." toki pona has a few of these imbalances, where 1 word has two opposites; sewi is a good example.
+		</ul><br/>
+		
+		<h3><a id="linja">linja</a></h3>
+		<i><fl>My favorite toki pona word. :></fl></i>
+		<br/>
+		<br/>Definition: long and flexible thing; cord, hair, rope, thread, yarn
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "linja," meaning "line."
+		<br/>Example: ona li tawa lon <b>linja</b> tawa kasi suli. (She walked in a straight <b>line</b> to the tree.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>linja can also be used to mean "connection," since if two things are connected, you could metaphorically "draw a line" between them. In this way, linja is often used to talk about the internet, as in the phrase "linja mi li pakala," which means "My internet cut out." Alternatively,
+		</ul><br/>
+		
+		<h3><a id="lipu">lipu</a></h3>
+		<i><fl>You're looking at one of these right now!</fl></i>
+		<br/>
+		<br/>Definition: flat object; book, document, card, paper, record, website
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "lippu," meaning "flag," or "banner."
+		<br/>Example: mi pali e <b>lipu</b> pi jan sin pi toki pona. (I made a <b>website</b> for new people of toki pona.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>lipu in usually means any object that you can write on, but it can really include <i>any</i> object that has a flat surface. Most things that people consider as supa can also be a lipu, like, for example, a table.
+		</ul><br/>
+		
+		<h3><a id="loje">loje</a></h3>
+		<i><fl>Bonus musi: either lojelo or jeloje can be orange.</fl></i>
+		<br/>
+		<br/>Definition: red, reddish
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Dutch "rooie," meaning "red."
+		<br/>Example: <b>loje</b> li kule pona mute tawa mi. (<b>Red</b> is a really good color, to me.)
+		<br/><br/>
+		
+		<h3><a id="lon">lon</a></h3>
+		<i><fl>The only word you ever need.</fl></i>
+		<br/>
+		<br/>Definition: located at, present at, real, true, existing
+		<br/>Part of Speech: content word, preposition
+		<br/>Etymology: From Tok Pisin "long," meaning "at," or "on."
+		<br/>Example: tenpo mute la mi <b>lon</b> supa lape mi. (Most of the time, I am <b>on</b> my bed.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>lon is a preposition, which means that you can use it for indirect objects. For a better description of what a preposition is, see <a href="#kepeken">kepeken</a>.
+		<br/><li>If something is being described as "lon," it means that it exists. For example, "ijo lon li lon" means "A thing that exists is existing." You can also use "lon e ijo" to mean "bring into existence," like in the sentence, "mi lon e ijo ni," which means "I create this thing."
+		<br/><li>One of the definitions of lon is "true," so often, people use lon as an affirmative response, like how you would use "true" in English. However, it may certainly not be used to say "yes" to a question of the form "x ala x."
+		</ul>Fun Knowledge:
+		<br/><ul><li>"seme li lon" is a common greeting in toki pona, and it usually means something like "What's up?" in English.
+		</ul><br/>
+		
+		<h3><a id="luka">luka</a></h3>
+		<i><fl>luka pimeja li kama tawa sina lon pimeja.</fl></i>
+		<br/>
+		<br/>Definition: arm, hand, tactile organ; five
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Serbo-Croatian "рука," or "ruka," meaning "hand," or "arm."
+		<br/>Example: <b>luka</b> mi li pilin ike tan seme? (Why is my <b>hand</b> feeling bad?)
+		<br/>Tips and Tricks:
+		<br/><ul><li>luka can be used as the number 5. For a better description on how numbers in toki pona work, see <a href="#ale">ale</a>.
+		</ul>Fun Knowledge:
+		<br/><ul><li>One possible interpretation of luka is "to press," because if you apply your hand to something, you press it.
+		</ul><br/>
+		
+		<h3><a id="lukin">lukin</a></h3>
+		<i><fl>o lukin e toki mi!</fl></i>
+		<br/>
+		<br/>Definition: look at, see, examine, observe, read, watch; to seek, look for, try to
+		<br/>Part of Speech: content word, preverb
+		<br/>Etymology: From Tok Pisin "lukim," meaning "look at."
+		<br/>Example: mi ken ala <b>lukin</b> e sina tan ni: oko mi li pini. (I can't <b>see</b> you because my eyes are closed.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>A cool constructing you can do with lukin is "lukin mi la," which means "from what I can see." 
+		<br/><li>Some people like to use just lukin for eye, but most people use <a href="#oko">oko</a>.
+		</ul><br/>
+		
+		<h3><a id="lupa">lupa</a></h3>
+		<i><fl>If you take the lid off of a poki, it becomes a lupa.</fl></i>
+		<br/>
+		<br/>Definition: door, hole, orifice, window
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Lojban "clupa," meaning "loop."
+		<br/>Example: <b>lupa</b> mi li pana e kon wawa mute tawa mi! (My <b>window</b> is letting in a ton of wind to me!)
+		<br/>Fun Knowledge:
+		<br/><ul><li>The definition of lupa to mean "door" is somewhat contested, since, to be consistent with the other definitions, lupa should be the <i>doorway,</i> not the door itself, and "lupa sinpin" should be the door itself. However, more often than not, noone cares.
+		</ul><br/>
+		
+		<h3><a id="ma">ma</a></h3>
+		<i><fl>ma pona pi toki pona, AKA tan pi toki nasa.</fl></i>
+		<br/>
+		<br/>Definition: earth, land; outdoors, world; country, territory; soil
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "maa," meaning "land."
+		<br/>Example: sina lon <b>ma</b> seme?  mi lon <b>ma</b> Mewika. (What <b>country</b> are you from? I am from America.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>ma does <i>not</i> refer to a spot. It refers to an area of land, or an outdoors space, not a particular space in a room or other indoor place.
+		</ul><br/>
+		
+		<h3><a id="majuna">majuna</a></h3>
+		<i><fl>One of the few homological words in toki pona.</fl></i>
+		<br/>
+		<br/>Definition: old, aged
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Esperanto "maljuna," meaning "old."
+		<br/>Example: mi wile misikeke e jan <b>majuna</b>. (I want to help <b>old</b> people.)
+		<br/><br/>
+		
+		<h3><a id="mama">mama</a></h3>
+		<i><fl>mama mi a, epikuntu a! makaloni li suwi!</fl></i>
+		<br/>
+		<br/>Definition: parent, ancestor; creator, originator; caretaker, sustainer
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Georgian "მამა," or "mama," meaning "father."
+		<br/>Example: <b>mama</b> mi li wile e pona tawa mi. (My <b>parents</b> want the best for me.)
+		<br/><br/>
+		
+		<h3><a id="mani">mani</a></h3>
+		<i><fl>And now, we laugh at the definition of "domesticated animal" and move on.</fl></i>
+		<br/>
+		<br/>Definition: money, cash, savings, wealth; large domesticated animal
+		<br/>Part of Speech: content word
+		<br/>Etymology: From English "money."
+		<br/>Example: jan ale li wile jo e <b>mani</b> mute. (Everyone wants to have a lot of <b>money</b>.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>mani can refer to anything that is used as currency, or, more broadly, anything of agreed value. This is where the definition of "large domesticated animal" comes from.
+		</ul><br/>
+		
+		<h3><a id="meli">meli</a></h3>
+		<i><fl>a! mi meli.</fl></i>
+		<br/>
+		<br/>Definition: woman, female, feminine person; wife
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Tok Pisin "meri," meaning "woman."
+		<br/>Example: ona li jan <b>meli</b> pona. (She is a good <b>woman</b>.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>Although meli (and tonsi and mije) can be a person, it's much more commonly used as an adjective, as in, "jan meli."
+		</ul><br/>
+		
+		<h3><a id="mi">mi</a></h3>
+		<i><fl>a! mi mi.</fl></i>
+		<br/>
+		<br/>Definition: I, me, we, us
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Esperanto "mi," meaning "me."
+		<br/>Example: ken la <b>mi</b> ken pali e lipu pi jan sin pi toki pona li pana e ona tawa jan mute. (Maybe, <b>I</b> can make a website for new people of toki pona, and give it to a ton of people.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>mi does not just mean "me." mi can mean "we," "us," or any variation on a first person pronoun. Often, people say "mi mute" to differentiate between singular and plural, but I would advise against this unless absolutely necessary.
+		<br/><li>Using mi as an adjective to modify a word often shows possesion, as in, "soweli mi" is "my pet." This also works with <a href="#sina">sina</a> and <a href="#ona">ona</a>.
+		</ul><br/>
+		
+		<h3><a id="mije">mije</a></h3>
+		<i><fl>a! jan ante li mije.</fl></i>
+		<br/>
+		<br/>Definition: man, male, masculine person; husband
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "mies," meaning "man."
+		<br/>Example: ona li jan <b>mije</b> pona. (He is a good <b>man</b>.)
+		<br/><br/>
+		
+		<h3><a id="misikeke">misikeke</a></h3>
+		<i><fl>The only pre-pu word discovered post-pu.</fl></i>
+		<br/>
+		<br/>Definition: medicine
+		<br/>Part of Speech: content word, preverb (unconventional)
+		<br/>Etymology: From Ojibwe "mashkiki," meaning "medicine."
+		<br/>Example: jan seme li ken <b>misikeke</b> e mi? (Who can <b>help</b> me?)
+		<br/>Tips and Tricks:
+		<br/><ul><li>Often, misikeke is used for "help" in general, as in, "mi misikeke e sina" means "I help you."
+		</ul><br/>
+		
+		<h3><a id="moku">moku</a></h3>
+		<i><fl>o moku e kala pona. omekapo!</fl></i>
+		<br/>
+		<br/>Definition: to eat, drink, consume, swallow, ingest
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Japanese "モグモグ," or "mogumogu," meaning "munching."
+		<br/>Example: mi wile <b>moku</b> e <b>moku</b> ale!! (I want to <b>eat</b> all of the <b>food</b>!)
+		<br/>Tips and Tricks:
+		<br/><ul><li>moku just means injest, so not only is eating moku, but drinking is "moku e telo," and breathing is "moku e kon."
+		</ul><br/>
+		
+		<h3><a id="moli">moli</a></h3>
+		<i><fl>"mi tawa tan sina la, jan ike li weka tan ni." "lon, taso ona li moli e mi!"</fl></i>
+		<br/>
+		<br/>Definition: dead, dying
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Acadian French "mourir," meaning "die."
+		<br/>Example: o alasa <b>moli</b> ala. (Try not to <b>die</b>.)
+		<br/><br/>
+		
+		<h3><a id="monsi">monsi</a></h3>
+		<i><fl>And now, you may never forget the etymology again</fl></i>
+		<br/>
+		<br/>Definition: back, behind, rear
+		<br/>Part of Speech: content word, positional noun
+		<br/>Etymology: From Acadian French "mon tchu," meaning "my ass."
+		<br/>Example: mi wile tawa lon <b>monsi</b> sina. (I want to go <b>behind</b> you.)
+		<br/><br/>
+		
+		<h3><a id="monsuta">monsuta</a></h3>
+		<i><fl>a, monsutatesu li lon. ona li monsuta e mi!</fl></i>
+		<br/>
+		<br/>Definition: fear, monster
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Japanese "モンスタ," or "monsuta," meaning "monster."
+		<br/>Example: o tawa ala tawa ma ni tan ni: <b>monsuta</b> li lon. (Don't go there because <b>monsters</b> are about.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>monsuta is the origin of the famous "monsutatesu" concept, which is the idea that the transitive definition of a word can mean the opposite of the intransitive definition of a word. Basically, the example goes as thus: "mi monsuta e ona" can mean "I fear them," as part of the definition. "mi monsuta e ona" can <i>also</i> mean "I apply fear to them," or "I make them fear." Therefore, the sentence can either mean "I fear them" or "They fear me."
+		</ul><br/>
+		
+		<h3><a id="mu">mu</a></h3>
+		<i><fl>mu? mu.</fl></i>
+		<br/>
+		<br/>Definition: any animal noise
+		<br/>Part of Speech: content word
+		<br/>Etymology: Onomatopoeia
+		<br/>Example: ona li toki ala. ona li <b>mu</b> taso. (He's not talking, he's just making <b>animal noises</b>.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>Although mu is primarily used for animal noises, it can really just be any sort of mumbling or otherwise non-speech sound that comes from a living thing.
+		</ul><br/>
+		
+		<h3><a id="mun">mun</a></h3>
+		<i><fl>O MOKU E MUN!!</fl></i>
+		<br/>
+		<br/>Definition: moon, night sky object, star
+		<br/>Part of Speech: content word
+		<br/>Etymology: From English "moon."
+		<br/>Example: <b>mun</b> pi tenpo ni li pona lukin. (The <b>stars</b> right now look very pretty.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>As hinted in the flavor text, a common mistake is to assume that mun can only be used when talking about the moon. In reality, it can be used for any night sky object, like stars, planets, galaxies, and what have you.
+		</ul><br/>
+		
+		<h3><a id="musi">musi</a></h3>
+		<i><fl>musi Majon li musi pona tawa musi ale.</fl></i>
+		<br/>
+		<br/>Definition: artistic, entertaining, frivolous, playful, recreation
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Esperanto "amuzi," meaning "have fun."
+		<br/>Example: tenpo ni la, mi <b>musi</b> e ilo ni! (Right now, I'm <b>playing</b> with this tool!)
+		<br/><br/>
+		
+		<h3><a id="mute">mute</a></h3>
+		<i><fl>lili mute is very small.</fl></i>
+		<br/>
+		<br/>Definition: many, a lot, more, much, several, very; quantity; 20
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Esperanto "multe," meaning "a lot."
+		<br/>Example: jan <b>mute</b> li lon tomo ni. (<b>Many</b> people are in this room.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>mute can be used as the number 20. For a better description on how numbers in toki pona work, see <a href="#ale">ale</a>.
+		</ul><br/>
+		
+		<h3><a id="namako">namako</a></h3>
+		<i><fl>mi kama nanpa anpa lon musi majon la mi pilin namako lili.</fl></i>
+		<br/>
+		<br/>Definition: embellishment, spice; extra, additional
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Hindi "नमक," or "namak," meaning "salt."
+		<br/>Example: mi wile pana e <b>namako</b> tawa kalama ni! (I want to bring some <b>spice</b> to this beat!)
+		<br/>Tips and Tricks:
+		<br/><ul><li>In pu, namako is used as a synonym for <a href="sin">sin,</a> but most people agree that there is a difference. They are still used similarly, but namako has a slightly different connotation to sin.
+		</ul>Fun Knowledge:
+		<br/><ul><li>Although it isn't the original meaning, namako is often used to talk about literal spices. A good example is "namako pimeja" to mean "black pepper."
+		</ul><br/>
+		
+		<h3><a id="nanpa">nanpa</a></h3>
+		<i><fl>*inhales* ILO NANPA LI ILO PI NASIN NANPA PI TOKI PONA</fl></i>
+		<br/>
+		<br/>Definition: -th (ordinal number); numbers
+		<br/>Part of Speech: content word, preposition
+		<br/>Etymology: From Tok Pisin "namba," meaning "number."
+		<br/>Example: mi pali e pali <b>nanpa</b> lon tomo sona. (I'm doing <b>number</b> work at the college.) ona li palisa e sike <b>nanpa</b> tu tu. (They hit the fourth ball.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>nanpa, aside from being used just as the word "number," is a particle which says what order things are in. For example, "mi pini lon nanpa tu" means "I finished second."
+		</ul>Fun Knowledge:
+		<br/><ul><li>There is an analysis which treats nanpa as a preposition, and with it you can make a whole bunch of interesting constructions. A common phrase is "nanpa anpa," which is "last place." Other common uses include "nanpa pona" and "nanpa sewi," both of which means first.
+		<br/><li>Another idea using nanpa is that nanpa can mean "order." For example, "mi nanpa e ona" might mean "I order them." You may even extrapolate this further to mean things like "put into a system."
+		</ul><br/>
+		
+		<h3><a id="nasa">nasa</a></h3>
+		<i><fl>The true etymology of nasa o.o</fl></i>
+		<br/>
+		<br/>Definition: unusual, strange; foolish, crazy; drunk, intoxicated
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Tok Pisin "nasau," meaning "stupid."
+		<br/>Example: o kepeken ala e nimi <b>nasa</b>. (Don't use <b>strange</b> words.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>A common mistake is to assume that nasa is bad. In reality, nasa has a mostly neutral connotation. If you want to specify that the thing you're talking about is bad, try "nasa ike."
+		</ul>Fun Knowledge:
+		<br/><ul><li>A common use of the word nasa is in the phrase "telo nasa," which means "alcohol."
+		</ul><br/>
+		
+		<h3><a id="nasin">nasin</a></h3>
+		<i><fl>divine path = nasin sewi = floating highway</fl></i>
+		<br/>
+		<br/>Definition: way, custom, doctrine, method, path, road
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Serbo-Croatian "način начин," meaning "way," or "method."
+		<br/>Example: <b>nasin</b> pi ken sona li <b>nasin</b> pona. (An understandable <b>way</b> is a good <b>way</b>.)
+		<br/><br/>
+		
+		<h3><a id="nena">nena</a></h3>
+		<i><fl>"Why are we climbing a big nose?"</fl></i>
+		<br/>
+		<br/>Definition: bump, button, hill, mountain, nose, protuberance
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "nenä," meaning "nose."
+		<br/>Example: mi wile tawa lon <b>nena</b> ni. (I want to climb that <b>mountain</b>.)
+		<br/><br/>
+		
+		<h3><a id="ni">ni</a></h3>
+		<i><fl>Absolutely Serious musi</fl></i>
+		<br/>
+		<br/>Definition: this, that
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Cantonese "呢," or "ni," meaning "this."
+		<br/>Example: sina wile e kili <b>ni</b>, anu kili ante? (Do you want <b>this</b> fruit, or a different one?)
+		<br/>Tips and Tricks:
+		<br/><ul><li>A common construction in toki pona is called the "ni" method: You can use ni with a colon to make more complex sentences. for example, you could say "mi wile e pona pi jan ale," but that may be confusing, so instead you might say "mi wile e ni: jan ale o pona." This is even more useful in more complex sentences.
+		</ul>Fun Knowledge:
+		<br/><ul><li>ni is often used in the phrase "tenpo ni," which means "right now."
+		<br/><li>Another common construction is the phrase "ni la," which translates approximately to "with this in mind."
+		<br/><li>An interesting idea is the idea of using ni as a verb to refer back to something previously said. For example, if we were talking about trees, I might say "mi wile pakala e kasi," but you, as a vigilant tree-lover, might say "o ni ala."
+		</ul><br/>
+		
+		<h3><a id="nimi">nimi</a></h3>
+		<i><fl>NIMI SIN!</fl></i>
+		<br/>
+		<br/>Definition: name, word
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "nimi," meaning "name."
+		<br/>Example: <b>nimi</b> mi li kule epiku Atawan! (My <b>name</b> is Atawan!)
+		<br/>Fun Knowledge:
+		<br/><ul><li>There are a couple of constructions that you can make with nimi. A few examples are "nimi linja" for "sentence," and "nimi lili" for "letter." Translating the names of the parts of speech is left as an exercise for the reader.
+		</ul><br/>
+		
+		<h3><a id="noka">noka</a></h3>
+		<i><fl>Bonuses for the nimi nanpa.</fl></i>
+		<br/>
+		<br/>Definition: foot, leg, organ of locomotion; bottom, lower part
+		<br/>Part of Speech: content word, positional noun
+		<br/>Etymology: From Serbo-Croatian "noga" or "нога," meaning "foot."
+		<br/>Example: tan seme la <b>noka</b> mi li pilin pakala? (Why does my <b>leg</b> hurt?)
+		<br/>Fun Knowledge:
+		<br/><ul><li>noka can, in some circumstances, be used to mean -5 (as in, the opposite of <a href="luka">luka</a>). While this is mostly a joke, there are some legitimate applications of this meaning.
+		<br/><li>noka can be used as a verb. "mi noka e jan." means "I apply my foot to them," or just "I kick them."
+		</ul><br/>
+		
+		<h3><a id="o">o</a></h3>
+		<i><fl>o boy.</fl></i>
+		<br/>
+		<br/>Definition: hey! O! (vocative, imperative, or optative)
+		<br/>Part of Speech: particle
+		<br/>Etymology: From Georgian "-ო" or "-o," the vocative suffix.
+		<br/>Example: <b>o</b> pali e ijo pi wile sina. (Do whatever you want to.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>o is another highly complex word. It has 3 primary usages: vocative, imperative, and optative. Vocative is the simplest one: Basically, if you say someone's name followed by o, it means that you are calling them. For example, if someone said "jan Tenli o!" it means they are trying to get the attention of Tenli. They might also say "jan ale o!" to get everyone's attention.
+		<br/><li>Imperative is a bit more tricky. Basically, you can drop the word "sina" at the start of a sentence and replace it with the word "o" to turn it into a command. "sina pali." is just a sentence that means "you work," but "o pali" is a command that is <i>telling</i> you to work.
+		<br/><li>Lastly, optative is when someone expresses their wishes or desires. This version of o replaces li. As an example, you could say "mi lape." to mean "I sleep," but you might say "mi o lape." to mean "I wish to go to sleep." In this way, it functions similarly to the imperative, but instead you aren't demanding something, just wishing for it.
+		</ul><br/>
+		
+		<h3><a id="oko">oko</a></h3>
+		<i><fl>o moku ala e oko sina. This is just general advice.</fl></i>
+		<br/>
+		<br/>Definition: eye, ocular, visual
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Serbo-Croatian "оko" or "око," meaning "eye."
+		<br/>Example: waso li <b>oko</b> e mi. (The bird is <b>eyeing</b> me.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>In lipu pu, oko has the exact same meaning as lukin, an it can indeed be used as a synonym. However, oko is usually used specifically to mean eyeball rather than sight in general.
+		</ul><br/>
+		
+		<h3><a id="olin">olin</a></h3>
+		<i><fl>o olin e jan ale!</fl></i>
+		<br/>
+		<br/>Definition: love, have compassion for, respect, show affection to
+		<br/>Part of Speech: content word, preverb (unconventional)
+		<br/>Etymology: From Serbo-Croatian "volim" or "волим," meaning "I love."
+		<br/>Example: pilin mi la mi <b>olin</b> e sina. (I think I <b>love</b> you.)
+		<br/><br/>
+		
+		<h3><a id="ona">ona</a></h3>
+		<i><fl>ona li monsuta e jan.</fl></i>
+		<br/>
+		<br/>Definition: he, she, it, they
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Serbo-Croatian "ona" or "она," meaning "she."
+		<br/>Example: mi jo e palisa lili. mi kepeken <b>ona</b> la mi ken pali e ijo. (I have a small stick. If I use <b>it</b>, I can make something.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>English has a lot of specificity compared to toki pona, so it can be difficult to get used to being so vague. ona does not distinguish between gender, animacy, (living/nonliving) number, or really anything else. This can greatly affect they way you talk about things in toki pona.
+		</ul><br/>
+		
+		<h3><a id="open">open</a></h3>
+		<i><fl>The only english cognate.</fl></i>
+		<br/>
+		<br/>Definition: begin, start; open; turn on
+		<br/>Part of Speech: content word, preverb
+		<br/>Etymology: From English "open."
+		<br/>Example: o <b>open</b> e suno lili. (<b>Turn on</b> the light.)
+		<br/><br/>
+		
+		<h3><a id="pakala">pakala</a></h3>
+		<i><fl>lawa.exe li pakala.</fl></i>
+		<br/>
+		<br/>Definition: botched, broken, damaged, harmed, messed up
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Tok Pisin "bagarap," meaning "accident," from English "bugger up."
+		<br/>Example: ike la mi <b>pakala</b> e suno lili. (Oops, I accidentaly <b>broke</b> the light.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>pakala is often used as an interjection, specifically as a curse expletive, or swear word.
+		</ul><br/>
+		
+		<h3><a id="pake">pake</a></h3>
+		<i><fl>o pake e nasa sina!</fl></i>
+		<br/>
+		<br/>Definition: stop, cease
+		<br/>Part of Speech: content word, preverb
+		<br/>Etymology: From Acadian French "barrer," meaning "to lock."
+		<br/>Example: sinpin li <b>pake</b> e jan lete pi tawa anpa. (The wall <b>blocked</b> the downhill skier.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>This word's definition has some overlap with <a href="pini">pini</a> because, in lipu pu, pake was removed, and instead pini's definition was extended to cover over it. pini and pake still have distinct definitions to this day, although some people don't recognize it.
+		</ul><br/>
+		
+		<h3><a id="pali">pali</a></h3>
+		<i><fl>pali li ike...</fl></i>
+		<br/>
+		<br/>Definition: do, take action on, work on; build, make, prepare
+		<br/>Part of Speech: content word, preverb (unconventional)
+		<br/>Etymology: From Esperanto "fari," meaning "do," from Italian "fare."
+		<br/>Example: o <b>pali</b> e ijo pi wile sina. (<b>Make</b> something you want to make.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>pali has a rather unconventional preverb definition; it can act as a sort of transitivity marker. As an example, "mi uta e ona" may mean "I taste it," but "mi pali uta e ona" means "I make it into a mouth."
+		</ul><br/>
+		
+		<h3><a id="palisa">palisa</a></h3>
+		<i><fl>"have I been muted this whole time? oh that's neat."</fl></i>
+		<br/>
+		<br/>Definition: long hard thing; branch, rod, stick
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Serbo-Croatian "палица" or "palica," meaning "bat" or "rod."
+		<br/>Example: mi tawa wawa e sike kepeken <b>palisa</b>. (I forcefully hit the ball using a <b>stick</b>.)
+		<br/><br/>
+		
+		<h3><a id="pan">pan</a></h3>
+		<i><fl>pan sike suwi = kuki</fl></i>
+		<br/>
+		<br/>Definition: cereal, grain; barley, corn, oat, rice, wheat; bread, pasta
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Romance "pan," meaning "bread."
+		<br/>Example: <b>pan</b> suwi ni li pona tawa uta mi! (This sweet <b>bread</b> tastes good!)
+		<br/><br/>
+		
+		<h3><a id="pana">pana</a></h3>
+		<i><fl>o pana, o pana mute!</fl></i>
+		<br/>
+		<br/>Definition: give, send, emit, provide, put, release
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "panna," meaning "put."
+		<br/>Example: sina ken ala ken <b>pana</b> e wile sina tawa mi? (Can you <b>give</b> me what you want?)
+		<br/>Tips and Tricks:
+		<br/><ul><li>There are lots of compound words which use pana. "pana sona" may mean "teach," "pana wawa" may mean "throw," and "pana mi" may mean "what I give."
+		</ul>Fun Knowledge:
+		<br/><ul><li>pana is often used more poetically, as it can replace lots of other words. For example, "mi toki e ijo ni tawa sina" can be expressed with more words as "mi pana e toki pi ijo ni tawa sina." This may or may not be more helpful, depending on the context.
+		</ul><br/>
+		
+		<h3><a id="pi">pi</a></h3>
+		<i><fl>PI SINA</fl></i>
+		<br/>
+		<br/>Definition: (used to regroup modifiers)
+		<br/>Part of Speech: particle
+		<br/>Etymology: From Tok Pisin "bilong," meaning "of," from English "belong."
+		<br/>Example: mi moku e kili <b>pi</b> suwi mute. (I'm eating a very sweet fruit.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>pi is used to divide the order and way that noun groups affect the main noun. Using the example, "kili suwi mute" means "many sweet fruits," but "kili <i>pi</i> suwi mute" means "very sweet fruits." Another good example is "ilo kalama musi," which means "fun and noisy tool" versus "ilo <i>pi</i> kalama musi," which means "music tool."
+		<br/><li>A common mistake is equating pi to the word "of". This can be helpful, but it can also be somewhat misleading. pi only regroups modifiers, so in many cases it is not like "of."
+		<br/><li>If you need more examples of how to use pi, <a href="https://cdn.discordapp.com/attachments/301378960468738050/780287029044707338/unknown.png">here</a> is a good example by asali.
+		</ul>Fun Knowledge:
+		<br/><ul><li>Similarly to the way that you should omit a <a href="#li">li</a> when it comes after mi or sina, you shouldn't use a pi it there is only one word after it. If you have a single word after a pi, it means the exact same thing as if you didn't have the pi at all. There are very specific cases where a single word after a pi might add clarification, but be warned: you might get looks if you do it.
+		</ul><br/>
+		
+		<h3><a id="pilin">pilin</a></h3>
+		<i><fl>pilin</fl></i>
+		<br/>
+		<br/>Definition: heart (physical or emotional); feeling (an emotion, a direct experience)
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Tok Pisin "pilim," meaning "feel."
+		<br/>Example: mi wile <b>pilin</b> e kala waso lete! (I would like to <b>feel</b> the penguin!)
+		<br/>Tips and Tricks:
+		<br/><ul><li>pilin is uniquely copular, so be sure not to confuse "mi pilin pona" with "mi pilin <i>e</i> pona." The first one means "I'm good" while the second one means "I'm touching a good."
+		<br/><li>similarly to all of the positional words, pilin can also mean "heart." A very common mistake is to assume that <a href="#olin">olin</a> means heart, but this is not the case.
+		</ul>Fun Knowledge:
+		<br/><ul><li>A very common saying in toki pona is "sina pilin seme?" which means "how are you?" A good response would be "mi pilin pona!" or "mi pilin ike."
+		</ul><br/>
+		
+		<h3><a id="pimeja">pimeja</a></h3>
+		<i><fl>tenpo ni li tenpo pimeja pi jan monsuta.</fl></i>
+		<br/>
+		<br/>Definition: black, dark, unlit
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "pimeä," meaning "dark."
+		<br/>Example: tenpo <b>pimeja</b> la mi o lape. (When it gets <b>dark</b> I should sleep.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>An interesting use of pimeja is the expression "kalama pimeja," which can mean "low pitch." This contrasts "kalama <a href="#walo">walo</a>," which can mean "high pitch."
+		</ul><br/>
+		
+		<h3><a id="pini">pini</a></h3>
+		<i><fl>The finished time...</fl></i>
+		<br/>
+		<br/>Definition: ago, completed, ended, finished, past
+		<br/>Part of Speech: content word, preverb
+		<br/>Etymology: From Acadian French "fini," meaning "finished."
+		<br/>Example: tenpo seme la sina <b>pini</b> pali e suno. (When will you <b>finish</b> making the sun?)
+		<br/>Tips and Tricks:
+		<br/><ul><li>The most common use of pini is in the phrase "tenpo pini" which refers to the past.
+		</ul><br/>
+		
+		<h3><a id="pipi">pipi</a></h3>
+		<i><fl>pipi pona! Bees!</fl></i>
+		<br/>
+		<br/>Definition: bug, insect, ant, spider
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Acadian French "bibette," meaning "bug."
+		<br/>Example: <b>pipi</b> pona li tawa kasi li alasa e ko tawa pali pi telo suwi. (The <b>bee</b> goes to flowers and gathers pollen for the creation of honey.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>A more colloquial usage of pipi is for an annoyance. For example, "jan sama mi li pipi e mi" can be translated to "My sister is annoying me."
+		</ul><br/>
+		
+		<h3><a id="poka">poka</a></h3>
+		<i><fl>o tawa noka, lon poka mi...</fl></i>
+		<br/>
+		<br/>Definition: hip, side; next to, nearby, vicinity
+		<br/>Part of Speech: content word, positional noun
+		<br/>Etymology: From Serbo-Croatian "бока" or "boka," meaning "side."
+		<br/>Example: mi ken ala ken pana e supa lape mi lon <b>poka</b> pi supa sina? (Can I put my bed <b>beside</b> yours?)
+		<br/>Fun Knowledge:
+		<br/><ul><li>An interesting usage of poka is for time: some people say "tenpo poka" to mean "sometime soon," since the time they are referring to is beside the current time.
+		</ul><br/>
+		
+		<h3><a id="poki">poki</a></h3>
+		<i><fl>Try not to confuse this with the previous word.</fl></i>
+		<br/>
+		<br/>Definition: container, bag, bowl, box, cup, cupboard, drawer, vessel
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Tok Pisin "bokis," meaning "box."
+		<br/>Example: o pana e lawa sina tawa <b>poki</b> ni. (Put your head in this <b>box</b>.)
+		<br/><br/>
+		
+		<h3><a id="pona">pona</a></h3>
+		<i><fl>The second easiest word to remember</fl></i>
+		<br/>
+		<br/>Definition: good, positive, useful; friendly, peaceful; simple
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Esperanto "bona," meaning "good."
+		<br/>Example: mi wile pana e pilin <b>pona</b> tawa jan ale! (I want to give <b>good</b> feelings to everyone!)
+		<br/>Fun Knowledge:
+		<br/><ul><li>While nowadays pona refers to things that can be good <i>or</i> simple, in the past, there was the word "pasila" which just meant "simple." This is very, very rarely used today.
+		</ul><br/>
+		
+		<h3><a id="powe">powe</a></h3>
+		<i><fl>jan Tenli li jan powe ala.</fl></i>
+		<br/>
+		<br/>Definition: unreal, false, untrue, pretend, deceive, trickster
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Acadian French "pas vrai," meaning "not real."
+		<br/>Example: o tawa ala lon sinpin anpa <b>powe</b>. (Don't step on the <b>fake</b> floor.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>If you wish not to use words that aren't from lipu pu, an alternative to powe is "lon ala."
+		</ul><br/>
+		
+		<h3><a id="pu">pu</a></h3>
+		<i><fl>pu is not the book, pu is interacting with the book.</fl></i>
+		<br/>
+		<br/>Definition: interacting with the official Toki Pona book by Sonja Lang
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Mandarin "樸," or "pǔ," meaning "inherent quality."
+		<br/>Example: mi <b>pu</b>. (I am <b>interacting with the official Toki Pona book by Sonja Lang</b>.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>pu is the most well known joke word in toki pona. There is a common joke in toki pona that pu isn't the book itself, it's only interacting with the book. That means that writing, reading, touching, burning, and yes, even throwing it into a lake are all valid ways to pu, but the book itself is not pu. Instead, to refer to the book, use "lipu pu."
+		</ul><br/>
+		
+		<h3><a id="sama">sama</a></h3>
+		<i><fl>o sama e ona la sina pini.</fl></i>
+		<br/>
+		<br/>Definition: same, similar; each other; sibling, peer, fellow {see pata}; as, like
+		<br/>Part of Speech: content word, preposition
+		<br/>Etymology: From Finnish "sama," meaning "same."
+		<br/>Example: mi kepeken tenpo mute <b>sama</b> sina. (I take a lot of time, just <b>like</b> you.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>Outside of its prepositional usage, sama is most often used in the phrase "jan sama," meaning "sibling" or "peer." In general, sama can be used as an adjective to show anything that is similar to something else. As an example, "soweli pi sama telo" means "animal that is like water," which may be interpreted as "cat."
+		</ul>Fun Knowledge:
+		<br/><ul><li>sama may also be used as a verb, meaning "to make the same." In particular, this can be extended to anything that makes things the same: "coordination" could be "sama e nasin," and "mix" could be "sama e kule."
+		</ul><br/>
+		
+		<h3><a id="seli">seli</a></h3>
+		<i><fl>o SELI e pali.</fl></i>
+		<br/>
+		<br/>Definition: fire; cooking element, chemical reaction, heat source
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Georgian "ცხელი," or "cxeli," meaning "hot."
+		<br/>Example: ike la tomo mi li <b>seli</b> mute. (My room is really <b>hot</b>, which is bad.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>seli has a lot of interesting definitions. To seli something may mean to cook it or to make it react, like rusting. "sona seli" can also be understood as chemistry.
+		</ul><br/>
+		
+		<h3><a id="selo">selo</a></h3>
+		<i><fl>selo??</fl></i>
+		<br/>
+		<br/>Definition: outer form, outer layer; bark, peel, shell, skin; boundary
+		<br/>Part of Speech: content word, positional noun
+		<br/>Etymology: From Esperanto "ŝelo," meaning "skin."
+		<br/>Example: monsuta li lon <b>selo</b> pi tomo mi. (A monster is at the <b>edge</b> of my house.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>There is a similar, albeit much less common word, ete, which somewhat overlaps with selo. The only difference is that it doesn't mean the boundary specifically, but just outside of the boundary.
+		</ul><br/>
+		
+		<h3><a id="seme">seme</a></h3>
+		<i><fl>sina pali e seme li moku e seme li awen e seme li lon seme li pilin seme...</fl></i>
+		<br/>
+		<br/>Definition: question word
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Mandarin "什麼," or "shénme," meaning "what."
+		<br/>Example: sina pilin <b>seme</b>? (<b>How</b> are you?)
+		<br/>Tips and Tricks:
+		<br/><ul><li>seme can be combined with a lot of other words in order to create all of the common question words in english. The most common translations are: "jan seme" for "who," "seme" for "what," "ma seme" for "where," "tan seme" for "why," "tenpo seme" for "when," and "kepeken nasin seme" for "how."
+		</ul><br/>
+		
+		<h3><a id="sewi">sewi</a></h3>
+		<i><fl>toki sewi: The Language of the Gods</fl></i>
+		<br/>
+		<br/>Definition: area above, highest part, something elevated; awe-inspiring, divine, sacred, supernatural
+		<br/>Part of Speech: content word, positional noun
+		<br/>Etymology: From Georgian "ზევით," or "sevit," meaning "upwards."
+		<br/>Example: mi lukin tawa nasin <b>sewi</b>. (I look to the path of <b>divinity</b>.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>Along with it's myriad of other translations, sewi can also sometimes literally mean sky, as in "o tawa waso lon sewi laso" means "Fly in the blue sky."
+		</ul><br/>
+		
+		<h3><a id="sijelo">sijelo</a></h3>
+		<i><fl>here is some lame pun about the word sijelo</fl></i>
+		<br/>
+		<br/>Definition: body (of person or animal), physical state, torso
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Serbo-Croatian "тијело," or "tijelo," meaning "body."
+		<br/>Example: kiwen utala li ken pakala e <b>sijelo</b>. (Bullets can hurt your <b>body</b>.)
+		<br/><br/>
+		
+		<h3><a id="sike">sike</a></h3>
+		<i><fl>sina tawa sike e mi sama sike pi kalama musi.</fl></i>
+		<br/>
+		<br/>Definition: round or circular thing; ball, circle, cycle; of one year
+		<br/>Part of Speech: content word
+		<br/>Etymology: From English "circle."
+		<br/>Example: ilo musi ni li tawa <b>sike</b>. (This toy spins in a <b>circle</b>.)
+		<br/><br/>
+		
+		<h3><a id="sin">sin</a></h3>
+		<i><fl>kama pona, jan sin ale o! sina lukin e ni la ken pona la sina jan sin pi toki pona</fl></i>
+		<br/>
+		<br/>Definition: new, fresh; additional, another, extra
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Mandarin "新," or "xīn," meaning "new."
+		<br/>Example: jan <b>sin</b> li lon kulupu! (There are <b>new</b> people in our group!)
+		<br/><br/>
+		
+		<h3><a id="sina">sina</a></h3>
+		<i><fl>mi sona mi e sina.</fl></i>
+		<br/>
+		<br/>Definition: you, your
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "sinä," meaning "you."
+		<br/>Example: <b>sina</b> ken lukin tawa anpa. (<b>You</b> could look beneath.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>Much of the advice on the usage of sina is the same as <a href="#mi">mi</a>, just in the second person.
+		</ul><br/>
+		
+		<h3><a id="sinpin">sinpin</a></h3>
+		<i><fl>o isipin e sinpin sin pi pin sin.</fl></i>
+		<br/>
+		<br/>Definition: face, foremost, front, wall
+		<br/>Part of Speech: content word, positional noun
+		<br/>Etymology: From Cantonese "前邊" or "tsin bin," meaning "in front."
+		<br/>Example: mi tawa lon <b>sinpin</b> sina la mi ken awen e sina. (If I stay in <b>front</b> of you, I can protect you.)
+		<br/><br/>
+		
+		<h3><a id="sitelen">sitelen</a></h3>
+		<i><fl>A parked car is a sitelen??</fl></i>
+		<br/>
+		<br/>Definition: image, picture, representation, symbol, mark, writing
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Dutch "schilderen," meaning "paint."
+		<br/>Example: <b>sitelen</b> sin sina li pona mute tawa lukin! (Your new <b>painting</b> is very nice to look at!)
+		<br/>Fun Knowledge:
+		<br/><ul><li>sitelen may or may not refer to <i>anything</i> which is a symbol or representation. For instance, an animal may be a sitelen if it is used to signify something greater.
+		<br/><li>sitelen is commonly used in the phrase "sitelen tawa," meaning "video." It is also use to say "write," sometimes with the phrase "sitelen toki."
+		</ul><br/>
+		
+		<!--
+		<h3><a id="soko">soko</a></h3>
+		<i><fl>soko a</fl></i>
+		<br/>
+		<br/>Definition: fungus, fungi
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Georgian "სოკო" or "sok'o" meaning "mushroom."
+		<br/>Example: <b>soko</b> ni li nasa. (This <b>mold</b> is weird.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>soko can either refer to the fungus itself or the mushroom part; it isn't really clear. If you want to be unambiguous, say "kili soko" for the fruiting part of a fungus.
+		</ul><br/>
+		!-->
+		<h3><a id="sona">sona</a></h3>
+		<i><fl>tomo sona</fl></i>
+		<br/>
+		<br/>Definition: know, be skilled in, be wise about, have information on; (pv.) know how to
+		<br/>Part of Speech: content word, preverb (unconventional)
+		<br/>Etymology: From Georgian "ცოდნა" or "codna" meaning "knowledge."
+		<br/>Example: mi <b>sona</b> e ona tan lipu ni. (I <b>knew</b> it from a book.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>sona can sometime be used to mean "understand," as in: "mi sona," can mean "I understand," and "sina sona ala sona," can mean "Do you understand?"
+		</ul><br/>
+		
+		<h3><a id="soweli">soweli</a></h3>
+		<i><fl>soweli li suwi mute!!</fl></i>
+		<br/>
+		<br/>Definition: animal, beast, land mammal
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Georgian "ცხოველი" or "cxoveli," meaning "beastly animal."
+		<br/>Example: <b>soweli</b> mute li tawa lon tenpo pi kama seli. (Many <b>animals</b> migrate in the spring.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>soweli refers to any animal that goes on land, which means that some animals which are <i>technically</i> birds in English, like ostriches, are considered soweli in toki pona.
+		</ul><br/>
+		
+		<h3><a id="suli">suli</a></h3>
+		<i><fl>This is an important word.</fl></i>
+		<br/>
+		<br/>Definition: big, heavy, large, long, tall; important; adult
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "suuri," meaning "big."
+		<br/>Example: kili ni li <b>suli</b> a! (This fruit is very <b>big</b>!)
+		<br/>Tips and Tricks:
+		<br/><ul><li>Keep in mind that, more often than not, suli is used to signify that something is important, not necessarily big.
+		</ul>Fun Knowledge:
+		<br/><ul><li>Many people use suli to refer to old things, but some people like to use the pre-pu word <a href="#majuna">majuna</a> instead.
+		</ul><br/>
+		
+		<h3><a id="suno">suno</a></h3>
+		<i><fl>suno li ken pona e jan!!</fl></i>
+		<br/>
+		<br/>Definition: sun; light, brightness, glow, radiance, shine; light source
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Esperanto "suno," meaning "sun."
+		<br/>Example: <b>suno</b> li lon la mi o pini lape. (When the <b>sun</b> comes up, I should finish sleeping.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>The definition of suno may overlap somewhat with <a href="#walo">walo</a>, since they can both mean something is bright. In general, try to use suno when referring to actual light, and use walo to refer to colors.
+		</ul><br/>
+		
+		<h3><a id="supa">supa</a></h3>
+		<i><fl>supa nena mi li lon supa lape mi li lon supa anpa mi.</fl></i>
+		<br/>
+		<br/>Definition: horizontal surface, thing to put or rest something on
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Esperanto "surfaco," meaning "surface."
+		<br/>Example: sina ken ala ken misikeke e mi tawa tawa pi <b>supa</b> ni? (Could you help me with moving this <b>desk</b>?)
+		<br/>Fun Knowledge:
+		<br/><ul><li>supa is a surprisingly useful word. It is used for all sorts of compounds, like "supa nena" for "keyboard," "supa lape" for "bed," and "supa anpa" for floor, as well as many others.
+		</ul><br/>
+		
+		<h3><a id="suwi">suwi</a></h3>
+		<i><fl>supa lape li suwi!! o moku e ona!</fl></i>
+		<br/>
+		<br/>Definition: sweet, fragrant; cute, innocent, adorable
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Tok Pisin "suwi," meaning "sweet."
+		<br/>Example: sina ken ala ken misikeke e mi tawa tawa pi <b>supa</b> ni? (Could you help me with moving this <b>desk</b>?)
+		<br/>Tips and Tricks:
+		<br/><ul><li>suwi has plenty of unconventional uses, but in general it is used for anything that is pleasant to experience in general. Words like "comfortable" and "soft" can be expressed with suwi.
+		<br/><li>suwi can sometimes be used to refer to something that is sweet. For example, "suwi" can mean "candy." This phenomenon isn't unique to suwi, but it is the most well known example, and as such it has been dubbed "suwitesu."
+		</ul><br/>
+		
+		<h3><a id="tan">tan</a></h3>
+		<i><fl>TAN SEME</fl></i>
+		<br/>
+		<br/>Definition: by, from, because of; origin, cause
+		<br/>Part of Speech: content word, preposition, conjunction (unconventional)
+		<br/>Etymology: From Cantonese "從" or "tsung," meaning "from."
+		<br/>Example: jan mute li <b>tan</b> ma Epanja. (Many people are <b>from</b> Spain.) <b>tan</b> seme la sina pali e ni? (Why did you do that?)
+		<br/>Tips and Tricks:
+		<br/><ul><li>Keep in mind that tan has two somewhat seperate uses, in that it can mean "because of" or "from." "mi tawa tan ni" can mean "I left because of this," or "I left from this."
+		<br/><li>"tan seme" is a common phrase that usually means "why." It literally translates as "what reason."
+		</ul>Fun Knowledge:
+		<br/><ul><li>A very unconvential usage of tan is to use it as a conjunction, similarly to how la and anu can be used. If you wanted to say "I built this because they wanted it," you might be able to say "mi pali e ni tan ona li wile e ona." Alternatively, if you don't want to be so nasa, you can say "mi pali e ni tan wile ona," or "mi pali e ni tan ni: ona li wile e ona."
+		</ul><br/>
+		
+		<h3><a id="taso">taso</a></h3>
+		<i><fl>toki pona taso...</fl></i>
+		<br/>
+		<br/>Definition: but, however; only
+		<br/>Part of Speech: modifier particle, conjunction, content word (unconventional)
+		<br/>Etymology: From Tok Pisin "tasol," meaning "only."
+		<br/>Example: mi wile e sitelen <b>taso</b>. (I <b>only</b> want a picture.) ona li pona, <b>taso</b> ona li nasa lili. (It's good, <i>but</i> it's also a little strange.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>It is sometimes considered a rule that taso can only mean "however" if it is at the beginning of a sentence, but it is not very heavily enforced, so it is up to you if you want to follow it.
+		<br/><li>You can change the position of taso to specify the thing you are referring to. For example, "sina pali e ni taso" means "You only made <i>this</i>," implying that you may have done other things with it, whereas "sina pali taso e ni" means "You only <i>made</i> this," implying that you may have made other things. It is complicated to explain in English, but gets easier with practice.
+		</ul>Fun Knowledge:
+		<br/><ul><li>taso is sometimes used as a content word to mean "focus," although this is primarity for hypothetical purposes and not at all for actual speech.
+		</ul><br/>
+		
+		<h3><a id="tawa">tawa</a></h3>
+		<i><fl>mi tawa!... ala.</fl></i>
+		<br/>
+		<br/>Definition: going to, toward; for; from the perspective of; moving
+		<br/>Part of Speech: content word, preposition
+		<br/>Etymology: From English "towards."
+		<br/>Example: mi pana e ni <b>tawa</b> sina. (I give this <b>to</b> you.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>It is very important to distinguish the propositional and content word uses of tawa especially, since they often go right next to eachother. For example, "mi pana e sike tawa tawa sina" can be difficult to parse, but it means "I throw a moving ball to you."
+		<br/><li>tawa can also mean "from my perspective." An example would be "ona li lon tawa mi," which means "It exists to me," or, more clearly, "To me, it exists."
+		</ul><br/>
+		
+		<h3><a id="telo">telo</a></h3>
+		<i><fl>telo pimeja li ken wawa e sina.</fl></i>
+		<br/>
+		<br/>Definition: water, liquid, fluid, wet substance; beverages
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Acadian French "de l’eau," meaning "some water."
+		<br/>Example: ko mute li lon poka pi ma <b>telo</b>. (There is lots of sand beside the <b>lake</b>.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>Because telo means beverage, it can technically also mean "to drink." However, this usage of telo is very uncommon, and it much more common to say "mi moku e telo."
+		</ul><br/>
+		
+		<h3><a id="tenpo">tenpo</a></h3>
+		<i><fl>It's time.</fl></i>
+		<br/>
+		<br/>Definition: time, duration, moment, occasion, period, situation
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Esperanto "tempo," meaning "time."
+		<br/>Example: ona li ken kama lon <b>tenpo</b> kama. (They can come in the coming <b>time</b>.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>tenpo can be used a lot with other words to describe time. Some examples include "tenpo seme," for "when," "tenpo lili," for "moment," "tenpo suli," for "long time," "tenpo kama," for "future," and "tenpo pini," for "past."
+		<br/><li>This word is not spelled "tempo."
+		</ul><br/>
+		
+		<h3><a id="toki">toki</a></h3>
+		<i><fl>The first easiest word to remember.</fl></i>
+		<br/>
+		<br/>Definition: communicate, say, speak, talk, use language, think; hello
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Tok Pisin "tok," meaning "talk."
+		<br/>Example: mi ken ala <b>toki</b> lon tenpo ni. (I can't <b>talk</b> right now.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>toki means "talk," but it also means "hello," so whenever someone says "toki!" in toki pona, they are basically saying "Start talking!"
+		</ul><br/>
+		
+		<h3><a id="tomo">tomo</a></h3>
+		<i><fl>poki-tomo merger when??</fl></i>
+		<br/>
+		<br/>Definition: indoor space; building, home, house, room
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Esperanto "domo," meaning "house."
+		<br/>Example: kulupu wan taso li pali e <b>tomo</b> ale lon ma mi. (Just one company made all the <b>houses</b> in my town.)
+		<br/><br/>
+		
+		<h3><a id="tonsi">tonsi</a></h3>
+		<i><fl>monsi tonsi</fl></i>
+		<br/>
+		<br/>Definition: non-binary, gender-non-conforming
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Mandarin "同志" or "tóngzhì," meaning "LGBT+."
+		<br/>Example: <b>tonsi</b> li tawa lon tomo tawa. (The <b>non-binary person</b> drove in a car.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>tonsi can also sometimes be used to means transgender or otherwise non-cisgender.
+		</ul><br/>
+		
+		<h3><a id="tu">tu</a></h3>
+		<i><fl>Some say that they are still saying "en tu" to this day.</fl></i>
+		<br/>
+		<br/>Definition: two
+		<br/>Part of Speech: content word
+		<br/>Etymology: From English "two."
+		<br/>Example: pipi <b>tu</b> li lon poka mi. (<b>Two</b> bugs are beside me.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>tu can also mean cut, although some people like to use the pre-pu word <a href="#kipisi">kipisi</a>
+		</ul><br/>
+		
+		<h3><a id="unpa">unpa</a></h3>
+		<i><fl>haha you are very funny</fl></i>
+		<br/>
+		<br/>Definition: have sexual or marital relations with
+		<br/>Part of Speech: content word
+		<br/>Etymology: Onomatopoeia.
+		<br/>Example: jan Jepo li <b>unpa</b> e jan Tenli. (Jepo <b>married</b> Tenli.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>Keep in mind that unpa has two different meanings: it can be sexual or marital, so make sure to consider both possibilities.
+		</ul><br/>
+		
+		<h3><a id="uta">uta</a></h3>
+		<i><fl>mi la, toki uta li nasin pona!</fl></i>
+		<br/>
+		<br/>Definition: mouth, lips, oral cavity, jaw
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Serbo-Croatian "уста" or "usta," meaning "mouth."
+		<br/>Example: <b>unpa</b> e jan pona ona. (They had <b>sex</b> with their friend.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>If you uta something, one interpretation is that you put it in your mouth, which could mean that you taste it. Similarly, uta can be applied to mean your tongue in general.
+		</ul><br/>
+		
+		<h3><a id="utala">utala</a></h3>
+		<i><fl>Noncanonical alternative meaning: tasteless.</fl></i>
+		<br/>
+		<br/>Definition: battle, challenge, compete against, struggle against
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Serbo-Croatian "ударати" or "udarati," meaning "strike."
+		<br/>Example: ma suli li open <b>utala</b> e ma lili. (The big country started <b>fighting</b> the small country.)
+		<br/><br/>
+		
+		<h3><a id="walo">walo</a></h3>
+		<i><fl>pona lon Pijano.</fl></i>
+		<br/>
+		<br/>Definition: white, whitish; light-coloured, pale
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "valko," meaning "white."
+		<br/>Example: telo lete <b>walo</b> li kama tan sewi. (<b>White</b> snow came from the sky.)
+		<br/><br/>
+		
+		<h3><a id="wan">wan</a></h3>
+		<i><fl>pona lon Pijano.</fl></i>
+		<br/>
+		<br/>Definition: unique, united; one
+		<br/>Part of Speech: content word
+		<br/>Etymology: From English "one."
+		<br/>Example: telo lete <b>walo</b> li kama tan sewi. (<b>White</b> snow came from the sky.)
+		<br/>Fun Knowledge:
+		<br/><ul><li>wan can also mean "to unite," as in, "I united the country," could be "mi wan e ma."
+		</ul><br/>
+		
+		<h3><a id="waso">waso</a></h3>
+		<i><fl>o tawa waso, lon sewi laso~</fl></i>
+		<br/>
+		<br/>Definition: bird, flying creature, winged animal
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Acadian French "oiseau," meaning "bird."
+		<br/>Example: <b>waso</b> mute li lon poka mi. (Many <b>birds</b> are beside me.)
+		<br/><br/>
+		
+		<h3><a id="wawa">wawa</a></h3>
+		<i><fl>TENPO WAWA TENPO WAWA</fl></i>
+		<br/>
+		<br/>Definition: strong, powerful; confident, sure; energetic, intense
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Finnish "vahva," meaning "strong."
+		<br/>Example: ona li tawa kepeken <b>wawa</b> mute. (He walks very <b>confidently</b>.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>wawa is often used to represent electricity. For example, "linja wawa" could mean "cable," and "poki wawa" or "lipu wawa" is often used to mean "computer."
+		</ul><br/>
+		
+		<h3><a id="weka">weka</a></h3>
+		<i><fl>o weka e lawa, ona li sin ala!</fl></i>
+		<br/>
+		<br/>Definition: absent, away, ignored
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Dutch "weg," meaning "away."
+		<br/>Example: o awen pona, lon <b>weka</b> sina! (Stay well while you are <b>gone</b>!)
+		<br/>Fun Knowledge:
+		<br/><ul><li>weka is often descirbed as "the most toki pona word" since there isn't really a good English equivalent. It can mean all sorts of things depending on context, and can be either lighthearted, serious, or completely neutral.
+		</ul><br/>
+		
+		<h3><a id="wile">wile</a></h3>
+		<i><fl>I have been making this for over 2 months... mi wile lape.</fl></i>
+		<br/>
+		<br/>Definition: must, need, require, should, want, wish
+		<br/>Part of Speech: content word
+		<br/>Etymology: From Dutch "willen," meaning "want."
+		<br/>Example: mi <b>wile</b> moku e pan suli. (I <b>need</b> to eat a big loaf.)
+		<br/>Tips and Tricks:
+		<br/><ul><li>Often, people get confused as to why "must" and "want" are the same word. In toki pona, it is not useful to distinguish the two, so having one word makes the overall concept easier to digest. Instead of treating it like two seperate meanings of the same word, try thinking of it as one very broad word.
+		</ul><br/>
+		
+		<ci>References: <br/>Moniz, C. Ryan. Nimi Ale Pona. 2nd ed., 8 Oct. 2020, <a href="https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit">docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit?usp=sharing</a> 10/20/2020. <br/>I'm actually using the citation format properly! How cool is that? <br/>Also, thanks to Sonja Lang for providing extra etymologies.</ci>
+		
 		<script type="text/javascript">
+			//monsi tonsi = trans tush
+			//taso is a conjunction when its in front of sentences, but a modifier particle otherwise (and also sometimes a content word)
+			//words i may add in the future (by likelyhood): isipin, soko, ete
 			function search() {
 				x = document.getElementById("nimir");
 				document.getElementById("alasar").href = "#" + x.value;

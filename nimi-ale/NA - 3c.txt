@@ -328,7 +328,7 @@ wipa -
 (content word)
 1. the letter V in jan Kipo's letter system
 
-COUNT: 79
+COUNT: 80
 
 Sources: 
 (i) http://forums.tokipona.org/viewtopic.php?f=33&t=17&sid=923697c5419a09bdefd4888a474fb8d6
@@ -344,3 +344,4 @@ Sources:
 (wiki) http://forums.tokipona.org/viewtopic.php?f=12&t=1600&sid=732e16ceaf10c624ace895012e6ee9da
 (kan) http://forums.tokipona.org/viewtopic.php?f=12&t=1330&sid=732e16ceaf10c624ace895012e6ee9da
 (janTe's letter system) http://forums.tokipona.org/viewtopic.php?f=12&t=1248&sid=732e16ceaf10c624ace895012e6ee9da
+(sutopatikuna) http://forums.tokipona.org/viewtopic.php?f=33&t=1033&p=4927&hilit=platypus&sid=138d81be5e75341f6f0f38b63ad3a4b7#p4927

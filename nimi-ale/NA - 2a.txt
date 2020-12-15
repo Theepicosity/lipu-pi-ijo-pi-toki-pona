@@ -10,6 +10,10 @@ SECTION 2A - WORDS IN MA TOKI PI TOKI PONA
 1. refer to tenpo, in section 1a
 2. the amount 14
 
+à - 
+(modifier particle)
+1. fancy emotion
+
 aAANUSEMEmailMahjong - 
 (particle) {syn. anusem}
 1. question marker
@@ -29,17 +33,49 @@ ajo -
 1. garlic
 2. don't have
 
+ajele - 
+(content word) {syn. pupupipi}
+1. international auxiliary lanugage
+
 akasi -
 (content word)
 1. hunt, gather (i think)
 
-alasanpan -
+akesowamamopipankakijekasikili -
 (content word)
-1. hunt
+1. life
+
+akoloto -
+(content word)
+1. axolotl
+
+alala -
+(content word)
+1. yes, true, affirmative
+
+alalala -
+(content word)
+1. refer to ala, in section 1a
+
+alape -
+(content word)
+1. awake, conscious
 
 alash -
 (content word)
 1. stop and don't talk
+
+alasina -
+(content word)
+1. refer to jasima, in section 1b
+
+alelinimisin -
+(content word)
+1. the book about the action of reporting a phrase perceived to be a nimi sin to Atawan despite the fact that it is not a nimi sin
+
+alentasalepu -
+(content word)
+1. halt all activity unexpectedly, die or exit a matter or occurence unexpectedly or hilariously, suddenly stop
 
 alo -
 (content word)
@@ -57,6 +93,14 @@ amin -
 (content word) {syn. kele, oja, pensa, mana, omo, weluwa, ipike}
 1. think
 
+ankewi -
+(content word)
+1. angry
+
+anlanpan -
+(content word)
+1. the tendency of toki pona words to contain the syllables "pa," "a," and "an"
+
 anpala -
 (content word)
 1. refer to sewi, in section 1a
@@ -73,9 +117,21 @@ antonipanluwene -
 (content word)
 1. microbe, microorganism, algae, protozoa, viruses, archaea, bacteria, any microscopic organism
 
+anuke -
+(particle)
+1. or gay
+
 anusem -
 (particle) {syn. aAANUSEMEmailMahjong}
 1. question marker
+
+any sequence of unicode characters -
+(content word)
+1. now a toki pona word
+
+apejala -
+(content word)
+1. pride
 
 apeki -
 (content word)
@@ -89,6 +145,10 @@ asisi -
 (content word) {syn. pansu, epu}
 1. help, aid, assist
 
+ata -
+(content word)
+1. ancestor
+
 ateka -
 (content word) {syn. maku, mapu, netuma, oju, pawasi, siwa, soka, wino}
 1. refer to tonsi, in section 1b
@@ -97,9 +157,18 @@ atokole -
 (content word)
 1. autocorrect
 
+awake -
+(content word)
+1. awake
+
+awenala -
+(content word)
+1. accelerate
+
 bajona -
 (content word)
 1. bajona
+2. disrepect toki pona phonology
 
 blaso -
 (content word) {syn. lawi, seso}
@@ -109,6 +178,10 @@ channel -
 (content word)
 1. channel
 
+crispy -
+(content word)
+1. crispy
+
 eko -
 (content word)
 1. refer to jasima, in section 1b
@@ -116,6 +189,10 @@ eko -
 EmailMahjong - 
 (content word)
 1. a dialect of toki pona in which every instance of the letter "i" or "e" at the end of a word is replaced with EmailMahjong
+
+emelen - 
+(content word)
+1. to work from home with no expense necessary, free money
 
 epikun't -
 (content word)
@@ -147,10 +224,14 @@ et -
 1. refer to to, in section 1b
 
 ete -
-(content word)
+(content word) {syn. etesetewa}
 1. the digit 8 in the jan number system
 
 etesete -
+(content word) {syn. etesete}
+1. etcetera
+
+etesetewa -
 (content word)
 1. etcetera
 
@@ -170,14 +251,23 @@ graso -
 (content word) {syn. kaso, lasi}
 1. green
 
+hungy -
+(content word)
+1. hungry, wanting food
+
 i -
 (content word)
 1. packing peanuts
 2. first variable
+3. quid pro quo
 
 ije -
 (content word)
 1. sacrifice
+
+ijotesantakalu -
+(content word)
+1. what-cha-ma-call-it
 
 ikéla -
 (content word)
@@ -195,6 +285,14 @@ ilonoka -
 (content word) {syn. vötomekapo, kito, koti}
 1. refer to toki, in section 1a
 
+im going to say this in english because its very important -
+(particle)
+1. english language marker
+
+inlu -
+(semi-conjunction)
+1. instead of; rather than
+
 ip -
 (particle)
 1. inbetween modifiers to regroup them, works in reverse order of pi
@@ -207,18 +305,34 @@ isi -
 (content word)
 1. left, before, prior
 
-isipin -
+isipi -
 (content word)
-1. think, imagine, idea, believe, recall, idea, remember
+1. no thoughts, head empty
 
 isipintesu -
 (content word)
-1. regret over creating a new word
-2. a test to see if a new word will cause an outrage
+1. the isipin test, a test to see if the definition of new word is covered by the definitions of existing words
+2. regret over creating a new word
+3. a test to see if a new word will cause an outrage
+
+inuka -
+(content word)
+1. smell, scent, sniff, detect, notice
 
 ja -
 (content word)
 1. blah
+(particle)
+2. powerful spell marker
+3. preverb marker
+
+jaja -
+(interjection)
+1. laughing but you are Spanish
+
+jajaja -
+(interjection)
+1. unamused laughter
 
 jaka -
 (content word)
@@ -232,6 +346,10 @@ jale -
 (content word)
 1. contraction of jan and ale
 
+jalejale -
+(content word)
+1. expression of exasperation, tiredness, and generally being sick of whatever is going on here
+
 jami -
 (content word)
 1. friend
@@ -240,9 +358,25 @@ janeta -
 (content word)
 1. expletive, swear word
 
+janilo -
+(content word)
+1. combination of jan, ilo, and ijo
+
+janki -
+(content word)
+1. many people
+
+janpipanajo -
+(content word)
+1. asexual
+
 jante -
 (content word)
 1. contraction of jan and ante
+
+jasty -
+(content word)
+1. contraction of jami and tasty
 
 jawen -
 (content word)
@@ -251,10 +385,10 @@ jawen -
 je -
 (content word)
 1. the amount 2
-2. yay
+2. the digit 1 in the jan Eko number system
 
 jeloje -
-(content word) {syn. lojelo}
+(content word) {syn. lojelo, lolo, lejo}
 1. orange
 
 jen -
@@ -273,6 +407,10 @@ jepu -
 (content word)
 1. yiff
 
+jesimola -
+(content word)
+1. 耶斯莫拉
+
 jete -
 (content word) {syn. pawa, mun, jit, jiti}
 1. throw, toss, yeet
@@ -280,6 +418,10 @@ jete -
 jewa -
 (content word)
 1. have
+
+jihaw -
+(content word)
+1. southern, Texas, rural
 
 jike -
 (content word)
@@ -296,6 +438,10 @@ jit -
 jokin -
 (content word)
 1. joking
+
+jon -
+(content word)
+1. yea lon
 
 jon't -
 (content word)
@@ -314,13 +460,25 @@ ju -
 (content word)
 1. refer to sina, in section 1a
 
+jujowi -
+(content word)
+1. flipping the illegal syllables in wuwojiti to make them legal
+
 juju -
 (content word)
 1. full, congested, glut, bountiful, maximum
 
+junko -
+(content word)
+1. an absolute rat bastard
+
 juwepisi -
 (content word)
 1. usb c
+
+ka -
+(content word)
+1. the digit 5 in the jan Eko number system
 
 kahute -
 (content word)
@@ -329,6 +487,22 @@ kahute -
 kaje -
 (content word)
 1. refer to kon, in section 1a
+
+Kaje -
+(content word)
+1. to wrongly capitalize a toki pona word
+
+kakuletopiwan -
+(content word) {syn. piwan}
+1. calculator speedrun
+
+kalalinjanpasonamu -
+(content word)
+1. hello
+
+kalamali -
+(content word)
+1. kalamari
 
 kalamu -
 (content word)
@@ -350,6 +524,31 @@ kamawaso -
 (content word)
 1. nocturnal
 
+kamin -
+(content word)
+1. overload, excessive, overwhelming, condense
+
+kanamunate -
+(content word)
+1. listening to Tchaikovsky
+2. contraction of kalama pi pona mute
+
+kanole -
+(content word) {syn. meje, kanole}
+1. middle, normal, mediocre, medium, okay
+
+kapako -
+(content word)
+1. photosynthesis
+
+kapilu -
+(content word)
+1. get a conjugation wrong and accidentally change the meaning of the entire sentence
+
+kapo -
+(content word) {syn. mekapo, omekapona, ome, omekapu}
+1. refer to omekapo, in section 1b
+
 kapokinakenpa -
 (content word)
 1. cat fucking a handbag
@@ -361,6 +560,14 @@ kaso -
 kasu -
 (content word)
 1. space creature, any animal that exists in outer space
+
+kawa -
+(content word)
+1. rule, custom, regulation
+
+kawasin -
+(content word)
+1. quarantine
 
 kawawi -
 (content word)
@@ -384,6 +591,18 @@ kele -
 keleton -
 (content word)
 1. skeleton
+
+keletonsi -
+(content word)
+1. non-binary skeleton
+
+keloke -
+(content word)
+1. 'what's up pa?,' 'how things goin?,' casual greeting
+
+kenta -
+(content word)
+1. cannot, can't
 
 kepe -
 (semi-preposition)
@@ -414,24 +633,45 @@ keso -
 1. cheese
 
 ki -
-(content word)
-1. the amount 3
-2. the amount 1
 (particle)
-3. relative clause marker
+1. relative clause marker
+(content word)
+2. the amount 3
+3. the amount 1
+4. the digit 0 in the jan Eko number system
+
+kiki -
+(content word)
+1. spiky shape
 
 kijete -
 (content word)
 1. spiral
 
+kijetesantakayou -
+(content word)
+1. racoon fursona
+
+kijosin -
+(content word)
+1. a sharp tool used in function of a political ideology, typically in a francophone environment
+
 kilanpan -
 (content word)
 1. combination of the words "kili" and "lanpan"
+
+kililo -
+(content word)
+1. combination of the words "kili" and "ilo"
 
 kikanpo -
 (content word)
 1. euphemism for unwanted defecation, to ruin something with verbal garbage, to shit someone not 
 2. the day of November 9th
+
+kini -
+(content word)
+1. to relate to a fictional character
 
 kipilupu -
 (content word)
@@ -450,6 +690,10 @@ ko -
 (content word)
 1. the digit 2 in the monsuta Kipa number system
 
+kojaki -
+(content word)
+1. poop
+
 kokakola -
 (content word)
 1. the desire to make new number systems
@@ -459,6 +703,14 @@ kokokuki -
 (content word)
 1. cookie
 
+kokasila -
+(content word)
+1. to speak a non-Toki Pona language in an environment where Toki Pona is more appropriate
+
+koletanka -
+(content word)
+1. speedrun a newly added game/category just for an easy world record
+
 kome -
 (content word)
 1. the number 9
@@ -467,13 +719,34 @@ kon -
 (content word)
 1. the digit 3 in the monsuta Kipa number system
 
+konpo -
+(content word)
+1. combination
+
 konpusijon - 
 (content word)
 1. confusion
 
+kontoki - 
+(content word)
+1. context
+
+koponpan -
+(content word)
+1. 8.5 by 11 inch white paper
+
 koselesotesenontelaponeto -
 (content word)
 1. "On the contrary, I think it may turn out that this rugged mountain range trails off at some point"
+
+kosi -
+(content word)
+1. cozy
+
+kosin -
+(content word)
+1. divide the length of the side adjacent to an angle of a right triangle by the length of the triangle's hypotenuse
+2. give a definition to a word that already has a definition
 
 koti -
 (content word) {syn. ilonoka, vötomekapo, kito}
@@ -491,6 +764,14 @@ ku -
 (content word)
 1. the digit 0 in the monsuta Kipa number system
 2. to queue
+
+kuki -
+(content word)
+1. cookie
+
+kukimama -
+(content word)
+1. accidentaly create a speedrunning community
 
 kukoli -
 (content word)
@@ -521,6 +802,14 @@ kuse -
 (content word)
 1. cursed
 
+kuta -
+(content word)
+1. also, too
+
+lakima -
+(content word)
+1. sad
+
 lakun -
 (content word) {syn. sisaku, pesukalu}
 1. refer to kijetesantakalu, in section 1b
@@ -544,6 +833,18 @@ lapeja -
 (content word)
 1. shame of sleep
 
+lapin -
+(content word)
+1. do something for the sake of a trend
+
+lapitese -
+(content word)
+1. for a situation or event to escalate out of control, to grow exponentially, to fuck up big time
+
+lasanja -
+(content word)
+1. mischievous feline, pasta fiend
+
 lasi -
 (content word) {syn. graso, kaso}
 1. green
@@ -564,6 +865,11 @@ le -
 (content word)
 1. "re" in the Sictoabu Solfege system
 2. "la" in the Sictoabu Solfege system
+1. blue
+
+lejo - {syn. lojelo, jeloje, lolo}
+(content word)
+1. orange
 
 leka -
 (content word)
@@ -577,6 +883,22 @@ leklipul -
 (content word)
 1. a mistake, to lick the pool
 
+lenin -
+(content word)
+1. communism
+
+lin -
+(content word)
+1. the digit 8 in the jan Eko number system
+
+linka -
+(content word)
+1. website link
+
+letasi -
+(content word)
+1. replacement tablet screen
+
 l'ike -
 (content word) {syn. like}
 1. contraction of li and ike
@@ -584,6 +906,7 @@ l'ike -
 like -
 (content word) {syn. l'ike}
 1. contraction of li and ike
+2. like
 
 lililililililili -
 (content word)
@@ -593,6 +916,10 @@ lililililililili -
 liwe -
 (content word)
 1. magenta
+
+ln -
+(content word)
+1. take the natural logarithm of something
 
 lo -
 (semi-preposition) {syn. kepen}
@@ -607,15 +934,37 @@ lol -
 (content word)
 1. existing in a funny way
 
+lojelo -
+(content word) {syn. jeloje, lolo, lejo}
+1. orange
+
+lojelojelo -
+(content word)
+1. colorblindness
+
+lolo -
+(content word) {syn. jeloje, lojelo, lejo}
+1. orange
+
+lom -
+(content word)
+1. existing in a mispelled way
+
 lona -
 (content word)
 1. not existing
 2. very existing
 2. pona, but more existing
 
-lojelo -
-(content word) {syn. jeloje}
-1. orange
+lopkmntskuwjstw -
+(content word)
+1. a good ol giggle
+
+lu
+(particle) {syn. se}
+1. comes directly before a prepositional phrase
+(content word)
+2. the digit 1 in the jan Eko number system
 
 luna
 (content word)
@@ -633,6 +982,26 @@ maku -
 (content word) {syn. ateka, mapu, netuma, oju, pawasi, siwa, soka, wino}
 1. refer to tonsi, in section 1b
 
+makusu -
+(content word)
+1. maximum
+
+mala -
+(content word)
+1. un-
+
+malakowa -
+(content word)
+1. bravery, courage
+
+malapeja -
+(content word)
+1. forgive
+
+mama.to -
+(content word)
+1. feline
+
 man -
 (content word)
 1. refer to jan, in section 1a
@@ -649,6 +1018,14 @@ mapu -
 (content word) {syn. ateka, maku, netuma, oju, pawasi, siwa, soka, wino}
 1. refer to tonsi, in section 1b
 
+mawa - {syn. mowa}
+(content word)
+1. car, vehicle
+
+mawen - 
+(content word)
+1. when something is so cis/het/allo/etc that it leaves you impacted
+
 mawo - 
 (content word)
 1. cat
@@ -661,9 +1038,25 @@ meh -
 (content word)
 1. bland, boring, unamusing
 
+meje -
+(content word) {syn. kanole, setini}
+1. middle, normal, mediocre, medium, okay
+
 mela -
 (content word)
 1. join a discord server
+
+melomepiku -
+(content word)
+1. combination of melome and epiku
+
+melomu -
+(content word)
+1. girl who loves animal noises
+
+mekapo -
+(content word) {syn. omekapona, kapo, ome, omekapu}
+1. refer to omekapo, in section 1b
 
 meme -
 (content word)
@@ -677,6 +1070,10 @@ melonpan -
 (content word)
 1. melon bread
 
+meta -
+(content word)
+1. meta
+
 mija -
 (content word)
 1. the name "Mia," as in the phrase "mama mia"
@@ -684,6 +1081,10 @@ mija -
 mijen -
 (content word)
 1. the digit 1000000 in the jan number system
+
+milk -
+(content word)
+1. milk
 
 mili -
 (content word) {syn. sinali}
@@ -706,6 +1107,14 @@ misali -
 (content word)
 1. critic, judgemental
 
+mitoki -
+(content word)
+1. combination of the words mi and toki
+
+mitokonpija -
+(content word)
+1. mitochondria
+
 mo -
 (preposition)
 1. inbetween modifiers to put them into a non-stative relationship
@@ -717,18 +1126,42 @@ mokeli -
 1. distracted, carried away
 2. cooked food
 
+mokumak -
+(content word)
+1. eat
+
 mola -
 (content word)
 1. keep alive, sustain
+
+molipo -
+(content word)
+1. die well
 
 mon -
 (content word)
 1. refer to monsuta, in section 1b
 2. the first day of the week
 
+monkuta -
+(content word)
+1. a cute monster
+
+monopoli -
+(content word)
+1. Monopoly (board game)
+
+monsun -
+(content word)
+1. monsoon
+
+monsusi -
+(content word)
+1. prey
+
 monsutatesu -
 (content word)
-1. the monsuta test
+1. the monsuta test, a test to see if the transitive form of a verb means something different from the intransitive form of a verb
 
 mose -
 (content word)
@@ -738,13 +1171,34 @@ moto -
 (content word)
 1. most
 
+mowa - {syn. mawa}
+(content word)
+1. car, vehicle
+
 mumu -
 (content word)
 1. gg
+2. refer to kuntu, in section 1b
 
 mun -
 (content word) {syn. pawa, jete, jit, jiti}
 1. throw, toss, yeet
+
+muno -
+(content word)
+1. balanced, equivalent on two sides, symetrical
+
+muntu -
+(content word)
+1. combination of the words mu and kuntu
+
+musa -
+(content word)
+1. combination of the words nasa and musi
+
+musajetin -
+(content word)
+1. strugglers of Allah
 
 muted -
 (content word)
@@ -753,6 +1207,15 @@ muted -
 mutu -
 (content word)
 1. a negative and/or relatable statement involving how one feels or what one has just done
+2. refer to kuntu, in section 1b
+
+muwi -
+(content word)
+1. combination of the words mu and suwi
+
+muwu -
+(content word)
+1. a dialect of toki pona which tries to be as cutesy as possible and puts "mu" in place of every sylablle which contains a u
 
 na -
 (content word)
@@ -780,7 +1243,7 @@ nape -
 1. nap
 
 naso -
-(particle)
+(content word)
 1. combination of nasa and waso
 
 naw -
@@ -790,6 +1253,10 @@ naw -
 nawako -
 (content word) {syn. pelijan, oloko, esele, uluku}
 1. monster in Tolkien fantasy
+
+nen -
+(content word)
+1. a strange version of the word en
 
 nesi -
 (content word)
@@ -803,17 +1270,37 @@ NEW WORD ALERT -
 (content word)
 1. an alert for a new word
 
-nin -
-(content word)
-1. the digit 9 in the jan number system
-
 nimimi -
 (content word)
 1. my name
 
+nin -
+(content word)
+1. the digit 9 in the jan number system
+
+nipopesen -
+(content word)
+1. the Super Mario Oddesy speedrun category, nipple%
+
 nise -
 (content word)
 1. nice
+
+nito -
+(content word)
+1. neat
+
+nokajo -
+(content word)
+1. refer to leko, in section 1b
+
+noko -
+(content word)
+1. know every word in nimi ale
+
+nonpu -
+(content word)
+1. words that are not in the Official Toki Pona Book by Sonja Lang
 
 nosa -
 (content word)
@@ -822,6 +1309,10 @@ nosa -
 nu -
 (content word)
 1. never to interact with the official Toki Pona book
+
+nuno -
+(content word)
+1. noon
 
 nusa -
 (content word)
@@ -839,23 +1330,40 @@ oju -
 (content word) {syn. ateka, maku, mapu, netuma, pawasi, siwa, soka, wino}
 1. refer to tonsi, in section 1b
 
+okanpon -
+(content word)
+1. contraction of o kama pona
+
 okekala -
 (content word)
 1. okay kala
 
 okenata -
 (content word)
-1. okay soweli nata
+1. okay, said to the toki pona speaker, soweli nata
 2. local soweli is going on about some bullshit again
+
+okepepo -
+(content word)
+1. okay Fredboat
+2. use well
 
 okesuma -
 (content word)
 1. okay zoomer
 
+okexuma -
+(content word)
+1. okay gen-x
+
 oki -
 (content word)
 1. the digit 8 in the jan Sake number system
 2. refer to oke, in section 1b
+
+okumak -
+(content word)
+1. read
 
 okupani -
 (content word)
@@ -863,26 +1371,39 @@ okupani -
 
 olanpán -
 (content word)
-1. seise the means of production
+1. seize the means of production
+
+olape -
+(content word)
+1. go to sleep
 
 olapepo -
 (content word)
 1. sleep well
 
+olima -
+(content word)
+1. gay, lesbian
+
 oloko -
 (content word) {syn. pelijan, nawako, esele, uluku}
 1. monster in Tolkien fantasy
+
+ome -
+(content word) {syn. mekapo, kapo, omekapona, omekapu}
+1. refer to omekapo, in section 1b
+2. oatmeal
 
 omekalajelo -
 (content word)
 1. the fish-resistance movement
 
 omekapona -
-(content word)
+(content word) {syn. mekapo, kapo, ome, omekapu}
 1. refer to omekapo, in section 1b
 
 omekapu -
-(content word)
+(content word) {syn. mekapo, kapo, ome, omekapona}
 1. refer to omekapo, in section 1b
 
 omenana -
@@ -901,6 +1422,10 @@ ometelo -
 (content word)
 1. drink a good drink
 
+omisilon -
+(content word) {syn. onimisinlilon}
+1. noise made when a new word is seen for the first time
+
 omo -
 (content word) {syn. kele, oja, amin, pensa, mana, weluwa, ipike}
 1. think
@@ -912,6 +1437,10 @@ omokala -
 on't -
 (particle)
 1. hey, don't do this! decleration of imperative
+
+onimisinlilon -
+(content word) {syn. omisilon}
+1. noise made when a new word is seen for the first time
 
 onsije -
 (content word)
@@ -925,6 +1454,14 @@ opanapo -
 (content word)
 1. take a good shit
 
+opeti -
+(content word)
+1. optative
+
+opolo -
+(content word)
+1. break, take a break, remove oneself from a stressful situation, recharge after a social interaction, calm down
+
 osu -
 (content word)
 1. the game Osu!
@@ -936,6 +1473,14 @@ ot -
 otepupo -
 (content word)
 1. refer to pu, in section 1a
+
+otetopo -
+(content word)
+1. speak toki pona
+
+owan - 
+(interjection)
+1. unite (usually in a communist or political context)
 
 owawawawatanomapokapokinakenpakijolonijowanwapinawitoninotalalisantekoseLUKENIKAPANAMAPONTO -
 (content word)
@@ -965,9 +1510,17 @@ pakaloni -
 (content word)
 1. when you boil pasta for too long
 
+pakesi -
+(content word)
+1. when someone posts an akesi or makes a joke about akesi and you want to pin it
+
 pakin -
 (content word)
 1. translate something directly into Toki Pona instead of translating the ideas
+
+pako -
+(content word)
+1. combination of pake and leko
 
 palike -
 (content word) {sim. pa'li'ke}
@@ -985,13 +1538,35 @@ paloke -
 (content word)
 1. contraction of pali, li and oke
 
+pananatan -
+(content word)
+1. the toki pona speaker, palisa jelo Natan
+
+panke -
+(content word)
+1. bonk
+
+panpan -
+(content word)
+1. pastry
+2. steal bread
+
+panu -
+(content word)
+1. ambiguously bread
+
+papa -
+(content word)
+1. potato
+2. pet
+
 papapapapa -
 (content word)
 1. levelling tool
 
-pawasi -
-(content word) {syn. ateka, maku, mapu, netuma, oju siwa, soka, wino}
-1. refer to tonsi, in section 1b
+paniku -
+(content word)
+1. panic
 
 pansu -
 (content word) {syn. asisi, epu}
@@ -1007,6 +1582,10 @@ pasotaso -
 (content word)
 1. pasta
 
+patapin patapun -
+(interjection)
+1. BADA BING, BADA BOOM
+
 pati -
 (content word)
 1. the digit 9 in the jan Sake number system
@@ -1019,9 +1598,15 @@ pawa -
 (content word) {syn. mun, jete, jit, jiti}
 1. throw, toss, yeet
 
+pawasi -
+(content word) {syn. ateka, maku, mapu, netuma, oju siwa, soka, wino}
+1. refer to tonsi, in section 1b
+
 pe -
 (content word)
 1. the digit 6 in the monsuta Kipa number system
+2. direct object marker in relative clauses
+3. furry
 
 pekukolija -
 (content word)
@@ -1035,6 +1620,10 @@ pen -
 (content word)
 1. the digit 7 in the monsuta Kipa number system
 
+peninsula -
+(content word)
+1. peninsula
+
 pensa -
 (content word) {syn. kele, oja, amin, mana, omo, weluwa, ipike}
 1. think
@@ -1046,6 +1635,10 @@ pensapilo -
 pelijan -
 (content word) {syn. nawako, oloko, esele, uluku}
 1. monster in Tolkien fantasy
+
+pepeken -
+(content word)
+1. combination of pi and kepeken
 
 pepukon -
 (content word)
@@ -1071,18 +1664,58 @@ piko -
 (content word)
 1. refer to pipi, in section 1a
 
+piku -
+(content word)
+1. piece, part
+2. brick
+
 pin -
 (content word)
 1. the digit 9 in the monsuta Kipa number system
+2. pin a message within Discord, react with a pin emoji to a message within Discord
+3. the digit 9 in the jan Eko number system
+4. Bing
+
+Pingo -
+(content word)
+1. car
 
 pinpen -
 (content word)
 1. merge, combine, mix
 1. ambiguity
 
+pijan -
+(content word)
+1. biang
+
 pijen -
 (content word)
 1. the digit 1000000000 in the jan number system
+
+pijetefanidilesinalen -
+(content word)
+1. radio beacon which broadcasts a signal by which aircraft pilots can determine their bearing to the beacon, navigate while piloting an aircraft by using a radio signal which allows you to determine your bearing to the beacon
+
+pilinpini -
+(content word)
+1. the feeling of wanting to pin something
+
+pilisu -
+(content word)
+1. please
+
+piton -
+(content word)
+1. python
+
+piwan -
+(content word) {syn. kakuletopiwan}
+1. calculator speedrun
+
+plepa -
+(content word)
+1. Blaseball
 
 po -
 (particle) {sim. ke}
@@ -1092,6 +1725,7 @@ po -
 (content word)
 3. respect, respectful
 4. the number 0, in the binary counting system
+5. the digit 7 in the jan Eko number system
 
 põa -
 (content word)
@@ -1118,33 +1752,72 @@ ponaponaponaponaponapona -
 (content word) {syn. supakalipasilisijepijalitosi}
 1. pona x5
 
+poni -
+(a good word)
+1. pony
+
+pono -
+(content word)
+1. toki pona
+
+pope -
+(content word)
+1. pope
+
+poten -
+(content word)
+1. time travel
+
 puke -
 (content word)
 1. un-eat, vomit
 
+puli -
+(content word)
+1. interacting with the word 'pu'
+
 pun -
 (content word)
 1. pun
+2. spoon
 
 pupu -
 (content word)
 1. refer to ko, in section 1a
 
+pupupipi - 
+(content word) {syn. ajele}
+1. international auxiliary lanugage
+
 pusin -
 (content word)
 1. poutine
-
-rick -
-(content word)
-1. toki pona expert
 
 roxyu -
 (content word)
 1. to create joke words between two people, especially between jan Melako and kala Tonyu
 
+sa -
+(content word)
+1. refer to sina, in section 1a
+(particle)
+2. predicate marker for when talking like jar jar binks from the Star Wars by Lucas George
+
+sako -
+(content word)
+1. impact, strike, shock, jolt; abrupt, drastic, instantaneous, fleeting
+
+san -
+(content word)
+1. the digit 1 in the jan Eko number system
+
 santa -
 (content word)
 1. spread joy, be generous, deceive children
+
+sanulikan -
+(content word)
+1. the VotGil language
 
 sapi -
 (content word)
@@ -1153,6 +1826,10 @@ sapi -
 sasu -
 (content word)
 1. the digit 7 in the jan Sake number system
+
+se -
+(particle) {syn. lu}
+1. comes directly before a prepositional phrase
 
 seko -
 (content word)
@@ -1180,6 +1857,10 @@ seso -
 (content word) {syn. blaso, lawi}
 1. blue
 
+setini -
+(content word) {syn. kanole, meje}
+1. middle, normal, mediocre, medium, okay
+
 si -
 (content word)
 1. "ti" in the Sictoabu Solfege system
@@ -1192,6 +1873,10 @@ sikete -
 siki -
 (content word)
 1. the digit 6 in the jan number system
+
+siku - {syn. tiku}
+(content word)
+1. kinda, barely, eh, not entirely
 
 sikipo -
 (content word) {syn. wiko}
@@ -1232,7 +1917,14 @@ siwa -
 slape -
 (content word)
 1. gender
-2. sleep
+
+sma -
+(content word)
+1. combination of seme and a
+
+smem -
+(content word)
+1. there are two M emoji and only one E
 
 so -
 (content word)
@@ -1242,18 +1934,38 @@ soka -
 (content word) {syn. ateka, maku, mapu, netuma, oju, pawasi, siwa, wino}
 1. refer to tonsi, in section 1b
 
+sonjalan -
+(content word)
+1. to have a native language that isn't English
+
+sonkusu -
+(interjection)
+1. zoinks
+
 sosi -
 (content word)
 1. monkey, primate, gorilla, humanoid animal
+
+sowemi -
+(content word)
+1. fursona
 
 spepiku -
 (content word)
 1. the sitelen pona of epiku
 2. epic face
 
-sun
+stake -
+(content word)
+1. stake
+
+sun -
 (content word)
 1. hyperfine transition, 21 cm, 0.7 nanoseconds, hydrogen atom, the number 9,192,631,770
+
+sunken -
+(content word)
+1. sunken
 
 supakalipasilisijepijalitosi -
 (content word) {syn. ponaponaponaponaponapona}
@@ -1263,25 +1975,60 @@ supawi -
 (content word)
 1. swatch .beat
 
-suten
+susu -
+(content word)
+1. suspicious
+2. trust
+
+suten -
 (content word)
 1. stan
+
+sutosutokapopeletalotisin -
+(content word)
+1. an abnormality of the gene "GNAS" which results in short stature and short fingers and toes
 
 ta -
 (content word)
 1. the digit 4 in the monsuta Kipa number system
+2. the digit 4 in the jan Eko number system
 
 tajo -
 (particle)
 1. like pi, but takes precedence over pi
 
+tak -
+(content word)
+1. yes
+2. no
+
+taki -
+(content word)
+1. sticky, magnetic
+
+takijon -
+(content word)
+1. postulate additional nonpu toki pona particles
+
+talowa -
+(content word)
+1. role, purpose, function, goal, target
+
 tapo -
 (content word)
 1. contraction of tawa and pona
 
+tamale -
+(semi-preposition)
+1. towards Earth
+
 tan -
 (content word)
 1. the digit 5 in the monsuta Kipa number system
+
+tanka -
+(content word)
+1. triangle
 
 tani -
 (content word)
@@ -1295,6 +2042,14 @@ tansomapo -
 (content word)
 1. dance on akesi loje Polo's balls
 
+tante -
+(content word)
+1. despite, notwithstanding
+
+tapakala -
+(interjection)
+1. emphasis, surprise, exclamation
+
 tape -
 (content word)
 1. tape
@@ -1307,6 +2062,10 @@ tasola -
 (content word)
 1. refer to taso, in section 1a
 
+tawala -
+(content word)
+1. refer to awen, in section 1a
+
 tawo -
 (content word)
 1. palisa jelo Natan's tonal relex
@@ -1314,6 +2073,7 @@ tawo -
 te - 
 (content word)
 1. the amount 5
+2. the digit 1 in the jan Eko number system
 
 teme -
 (content word)
@@ -1347,13 +2107,29 @@ tenpu -
 (content word)
 1. pu time
 
+tesewaka -
+(content word)
+1. 4th dimensional object, tesseract
+
+teto -
+(content word)
+1. make new particles
+
 text files -
 (content word)
 1. text files
 
+that noise that kawa just made -
+(interjection)
+1. that noise that kawa just made
+
 thonk -
 (content word)
 1. thonk, thinking in a strange way, responding to a message with the thonk emoji
+
+tiku - {syn. siku}
+(content word)
+1. kinda, barely, eh, not entirely
 
 tipe -
 (content word)
@@ -1376,6 +2152,10 @@ to -
 tok'pona -
 (content word)
 1. contraction of toki and pona
+
+tokana -
+(content word)
+1. focus, attention, concentrate, resolution, fineness
 
 toke -
 (content word) {syn. toks, tokes, toqyy}
@@ -1413,9 +2193,26 @@ tona -
 (content word)
 1. pigment, dye, toner, ink, paint
 
+tonsiisi -
+(content word)
+1. "i have no idea what my sexuality/identity is"
+
+tonsoton -
+(content word)
+1. nonbinary person who is attracted to nonbinary
+
+tonyu -
+(content word)
+1. to be in a state of kala pona Tonyu
+2. to make into Singaporean time; to sleep as if you are in Singapore's timezone
+
 toqyy -
 (content word) {syn. toke, tokes, toks}
 1. refer to toki, in section 1a
+
+totali -
+(content word)
+1. lon, but with sarcasm
 
 tukali -
 (content word)
@@ -1423,11 +2220,15 @@ tukali -
 
 tuntala
 (content word)
-1. to be faced with the threat of nuclear annihilation, witness no less than 4 famous people die, survive a worldwide pandemic, perform heart surgery on a dictator, be at yellowstone national park during a magnitude 3 earthquake, partake in a riot, cause an oil spill near norilsk and die to an earthquake on the pacific coast of mexico
+1. to be faced with the threat of nuclear annihilation, witness no less than 4 famous people die, survive a worldwide pandemic, perform heart surgery on a dictator, be at yellowstone national park during a magnitude 3 earthquake, partake in a riot, cause an oil spill near norilsk, die to an earthquake on the pacific coast of mexico
 
 tusi -
 (content word)
 1. singing, banter
+
+tuti -
+(content word)
+1. exponent, exponentiate
 
 typing -
 (content word)
@@ -1436,11 +2237,17 @@ typing -
 u -
 (modifier particle)
 1. "ooh" expressing interest
+(particle)
+2. seperates the preposition from the indirect object
 (interjection)
-2. "ooh" when someone gets roasted
+3. "ooh" when someone gets roasted
 (content word)
-3. cast iron truck, driving a cast iron truck, relating to a cast iron truck
-4. the second variable
+4. cast iron truck, driving a cast iron truck, relating to a cast iron truck
+5. the second variable
+
+ujo -
+(content word)
+1. refer to poki, in section 1a
 
 uluku -
 (content word) {syn. pelije, nawako, oloko, esele}
@@ -1454,6 +2261,10 @@ usiso -
 (content word)
 1. rescue, preserve, provide salvation
 
+ut -
+(content word)
+1. peace
+
 utanume -
 (content word)
 1. contraction of uta, anu and seme
@@ -1465,14 +2276,6 @@ vötlon't -
 vötomekapo -
 (content word) {syn. ilonoka, kito, koti}
 1. refer to toki, in section 1a
-
-wa -
-(content word)
-1. wow
-
-wawalala -
-(content word)
-1. combination of wawa, ala, and la
 
 wakalito -
 (content word)
@@ -1498,17 +2301,29 @@ wardrobesser -
 (content word)
 1. combination wardrobe and dresser
 
+wasepiko -
+(content word)
+1. combination of waso and epiku
+
 watu -
 (content word)
 1. what
+
+wawalala -
+(content word)
+1. combination of wawa, ala, and la
 
 weaklaan -
 (content word)
 1. unknown
 
-wekama -
+weju -
+(interjection)
+1. phew
+
+weko -
 (content word)
-1. brb, leave and come back
+1. Tetris
 
 weluwa -
 (content word) {syn. kele, oja, amin, pensa, mana, omo, ipike}
@@ -1551,6 +2366,10 @@ wiwiwiwi -
 1. wiggle
 2. France
 
+woha -
+(content word)
+1. woah
+
 wololo -
 (content word)
 1. convince, persuade, convert, change someones mind
@@ -1558,6 +2377,10 @@ wololo -
 wrong -
 (content word)
 1. wrong
+
+wunwonjintin -
+(content word)
+1. speak toki ma
 
 wuwojiti -
 (content word)
@@ -1572,6 +2395,10 @@ xanu -
 (content word)
 1. XOR
 
+yupekoti - 
+(content word)
+1. do Jesika-style anglocentrism
+
 yuyupekosi - 
 (content word)
 1. the amount 199
@@ -1584,7 +2411,19 @@ zhaki -
 (content word)
 1. refer to jaki, in section 1a
 
-COUNT: 382
+zhami - 
+(content word)
+1. refer to jami, in section 1b
+
+нiмесин -
+(content word)
+1. nimeson tablets
+
+🧹 -
+(content word)
+1. sweep
+
+COUNT: 584
 
 Sources:
 (1st definition of ajo) https://discordapp.com/channels/301377942062366741/301377942062366741/714619935833325588
@@ -1598,7 +2437,7 @@ Sources:
 (usiso, pansu) https://discordapp.com/channels/301377942062366741/375591429608570881/723228296317239410
 (tito) https://discordapp.com/channels/301377942062366741/375591429608570881/723306635157700678
 (1st definition of u) https://discordapp.com/channels/301377942062366741/375591429608570881/721210254792065103
-(2nd definition of u) https://discordapp.com/channels/301377942062366741/301377942062366741/705224187916189716
+(3nd definition of u) https://discordapp.com/channels/301377942062366741/301377942062366741/705224187916189716
 (jenku) https://discordapp.com/channels/301377942062366741/375591429608570881/719024370235867248
 (piko) https://discordapp.com/channels/301377942062366741/301377942062366741/717873574303498251
 (tokotewe) https://discordapp.com/channels/301377942062366741/375591429608570881/716704897319567414
@@ -1638,7 +2477,7 @@ Sources:
 (pinpen) https://discordapp.com/channels/301377942062366741/545467374254555137/590615357623107585
 (ke) https://discordapp.com/channels/301377942062366741/545467374254555137/589642123142365195
 (i) https://discordapp.com/channels/301377942062366741/301377942062366741/588859160448335876
-(3rd definition of u) https://discordapp.com/channels/301377942062366741/301377942062366741/588857422861434880
+(4rd definition of u) https://discordapp.com/channels/301377942062366741/301377942062366741/588857422861434880
 (lojelo) https://discordapp.com/channels/301377942062366741/301377942062366741/567190320115220493
 (antepisetapimatewinanisa) https://discordapp.com/channels/301377942062366741/375591429608570881/558383192391024655
 (wapate) https://discordapp.com/channels/301377942062366741/301377942062366741/557263459826532368
@@ -1731,7 +2570,6 @@ Sources:
 (sosi) https://discordapp.com/channels/301377942062366741/545467374254555137/740730540444876880
 (wapu) https://discordapp.com/channels/301377942062366741/316063418253705229/741100851581681666
 (mawo) https://discordapp.com/channels/301377942062366741/301378960468738050/741082822139314307
-(rick) https://discordapp.com/channels/301377942062366741/545467374254555137/741854301910990980
 (jaka) https://discordapp.com/channels/301377942062366741/375591429608570881/742148415181422641
 (pakin) https://discordapp.com/channels/301377942062366741/375591429608570881/743229568197853305
 (seko) https://discordapp.com/channels/301377942062366741/301377942062366741/743209667194257510
@@ -1745,3 +2583,50 @@ Sources:
 (etesete) https://discordapp.com/channels/301377942062366741/375591429608570881/729352531075006535
 (tona) https://discordapp.com/channels/301377942062366741/301377942062366741/749048720301097091
 (ip, ot, et, naso) https://discordapp.com/channels/301377942062366741/743671414376366092/749140366535688204
+(2nd definition of u) https://discordapp.com/channels/301377942062366741/375591429608570881/708700882019156028
+(jujowi) https://discordapp.com/channels/301377942062366741/375591429608570881/730065040585261097
+(kokosila) https://discordapp.com/channels/301377942062366741/545467374254555137/751257123559833601
+(kililo) https://discordapp.com/channels/301377942062366741/545467374254555137/751269725618831421
+(nonpu) https://discordapp.com/channels/301377942062366741/301377942062366741/752536355669803069
+(makusu) https://discordapp.com/channels/301377942062366741/545467374254555137/750524605525000282
+(kenta) https://discordapp.com/channels/301377942062366741/545467374254555137/751059391184371763
+(kuta) https://discordapp.com/channels/301377942062366741/545467374254555137/751259342929395752
+(like) https://discordapp.com/channels/301377942062366741/545467374254555137/751260870725599332
+(pako) https://discordapp.com/channels/301377942062366741/375591429608570881/753284379094024226
+(olape) https://discordapp.com/channels/301377942062366741/375591429608570881/757122169040928868
+(letasi) https://discordapp.com/channels/301377942062366741/545467374254555137/757751256071536673
+(sa) https://discordapp.com/channels/301377942062366741/301377942062366741/757978681535758416
+(anlanpan) https://discordapp.com/channels/301377942062366741/301377942062366741/757932361861169262
+(musajetin) https://discordapp.com/channels/301377942062366741/301377942062366741/757927677608067094
+(kijosin) https://discordapp.com/channels/301377942062366741/375591429608570881/684040544560742510
+(Pingo) https://discordapp.com/channels/301377942062366741/375591429608570881/758031404880756907
+(3rd definition of i) https://discordapp.com/channels/301377942062366741/599425762990358528/758485688009359360
+(muno) https://discordapp.com/channels/301377942062366741/545467374254555137/759614734521073682
+(2nd definition of pe) https://discordapp.com/channels/301377942062366741/375591429608570881/760370128667017240
+(se) https://discordapp.com/channels/301377942062366741/375591429608570881/738185026189000844
+(takijon) https://discordapp.com/channels/301377942062366741/375591429608570881/761529986725052447
+(tapakala) https://discord.com/channels/301377942062366741/301377942062366741/769756216225169438
+(kamin) https://discordapp.com/channels/301377942062366741/301377942062366741/772319012922589184
+(emelen) https://discordapp.com/channels/301377942062366741/375591429608570881/773982488384241744
+(2nd definition of ja) https://discord.com/channels/301377942062366741/375591429608570881/775201293144424488
+(pilinpini) https://discord.com/channels/301377942062366741/599425762990358528/775440598437199962
+(pakesi) https://discord.com/channels/301377942062366741/599425762990358528/775439323423309884
+(tak) https://discord.com/channels/301377942062366741/599425762990358528/776627259237728257
+(jan Eko number system) https://discord.com/channels/301377942062366741/375591429608570881/779466274580463648
+(ujo) https://discord.com/channels/301377942062366741/545467374254555137/779424608205406260
+(koletanka) https://discord.com/channels/301377942062366741/599425762990358528/769237460651212830
+(nipopesen) https://discord.com/channels/301377942062366741/599425762990358528/769237855779815425
+(lapitese) https://discord.com/channels/301377942062366741/599425762990358528/784228656637149185
+(alentasalepu) https://discord.com/channels/301377942062366741/599425762990358528/784227648519536660
+(tuti) https://discord.com/channels/301377942062366741/301377942062366741/784065541417599026
+(jalejale) https://discord.com/channels/301377942062366741/599425762990358528/784059258051887114
+(keloke) https://discord.com/channels/301377942062366741/375591429608570881/783745859312418827
+(mama.to) https://discord.com/channels/301377942062366741/599425762990358528/783722145804320829
+(sako) https://discord.com/channels/301377942062366741/375591429608570881/783142981901352971
+(akesowamamopipankakijekasikili) https://discord.com/channels/301377942062366741/375591429608570881/786638314181492796
+(piton) https://discord.com/channels/301377942062366741/599425762990358528/786680510440800286
+(poni) https://discord.com/channels/301377942062366741/599425762990358528/785585101638860800
+(нiмесин) https://discord.com/channels/301377942062366741/301377942062366741/785191565207404584
+(pijetefanidilesinalen) https://discord.com/channels/301377942062366741/301377942062366741/784943758177075200
+(opolo) https://discord.com/channels/301377942062366741/316066233755631616/787602406041059388
+(papa) https://discord.com/channels/301377942062366741/599425762990358528/787131233456488499

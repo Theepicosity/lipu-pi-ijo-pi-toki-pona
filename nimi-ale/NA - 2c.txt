@@ -1,0 +1,34 @@
+NIMI ALE
+SECTION 2C - WORDS FROM ENGLISH TELEGRAM GROUPS
+
+inteneto -
+(content word)
+1. internet
+
+leka -
+(content word) {syn. toke}
+1. tongue
+
+pilisi -
+(content word) {syn. pola}
+1. please
+
+pola -
+(content word) {syn. pilisi}
+1. please
+
+silo -
+(content word)
+1. the digit 0
+
+toke -
+(content word) {syn. leka}
+1. tongue
+
+COUNT: 6
+
+Sources: 
+(silo) https://t.me/kulupupitokipona/2863
+(pilisi, pola) https://t.me/kulupupitokipona/11915
+(toke, leka) https://t.me/kulupupitokipona/11224
+(inteneto) https://t.me/kulupupitokipona/1138

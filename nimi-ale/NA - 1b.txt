@@ -33,6 +33,10 @@ ipi -
 (content word) {syn. iki}
 1. refer to ona, in section 1a
 
+isipin -
+(content word)
+1. think, imagine, idea, believe, recall, idea, remember
+
 itomi - 
 (content word)
 1. Schadenfreude, indirect insult, disrespect, shade
@@ -62,6 +66,10 @@ jatu -
 (content word)
 1. the digit 1 in the Socks Numeral number system
 
+je - 
+(content word)
+1. yay
+
 kajo - 
 (content word)
 1. the digit 9 in the Socks Numeral number system
@@ -89,6 +97,10 @@ ke -
 ken't - 
 (preverb)
 1. cannot, impossible
+
+ki - 
+(content word)
+1. relative clause marker
 
 kijetesantakalu - 
 (content word)
@@ -294,6 +306,10 @@ su -
 (content word)
 1. yes/no question marker
 
+sutopatikuna - 
+(content word)
+1. platypus
+
 take - 
 (content word)
 1. the digit 7 in the Socks Numeral number system
@@ -318,13 +334,21 @@ to -
 (semi-prepositional particle)
 1. coming after a direct quote
 
+tokana - 
+(content word)
+1. focus, attention, concentrate, resolution, fineness; focus on
+
 tonsi - 
 (content word)
-1. trans, non-binary, gender nonconforming
+1. non-binary, gender nonconforming, trans
 
 tuli - 
 (content word) {sim. san}
 1. the amount 3
+
+wa -
+(content word)
+1. indicating awe or amazement
 
 waleja - 
 (content word)
@@ -338,6 +362,10 @@ we -
 (content word)
 1. between two complete sentences
 
+wekama -
+(content word)
+1. brb, leave and come back
+
 wi - 
 (content word)
 1. we, excluding 2nd person
@@ -346,10 +374,11 @@ yupekosi -
 (content word)
 1. to behave like George Lucas and revise your old creative works and actually make them worse
 
-COUNT: 83
+COUNT: 90
 
 Sources:
-(NAP words) https://docs.google.com/document/d/10hP3kR7mFN0E6xW3U6fZyDf7xKEEvxssM96qLq4E0ms/edit
+(NAP, 2nd edition) https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit
+(NAP, 1st edition) https://docs.google.com/document/d/10hP3kR7mFN0E6xW3U6fZyDf7xKEEvxssM96qLq4E0ms/edit
 (omekapo) https://discordapp.com/channels/301377942062366741/316066233755631616/727616172652232815
 (1st definition of te) https://discordapp.com/channels/301377942062366741/375591429608570881/727575840187219989
 

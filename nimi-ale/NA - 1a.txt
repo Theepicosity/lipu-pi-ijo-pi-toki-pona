@@ -132,7 +132,6 @@ kin -
 1. emotion, emphasis, confirmation
 (content word)
 2. also
-3. (nonstandard) the amount -2
 
 kiwen - 
 (content word)
@@ -483,6 +482,7 @@ tan -
 taso - 
 (semi-conjunction)
 1. but, however
+(modifier particle)
 2. only
 
 tawa - 

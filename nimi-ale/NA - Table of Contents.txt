@@ -1,20 +1,25 @@
 NIMI ALE
 Written by kule epiku Atawan
-Version 1.8
+Version 1.10
 
 TABLE OF CONTENTS
-1. Officially Supported Words
-	1a. Words in Pu
+1. Generally Recognized Words
+	1a. Words in Toki Pona: The Language of Good
 	1b. Words in Nimi Ale Pona
-2. Words in Discord Servers
-	2a. Words in Ma Pona pi Toki Pona
-	2b. Words in Other English Discord Servers
+2. Words from English Communities
+	2a. Words from Ma Pona pi Toki Pona
+	2b. Words from Other English Discord Servers
+	2c. Words from English Telegram Groups
+	2d. Words from English Matrix Groups
 3. Words from English Websites
 	3a. Words from Toki Pona Epansa and Related Sources
 	3b. Words from the Toki Pona Subreddit
 	3c. Words from the Toki Pona Forums
-4. Words from Other Language Websites
+4. Words from Non-English Communities
 5. Words from Relexes
+
+IMPORTANT NOTE
+This is for RESEARCH PURPOSES ONLY! If you are just starting toki pona and are looking for commonly used words, please don't use this!
 
 PARTS OF SPEECH
 kala Salan te:
@@ -34,14 +39,14 @@ A word can be considered a new word if it meets both of these conditions:
 1. The word has been declared as a word in toki pona.
 2. The word has been given a definition.
 
-TOTAL COUNT: mute
+TOTAL COUNT: 1489
 
-LAST UPDATED: 8/30/2020, 21:42 MST
+LAST UPDATED: 12/15/2020, 8:01 MST
 
 CREDITS
 Created and written by kule epiku Atawan
 "Parts of Speech" written by kala Salan
-Thank you to nasin Sasalin, palisa jelo Natan, waso sona Likipi, kala pona Tonyu, sictoabu, jan Niko, ko, kala Salan, jAna, jan Melako, sitelen q, and pipi Kisi for providing extra words and emotional support.
+Thank you to jan Sasalin, palisa jelo Natan, waso sona Likipi, kala pona Tonyu, soweli nata, sictoabu, akesi Vera, ko, kala Salan, jAna, jan Melako, sitelen q, pipi tonsi Kisi, kule Sijo, jan Olipija, jan jan, and jan Pake for providing extra words, emotional support, and pinging me more times than neccessary.
 
 DEFINITION TEMPLATE
 

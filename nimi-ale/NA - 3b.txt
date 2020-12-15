@@ -5,13 +5,29 @@ ala -
 (content word)
 1. a prefix denoting powers of 10 in the jan Kosi number system
 
+alisatanse -
+(content word)
+1. sterotype, cliché
+
 apenta -
 (content word)
 1. finger, appendage, hose, flexible, bend
 
+apikolaki -
+(content word)
+1. happy-go-lucky
+
 ato -
 (content word)
 1. shadow, echo, reflection, trace, record
+
+esunolinjanasamamanimijelonenalawawasonasinpinikenokasinamakonanpa -
+(content word)
+1. ambiguous, gibberish, blurring
+
+jupeko -
+(content word)
+1. an update that makes things worse
 
 ke -
 (content word)
@@ -20,6 +36,10 @@ ke -
 kepe -
 (content word)
 1. refer to kepeken, in section 1a
+
+kijete -
+(content word)
+1. small animal
 
 kulu -
 (content word)
@@ -61,9 +81,17 @@ mijunpa -
 (content word)
 1. attractive man
 
+mula -
+(content word)
+1. pizza, mozzeralla sticks, pizza rolls
+
 musisi -
 (content word)
 1. chill
+
+otaku - 
+(content word)
+1. fan of toki pona
 
 oto -
 (content word)
@@ -88,6 +116,14 @@ papu -
 pasi - 
 (content word)
 1. refer to pona, in section 1a
+
+patawala - 
+(content word)
+1. himouto
+
+pela - 
+(content word)
+1. beatiful
 
 ponkin - 
 (content word)
@@ -121,6 +157,10 @@ tanaken -
 (content word)
 1. think, ruminate, ponder, consider, figure, cogitate
 
+tatopun -
+(content word)
+1. create something transitory for the purpose of giving an example or for ironic effect 
+
 wene -
 (content word)
 1. reject, refuse, expel, eject, excrete, throw
@@ -133,7 +173,7 @@ unpunpa -
 (content word)
 1. score on someone
 
-COUNT: 33
+COUNT: 43
 
 Sources: 
 (pasi) https://www.reddit.com/r/tokipona/comments/3g98le/list_of_all_toki_pona_words_changing_post_kial_mi/
@@ -143,3 +183,8 @@ Sources:
 (apenta, ato, oto, pope, pala, siso, taku, tamu, tanaken, wene, tata) https://www.reddit.com/r/tokipona/comments/en4wk9/just_found_an_old_list_of_words_i_wanted_when/
 (kuwi) https://www.reddit.com/r/tokipona/comments/ht35m1/proposal_kuwi_queer/
 (number compound words) https://www.reddit.com/r/tokipona/comments/i3d2au/my_personal_number_system_dont_hurt_me/
+(esunolinjanasamamanimijelonenalawawasonasinpinikenokasinamakonanpa) https://www.reddit.com/r/mi_lon/comments/hzl1n5/sitelen_musi_pi_jan_te/
+(adaptations of joke words) https://cdn.discordapp.com/attachments/729626372229824542/744325478835421184/image0.png
+(apikolaki) https://www.reddit.com/r/mi_lon/comments/j4rwjx/mi_lon/
+(pela, patawala, otaku) https://www.reddit.com/r/mi_lon/comments/ipsru2/jan_sin_li_pakala/
+(alisatanse, tatopun) https://www.reddit.com/r/tokipona/comments/kbn9nz/are_nonpu_words_like_omen_or_polinpin_being_used/

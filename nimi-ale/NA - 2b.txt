@@ -17,6 +17,10 @@ ankola -
 (content word)
 1. again
 
+ansonimekasi - 
+(content word)
+1. speak Esperanto and hate toki pona
+
 apula - 
 (content word)
 1. grease, oil, fat
@@ -44,6 +48,10 @@ eni -
 ente - 
 (semi-preposition)
 1. between
+
+episote - 
+(content word)
+1. episode
 
 ese - 
 (content word)
@@ -91,6 +99,18 @@ ke -
 (particle)
 1. relative clause marker
 
+kemasu -
+(content word) {syn. kemulu, kemi}
+1. gamer
+
+kemi - 
+(content word) {syn. kemasu, kemulu}
+1. gamer
+
+kemulu - 
+(content word) {syn. kemasu, kemi}
+1. gamer
+
 kijupa - 
 (content word)
 1. quit, leave
@@ -114,6 +134,10 @@ kume -
 kunseli - 
 (content word)
 1. art
+
+kute - 
+(content word)
+1. good day
 
 laki - 
 (content word)
@@ -158,6 +182,10 @@ mapa -
 masu - 
 (content word)
 1. powder
+
+meso - 
+(content word)
+1. middle, medium, mediocre, neither one
 
 mesija - 
 (content word)
@@ -329,6 +357,10 @@ tenlil -
 (content word)
 1. a dialect of toki pona spoken on the Toki pona forums
 
+tewi - 
+(content word)
+1. must, have to
+
 to - 
 (content word)
 1. the digit 9 in the sictoabu number system
@@ -365,12 +397,16 @@ wi -
 (content word)
 1. the digit 8 in the sictoabu number system
 
-COUNT: 90
+COUNT: 98
 
 Sources:
-(words from toki ma) https://discord.gg/UcHnzpy
+(inspiration for toki ma) https://discord.gg/UcHnzpy
 (jeje) https://discordapp.com/channels/236058291879280640/236058491884666883/557948916797276160
 (usiku) https://discordapp.com/channels/236058291879280640/236068401452285952/488056778395877385
 (ta, kalina, moto, kata) https://discordapp.com/channels/236058291879280640/236068401452285952/418259354232291328
 (leke) https://discordapp.com/channels/236058291879280640/236068401452285952/414253337488261130
 (jasu) https://discordapp.com/channels/236058291879280640/236058491884666883/306982017868759061
+(words for gamer) https://discord.com/channels/251910419017498624/251910419017498624/782794714155450408
+(tewi) https://discord.com/channels/251910419017498624/251910419017498624/782794882644574209
+(kute) https://discord.com/channels/251910419017498624/251910419017498624/782794379190468610
+(ansonimekasi) https://discord.com/channels/251910419017498624/251910419017498624/785584680237924392

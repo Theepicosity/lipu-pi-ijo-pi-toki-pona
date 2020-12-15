@@ -5,25 +5,9 @@ ajuta -
 (content word)
 1. help
 
-ata -
-(content word)
-1. the digit 4 in jan Sonja's nonsense number system
-
 atome - 
 (content word)
 1. atom, atomic, nuclear
-
-bit -
-(content word)
-1. the digit 8 in jan Sonja's nonsense number system
-
-desi -
-(content word)
-1. the digit 10 in jan Sonja's nonsense number system
-
-dun -
-(content word)
-1. the digit 2 in jan Sonja's nonsense number system
 
 elemute - 
 (content word)
@@ -42,8 +26,8 @@ inteli -
 1. intelligent
 
 intenetu - 
-(content word) {syn. nesi}
-1. refer to linluwi, in section 1b
+(content word)
+1. internet
 
 kento - 
 (content word)
@@ -105,17 +89,9 @@ monsuto -
 (content word)
 1. refer to monsuta, in section 1b
 
-nebin -
-(content word)
-1. the digit 9 in jan Sonja's nonsense number system
-
 nesi - 
 (content word) {syn. intenetu}
 1. refer to linluwi, in section 1b
-
-panu -
-(content word)
-1. the digit 5 in jan Sonja's nonsense number system
 
 pesa - 
 (content word)
@@ -137,14 +113,6 @@ sekonto -
 (content word)
 1. second of time
 
-sibet -
-(content word)
-1. the digit 7 in jan Sonja's nonsense number system
-
-sis -
-(content word)
-1. the digit 6 in jan Sonja's nonsense number system
-
 sito - 
 (content word)
 1. site
@@ -156,10 +124,6 @@ talika -
 tana - 
 (content word)
 1. idea, concept
-
-tari -
-(content word)
-1. the digit 3 in jan Sonja's nonsense number system
 
 tele - 
 (content word)
@@ -173,15 +137,11 @@ teni -
 (content word)
 1. refer to tenni, in section 2a
 
-uni -
-(content word)
-1. the digit 1 in jan Sonja's nonsense number system
-
 uniwesita - 
 (content word)
 1. university
 
-COUNT: 45
+COUNT: 35
 
 Sources: 
 https://tpe.neocities.org/

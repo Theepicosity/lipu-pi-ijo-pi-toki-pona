@@ -1,0 +1,8 @@
+particle words - words performing purely grammatical functions and have no semantic meaning.
+content words - words performing purely semantic functions and have no grammatical meaning. 
+prepositions - words that can establish a relationship to a prepositional phrase.
+preverbs - words that can modify verbs in the opposite direction of regular word order.
+conjunctions - words that can link concepts between multiple sentences together.
+modifier particles -  words performing semantic functions while being exclusively used as modifiers.
+interjections - words or clusters able to be said in isolation as an exclamation or remark.
+loaned adjectives - loaned words that can act strictly as modifiers on native TP content words to name said concept in context.
