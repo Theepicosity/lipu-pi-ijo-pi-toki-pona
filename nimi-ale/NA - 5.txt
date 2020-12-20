@@ -960,7 +960,7 @@ gu -
 xu - 
 1. \, :
 
-KALA TONJU'S RELEX:
+KALA PONA TONYU'S RELEX:
 
 YyY -
 1. toki
@@ -1301,6 +1301,6 @@ Sources:
 (akesi's relex) https://discordapp.com/channels/301377942062366741/316066233755631616/665500651454726166
 (jan Ana's relex) https://docs.google.com/spreadsheets/d/1ks0mV7iToTWwqcrBhLOuxQThEv4KfdPRrrnm83PKjDc/edit?usp=sharing
 (niftig's relex) https://gist.github.com/niftg/06bc7f6b29f66678fd47bbe603b60e28#file-tplddic-tsv
-(kala Tonju's relex) https://cdn.discordapp.com/attachments/301377942062366741/728926011823095848/Screenshot_2020-06-13_at_7.13.02_PM.png
+(kala pona Tonyu's relex) https://cdn.discordapp.com/attachments/301377942062366741/728926011823095848/Screenshot_2020-06-13_at_7.13.02_PM.png
 (sitelen Aki) https://docs.google.com/spreadsheets/d/1w97oh0RXp_Ea7bg9XpuarI2CnnSED7e6oFLDgAhktjo/edit#gid=0
 Note: This page is sorted slightly differently, in that it is sorted by relex in order of the sources. Also, keep in mind that these lists do not show every word in each relex, only the words that are new and don't appear in other relexes. Also also, for the sake of simplicity, parts of speech are not labelled.
