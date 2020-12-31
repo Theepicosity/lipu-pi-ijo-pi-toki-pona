@@ -39,9 +39,9 @@ A word can be considered a new word if it meets both of these conditions:
 1. The word has been declared as a word in toki pona.
 2. The word has been given a definition.
 
-TOTAL COUNT: 1489
+TOTAL COUNT: 1524
 
-LAST UPDATED: 12/15/2020, 8:01 MST
+LAST UPDATED: 12/29/2020, 17:51 MST
 
 CREDITS
 Created and written by kule epiku Atawan
