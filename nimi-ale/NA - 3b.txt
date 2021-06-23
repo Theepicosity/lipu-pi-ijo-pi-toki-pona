@@ -21,6 +21,10 @@ ato -
 (content word)
 1. shadow, echo, reflection, trace, record
 
+eki -
+(content word)
+1. cross
+
 esunolinjanasamamanimijelonenalawawasonasinpinikenokasinamakonanpa -
 (content word)
 1. ambiguous, gibberish, blurring
@@ -188,3 +192,4 @@ Sources:
 (apikolaki) https://www.reddit.com/r/mi_lon/comments/j4rwjx/mi_lon/
 (pela, patawala, otaku) https://www.reddit.com/r/mi_lon/comments/ipsru2/jan_sin_li_pakala/
 (alisatanse, tatopun) https://www.reddit.com/r/tokipona/comments/kbn9nz/are_nonpu_words_like_omen_or_polinpin_being_used/
+(eki) https://www.reddit.com/r/tokipona/comments/ld1i9f/eki/

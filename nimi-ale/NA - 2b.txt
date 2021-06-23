@@ -159,6 +159,10 @@ lepi -
 (content word)
 1. category, type, organize
 
+lewisipin - 
+(content word)
+1. rethink
+
 lin - 
 (content word)
 1. gender, sex
@@ -211,6 +215,10 @@ moto -
 (content word)
 1. locomotion, energy, movement, force
 
+muje -
+(content word)
+1. a number that appears to be a large amount when drunk but is actually just a small number
+
 napa - 
 (content word)
 1. take
@@ -250,6 +258,10 @@ oni -
 pa - 
 (particle)
 1. reflexive prediacte basically
+
+panle - 
+(content word)
+1. panel
 
 pekunta - 
 (content word)
@@ -397,7 +409,7 @@ wi -
 (content word)
 1. the digit 8 in the sictoabu number system
 
-COUNT: 98
+COUNT: 101
 
 Sources:
 (inspiration for toki ma) https://discord.gg/UcHnzpy
@@ -410,3 +422,6 @@ Sources:
 (tewi) https://discord.com/channels/251910419017498624/251910419017498624/782794882644574209
 (kute) https://discord.com/channels/251910419017498624/251910419017498624/782794379190468610
 (ansonimekasi) https://discord.com/channels/251910419017498624/251910419017498624/785584680237924392
+(lewisipin) https://discord.com/channels/770350915303505941/770350915868688406/795628527507734538
+(panle) https://discord.com/channels/@me/741381762264858685/800862058844258354
+(muje) https://discord.com/channels/800662632431484958/800663270972194826/807842051956932648
