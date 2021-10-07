@@ -1,15 +1,24 @@
 alasa: 
-/10 li pini
+/19 li pini
 o alasa e palisa suli 20 #tawa jan pi koli masi.
 o pana e telo tawa jan Mini.
 o pana e tomo tawa jan Kawasita.
 o alasa e luka tawa jan kon Wilo.
 o alasa e nasin lanpan pi len lawa #pi jan Sasi.
-o pana e ijo suli pi kulupu sina #tawa awen Taniwatote.
+o pana e ilo open tawa jan pali.
 o utala e monsuta lon ma anpa.
 o lukin e tomo pali lon 3,5.
 o toki e wile sina pi jan lawa.
 o alasa e kiwen wawa 20 #tawa jan pi pakala kiwen.
+o alasa e len wawa #tawa jan lete Iko.
+o jo e ko walo tawa kasi suli.
+o jo e lipu ken pi tawa ma.
+o pana e ilo utala tawa jan Tusi.
+o tawa e soko loje tawa ma tomo.
+o alasa e soweli pi jan Mali.
+o pali e telo pi pilin pona.
+o pana e kili tawa jan pi pali pan.
+o pana e pipi kala tawa pali moku.
 tomo li pini!
 ale li kasi
 ma li lete
@@ -23,16 +32,17 @@ soweli li wawa
 telo li suli
 pali li lili
 pipi li utala
-
-
+anpa li lukin
+tomo li lipu
 
 
 
 
 
 lon li ala
-jan majuna li lon tomo
+jan nena li lon tomo
 jan pali li lon tomo
+jan nasa li lon tomo
 gloves_acc_item len luka #li len namako #awen +1
 scope_acc_item lukin suli #li len namako #sina ken lukin suli.
 magnet_acc_item kiwen lawa #li len namako #ijo li kama tawa sina
@@ -52,8 +62,11 @@ rapidautofire_acc_item tenpo wawa #li len namako
 speedometer_acc_item ilo tenpo tawa #li len namako #ilo li kepeken tenpo lili.
 dreamcatcher_acc_item len isipin #li len namako #kama monsuta li lili.
 houndstooth_acc_item sitelen kiwen #li len namako #ilo utala li suli.
+button_acc_item sike lili #li len namako #ijo li ken kama tu lon tenpo ken.
+pinkbow_acc_item len lawa suwi #li len namako #ona li pona mute!
 axe_axe_item ilo kasi #kasi wawa 1
 badaxe_axe_item ilo kasi wawa #kasi wawa 1.5
+haxe_axe_item ilo kasi wawa wawa #kasi wawa 2
 pickaxe_axe_item ilo kiwen #kiwen wawa 1 #li ken pakala kiwen kapesi en kiwen kule.
 acorn_block_item mama pi kasi suli #li ken lon ma
 flowerplant_block_item mama kasi #li ken lon ma
@@ -72,6 +85,12 @@ tripod_block_item ilo sitelen #li ken lon ma
 carpet_block_item len anpa loje #li ken lon ma
 flatweaverug_block_item len anpa laso #li ken lon ma
 kilim_block_item len anpa kapesi #li ken lon ma
+bookshelf_block_item supa lipu #li ken lon ma
+ottoman_block_item supa #li ken lon ma
+nightstand_block_item supa pi tenpo pimeja #li ken lon ma
+washingmachine_block_item ilo len pi weka jaki #li ken lon ma
+fence_block_item pake #li ken lon ma
+torch_block_item palisa suno #li ken lon ma
 tulip_block_item kasi jelo #li ken lon ma
 rose_block_item kasi loje #li ken lon ma
 daisy_block_item kasi walo #li ken lon ma
@@ -79,6 +98,7 @@ lavender_block_item kasi loje laso #li ken lon ma
 lily_block_item kasi loje walo #li ken lon ma
 sunflower_block_item kasi suno #li ken lon ma #li pana e tenpo.
 jungleflower_block_item kasi laso wawa #li ken lon ma #ni li pona tawa pipi jelo!
+icelily_block_item kasi lete #li ken lon ma
 leddisplay_block_item leko suno kule #li ken lon ma
 boots_boots_item len noka #li ken len #1 awen
 iceboots_boots_item len noka lete #li ken len #awen 2 #len sama la awen +1
@@ -86,7 +106,8 @@ appleboots_boots_item len noka kili #li ken len #awen 1.5 #len sama la kili loje
 crystalboots_boots_item len noka pi kiwen wawa #li ken len #awen 3 #len sama la utala +0.5
 yellowboots_boots_item len noka jelo #li ken len #awen 4 #len sama la utala +1 pi ilo tawa
 greenboots_boots_item len noka pi laso kasi #li ken len #awen 4 #len sama la utala +1 pi ilo wawa
-blueboots_boots_item len noka pi laso telo #li ken len #awen 4 #len sama la utala +1 pi ilo utala
+blueboots_boots_item len noka pi laso telo #li ken len #awen 4 #len sama la utala +1 pi palisa utala
+redboots_boots_item len noka loje #li ken len #awen 5 #len sama la utala wawa +1
 mercurialboots_boots_item len noka pi tawa wawa #li ken len #awen 1.5 #tawa sina li wawa.
 iceskates_boots_item len noka pi tawa lete #li ken len #awen 1 #sina ken tawa pona lon lete.
 chestplate_chestplate_item len sijelo #li ken len #awen 1
@@ -96,6 +117,7 @@ crystalchestplate_chestplate_item len sijelo pi kiwen wawa #li ken len #awen 3 #
 yellowchestplate_chestplate_item len sijelo jelo #li ken len #awen 4 #len sama la utala +1 pi ilo tawa
 greenchestplate_chestplate_item len sijelo pi laso kasi #li ken len #awen 4 #len sama la utala +1 pi ilo wawa
 bluechestplate_chestplate_item len sijelo pi laso telo #li ken len #awen 4 #len sama la utala +1 pi ilo utala
+redchestplate_chestplate_item len sijelo loje #li ken len #awen 5 #len sama la utala wawa +1
 helmet_helmet_item len lawa #li ken len #1 awen
 icehelmet_helmet_item len lawa lete #li ken len #awen 2 #len sama la awen +1
 applehelmet_helmet_item len lawa kili #li ken len #awen 1.5 #len sama la kili loje li pona mute
@@ -103,12 +125,15 @@ crystalhelmet_helmet_item len lawa pi kiwen wawa #li ken len #awen 3 #len sama l
 yellowhelmet_helmet_item len lawa jelo #li ken len #awen 4 #len sama la utala +1 pi ilo tawa
 greenhelmet_helmet_item len lawa pi laso kasi #li ken len #awen 4 #len sama la utala +1 pi ilo wawa
 bluehelmet_helmet_item len lawa pi laso telo #li ken len #awen 4 #len sama la utala +1 pi ilo utala
+redhelmet_helmet_item len lawa loje #li ken len #awen 5 #len sama la utala wawa +1
+tophat_helmet_item len lawa pimeja #li ken len #awen 0 #utala +2 pi ilo wawa
 lantern_light_item suno lili #li pana e suno.
 firespirit_light_item suno pipi #li pana e suno. #ona li wile weka!
 fireflybottle_light_item suno pipi #li pana e suno.
 tupilack_magic_item kiwen monsuta walo #utala wawa 2 #ijo ni li pona mute tawa lukin.
+endlessspraybottle_magic_item poki telo pi pini ala #utala wawa 2
 popsicle_magic_item suwi lete #utala wawa 2
-dasustaff_magic_item ilo wawa nasa #utala wawa 4
+dasustaff_magic_item ilo wawa nasa #utala wawa 3
 gemstaff_magic_item ilo kiwen wawa #utala wawa 2 #li lon e sike tu tu.
 instar_magic_item ilo wawa jelo #utala wawa 2 #li tawa e mun tu tu.
 log_mat_item palisa pi kasi suli
@@ -121,9 +146,12 @@ stick_mat_item palisa
 bottle_mat_item poki
 waterbottle_mat_item poki telo
 waterbottle2_mat_item poki telo
-mushroomcap_mat_item lawa pi kili nasa loje #ona li sama lukin tawa len lawa jan...
+mushroomcap_mat_item soko loje pi len lawa #ona li sama lukin tawa len lawa jan...
 seashell_mat_item kiwen len kala
 mudball_mat_item ko kapesi
+silk_mat_item linja
+glue_mat_item ko walo pona
+playingcard_mat_item lipu musi #o kepeken tawa monsuta lipu.
 iceball_orb_item sike lete
 crystalball_orb_item sike pi kiwen wawa
 yellowball_orb_item sike jelo
@@ -133,35 +161,53 @@ redball_orb_item sike loje
 apple_potion_item kili loje #li pona 2 e sijelo
 plum_potion_item kili pimeja #li pona 2 sijelo
 nostle_potion_item kili pi kasi utala #li pona 2 e sijelo
+opal_potion_item kiwen pi kule mute #li lili e tenpo pi ken pona ala.
 tabbouleh_potion_item moku kasi #li pona e sijelo sina lon tenpo 60.
 chitlins_potion_item moku insa soweli #li pona e sijelo sina lon tenpo 60.
 sushi_potion_item moku pan walo pi selo kasi #li pona e sijelo sina lon tenpo 60.
+operacake_potion_item pan pi kalama musi #li pona e sijelo sina lon tenpo 60.
+makroudh_potion_item pan pi leko mun #li pona e sijelo sina lon tenpo 60.
+crumpet_potion_item pan pi ma Inli #kasi Mantake li olin e moku ni!
 potion_potion_item telo misikeke #li pona 5 e sijelo
 honeybottle_potion_item telo jelo suwi #li pona 4 e sijelo
+syrupbottle_potion_item telo kapesi suwi #li pona 4 e sijelo
 heartcontainer_potion_item poki sijelo #li pana pi mute 1 e sijelo
-warpstar_potion_item mun pona #li tawa e sina tawa ma ante.
+warpstar_potion_item mun pona #li weka e sina tawa ma ante.
 shrinkcheese_potion_item moku pi kama lili #pona...?
 mint_potion_item suwi walo #li pana e tawa wawa lon tenpo lili.
 daze_potion_item telo nasa #li pana e nasa. #li ken pali e telo wawa mute.
 darkness_potion_item telo pi lukin pimeja #li pana e pimeja.
-shuriken_proj_item ilo utala kiwen #utala wawa 1
-throwingcrystal_proj_item ilo utala pi kiwen wawa #utala wawa 1.5
-dart_proj_item ilo utala musi #utala wawa 2
+handiness_potion_item telo pi wawa ilo #li pana e wawa ilo.
+fighting_potion_item telo utala #li pana e wawa utala.
+defense_potion_item telo pi pakala ala #li pana e pakala ala.
+happiness_potion_item telo pi pilin pona #li pilin pona e sina.
+soda_potion_item telo suwi laso #"pali telo li tan akesi."
+soda2_potion_item telo suwi loje #"pali telo li tan kili."
+soda3_potion_item telo suwi ante #"pali telo li tan... ante."
+rootbeer_potion_item telo nasa pi nasa ala #li pana e wawa utala.
+shuriken_proj_item ilo utala kiwen #utala wawa 0.5
+throwingcrystal_proj_item ilo utala pi kiwen wawa #utala wawa 1
+dart_proj_item ilo utala musi #utala wawa 1.5
 grenade_proj_item ilo seli wawa #utala wawa 6
 opalerorb_proj_item sike wawa #utala wawa 2 #4 li ken lon tenpo sama.
-honeycomb_proj_item poki ko #utala wawa 3
+honeycomb_proj_item poki ko #utala wawa 2
+jack_proj_item ijo musi #utala wawa 2
 sword_sword_item ilo utala #utala wawa 1
 sandsword_sword_item ilo utala pi ko jelo #utala wawa 1.5
 crystalsword_sword_item ilo utala pi kiwen wawa #utala wawa 2
-strongarm_sword_item luka utala #utala wawa 2 #li ken weka mute e monsuta.
+strongarm_sword_item luka utala #utala wawa 2 #li ken tawa mute e monsuta.
 keysaber_sword_item ilo utala pi ilo open #utala wawa 2-3 #monsuta li kama moli la utala wawa li kama suli.
-pollinator_sword_item ilo utala sike jelo #utala wawa 3
-doorkey_tool_item ilo pi lupa open #sina ken tawa lon lupa pi ma kiwen.
-citykey_tool_item ilo pi ma tomo #ni li ijo suli, taso ni li pali ala.
+pollinator_sword_item ilo utala pi sike jelo #utala wawa 3.5
+baton_sword_item palisa utala #utala wawa 3 #li ken utala wawa lon ken 1/4.
+crabclaw_sword_item luka pi pipi kala #utala wawa 3 #li tawa e monsuta tawa sina.
+doorkey_tool_item ilo pi lupa open #o kepeken tawa lupa pi ma anpa.
+citykey_tool_item ilo pi ma tomo #o kepeken tawa... ijo?
+scissors_tool_item ilo kipisi #li ken kipisi e kasi.
 magicconch_tool_item kiwen kala wawa #li tawa e sina tawa ma telo.
 letter_tool_item lipu #ni li tawa sina ala...
 philletter_tool_item lipu wile pi jan lawa pi jan Alasa #sina o kepeken ni tawa toki pi wile sina!
 busterletter_tool_item lipu wile pi jan lawa pi jan Pake #sina o kepeken ni tawa toki pi wile sina!
 tennisracket_tool_item ilo musi jasima #li jasima e ijo tawa.
 coupon_tool_item lipu esun #ni li sama mani 10, lon tenpo esun musi!
+kite_tool_item musi sewi #waaa!
 coin mani
