@@ -28,6 +28,12 @@
 				float:center;
 				color: red;
             }
+            janpoka {
+				font-size: 18;
+				font-family: Tahoma;
+				float:center;
+				color: blue;
+            }
 			text-big {
 				font-weight: bold;
 				font-size: 50;
@@ -93,15 +99,13 @@
 		<audio id="music" src="music1.wav" autoplay loop>
 		  Your browser does not support the <code>audio</code> element.
 		</audio>
-		<img id="s" src="sitelen\lonwan\lonwan0.png" style="width:auto;">
+		<img id="s" src="sitelen\lonwan\lonwan0.png" style="width:auto;" usemap="#nasin">
 		<br/>
 		<text id="n">IJO PI SUPA JAN</text>
 		<br/>
-		<button class="button-cool" id="nenakama" onclick="kama()">>></button>
-		<br/>
-		<button class="button-cool" id="nenapali1" onclick="pali1()">___</button>
-		<button class="button-cool" id="nenapali2" onclick="pali2()">___</button>
-		<button class="button-cool" id="nenapali3" onclick="pali3()">___</button>
+		<map name="nasin" id="a">
+			<area shape="rect" coords="0,0,800,600" alt="kama" onclick="kama(1)">
+		</map>
 		<script type="text/javascript" src="sijelo.js"></script>
 	</body>
 </html>
