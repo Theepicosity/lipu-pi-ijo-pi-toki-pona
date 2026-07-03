@@ -45,19 +45,27 @@
 		kama_open()
 
 		async function kama_open() {
-			const url = "https://file.garden/Zi2owWlFSSn-KxYd/musi-pi-leko-sitelen/nanpa.json";
-			try {
-				const response = await fetch(url);
-				if (!response.ok) {
-					throw new Error(`Response status: ${response.status}`);
+			const url = "https://file.garden/Zi2owWlFSSn-KxYd/musi-pi-leko-sitelen/musi";
+			var i = 7;
+			var pakala = false;
+			while (!pakala) {
+				try {
+					i++
+					response = await fetch(url + i);
+					if (!response.ok) {
+						if (response.status == "404") {
+							console.log("mi kama sona e ni: musi pi sin ale li musi nanpa " + (i-1));
+							musi_ni.nanpa = i-1
+							kama_musi(i-1);
+						}
+						else {
+							throw new Error(`Response status: ${response.status}`);
+						}
+						pakala = true
+					}
+				} catch (error) {
+					console.error(error.message);
 				}
-
-				const result = await response.json();
-				console.log("mi kama sona e ni: musi pi sin ale li musi nanpa " + result.nanpa);
-				musi_ni.nanpa = result.nanpa
-				kama_musi(result.nanpa);
-			} catch (error) {
-				console.error(error.message);
 			}
 		}
 
